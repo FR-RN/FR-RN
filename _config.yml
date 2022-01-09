@@ -5,10 +5,10 @@ email: Nicolas.Rougier@inria.fr
 contact: Nicolas.Rougier@inria.fr
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# url: https://fr-rn.github.io/FR-RN
-# baseurl: /FR-RN
-url: "https://www.french-rn.org/FR-RN"
-baseurl: "/FR-RN"
+url: https://fr-rn.github.io/FR-RN
+baseurl: /FR-RN
+# url: "https://www.french-rn.org/FR-RN"
+# baseurl: "/FR-RN"
 
 plugins:
  - jekyll-feed
