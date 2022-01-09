@@ -21,9 +21,6 @@ jobs:
         ruby-version: 2.7.4
         bundler-cache: true
 
-#    - name: Bundling things
-#      run: bundle exec rake
-
     - name: Build Jekyll site
       run: |
         set -xo pipefail
@@ -31,7 +28,6 @@ jobs:
         gem install bundler
         bundle install
         bundle exec jekyll build
-#        cp CNAME _site/CNAME
         
     - name: Deploy
       env:
@@ -40,6 +36,7 @@ jobs:
         set -xo pipefail
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git fetch
         git checkout master
         ls -Q | grep -v _site | xargs rm -rf
         mv _site/* .
