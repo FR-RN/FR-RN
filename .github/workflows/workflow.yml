@@ -28,6 +28,7 @@ jobs:
         gem install bundler
         bundle install
         bundle exec jekyll build
+        cp CNAME _site/CNAME
         
     - name: Deploy
       env:
