@@ -32,3 +32,6 @@ gem 'jekyll-scholar'
 # A Jekyll plugin to cache the rendering of Liquid includes
 gem 'jekyll-include-cache'
 
+# Metadata tags for search engines 
+gem 'jekyll-seo-tag'
+
