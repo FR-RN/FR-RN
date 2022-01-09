@@ -37,6 +37,19 @@ The Reproducibility Network is made of a number of international nodes whose num
 {% endfor %}
 </ul>
 
+# Nationale initiatives
+
+## Comité pour la Science Ouverte ([ouvrirlascience.fr](https://www.ouvrirlascience.fr/))
+
+The Committee for Open Science works as a result of the political
+policy and national plan for open science introduced during the annual
+conference of the League of European Research Libraries in 2018. This
+plan proposes three main axes to generalize open access to
+publications, to structure and make research data open and to fully
+participate in a sustainable European and international dynamic.
+The site [ouvrirlascience.fr](https://www.ouvrirlascience.fr/) run by the Committee for Open Science accompanies and supports national measures. It is aimed at all actors who play a role in open science and all interested citizens. Its’ objective are to increase knowledge about open science, to explain the challenges to be overcome to implement open science and to increase awareness of the scientific, societal and financial issues at stake. The site provides news, resources – founding texts, reports, studies, sites and databases – and a schedule of upcoming events which are linked to the three main components of the plan and cover all scientific disciplines.
+
+
 # Internationale initiatives
 
 ## Center for Open Science ([www.cos.io](https://www.cos.io))
