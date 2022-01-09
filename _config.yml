@@ -4,7 +4,8 @@ description: A national peer-led consortium for the promotion and dissemination 
 email: Nicolas.Rougier@inria.fr
 contact: Nicolas.Rougier@inria.fr
 show_excerpts: false # set to true to show excerpts on the homepage
-
+url: "https://fr-rn.github.io"
+  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
