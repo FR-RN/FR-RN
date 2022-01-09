@@ -8,7 +8,7 @@ permalink: /resources/
 
 ## Mailing list
 
-The objective of the list [recheche-reproductible](https://listes.univ-orleans.fr/sympa/subscribe/recherche-reproductible) is to compare the points of view of different scientific disciplines on the notion of reproducibility and to list the different initiatives taken, particularly at the national level. Beyond the diagnosis specific to each discipline, the aim is to identify certain common problems and to evoke, with different actors (researchers, scientific publishers, etc.), the solutions that can emerge around the concept of executable publication.
+The objective of the list [recherche-reproductible](https://listes.univ-orleans.fr/sympa/subscribe/recherche-reproductible) is to compare the points of view of different scientific disciplines on the notion of reproducibility and to list the different initiatives taken, particularly at the national level. Beyond the diagnosis specific to each discipline, the aim is to identify certain common problems and to evoke, with different actors (researchers, scientific publishers, etc.), the solutions that can emerge around the concept of executable publication.
 
 ## Discussion forum
 
