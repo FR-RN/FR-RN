@@ -15,12 +15,12 @@ jobs:
         ref: source
 
     - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v2
-      uses: ruby/setup-ruby@v1
+    - uses: actions/setup-ruby@v2
+    - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
         bundler-cache: true
-      run: bundle exec rake
+    - run: bundle exec rake
 
     - name: Build Jekyll site
       run: |
