@@ -14,3 +14,21 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-scholar
+
+scholar:
+  style: acm-siggraph
+  locale: en
+  sort_by: none
+  order: ascending
+  group_by: none
+  group_order: ascending
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: ""
+  replace_strings: true
+  join_strings:    true
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+  query: "@*"
+    
