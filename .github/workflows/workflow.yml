@@ -1,0 +1,42 @@
+name: Build
+
+on:
+  push:
+    branches:
+    - source
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+      with:
+        ref: source
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Build Jekyll site
+      run: |
+        set -xo pipefail
+        rm -rf _site/*
+        gem install bundler
+        bundle install
+        bundle exec jekyll build
+        cp CNAME _site/CNAME
+    - name: Deploy
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        set -xo pipefail
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git checkout master
+        ls -Q | grep -v _site | xargs rm -rf
+        mv _site/* .
+        rm -rf _site
+        [[ -n "$(git status --porcelain)" ]] || exit 0
+        git add .
+        git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
+        git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master
