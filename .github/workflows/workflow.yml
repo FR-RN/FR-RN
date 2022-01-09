@@ -21,8 +21,8 @@ jobs:
         ruby-version: 2.7.4
         bundler-cache: true
 
-    - name: Bundling things
-      run: bundle exec rake
+#    - name: Bundling things
+#      run: bundle exec rake
 
     - name: Build Jekyll site
       run: |
