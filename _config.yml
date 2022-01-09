@@ -24,7 +24,7 @@ scholar:
   group_order: ascending
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: ""
+  bibliography_template: bib
   replace_strings: true
   join_strings:    true
   details_dir:    bibliography
