@@ -1,0 +1,22 @@
+{{ reference }}
+{% if entry.note == "in press" %}
+  <span class="tag">In press</span>
+{% elsif entry.note == "under review" %}
+  <span class="tag">Under review</span>
+{% elsif entry.note == "to appear" %}
+  <span class="tag">To appear</span>
+{% else %}{{entry.note}}{% endif %}
+{% if entry.addendum %}
+  {{entry.addendum}}
+{% endif %}
+{% if entry.doi %}
+  <a class="tag" href="http://dx.doi.org/{{entry.doi}}">DOI</a>
+{% endif %}
+{% if entry.url %}
+  <a class="tag" href="{{entry.url}}">URL</a>
+{% endif %}
+{% if entry.hal_id %}
+  <a class="tag" href="https://hal.inria.fr/{{entry.hal_id}}">PDF</a>
+{% endif %}
+
+
