@@ -8,6 +8,16 @@
   country: France
   domain: comp. science
   
+- name: Pierre-Antoine Bouttier
+  email: pierre-antoine.bouttier@univ-grenoble-alpes.fr
+  url: 
+  employer: CNRS
+  laboratory: UAR GRICAD
+  sex: male
+  city: Grenoble
+  country: France
+  domain: comp. science
+
 - name: Ludovic Courtès
   email: ludovic.courtes@inria.fr
   url: https://people.bordeaux.inria.fr/lcourtes/

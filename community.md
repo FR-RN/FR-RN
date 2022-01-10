@@ -15,7 +15,11 @@ Here are the French academics (or affiliated to a French research entity) that h
   {% for person in site.data.people %}
     {%if person.city == city %}
       <li>
-        <a href="{{ person.url }}"> {{ person.name }}</a>
+        {%if person.url %}
+          <a href="{{ person.url }}"> {{ person.name }}</a>
+        {% else %}
+          {{ person.name }}
+        {% endif %}  
         ({{ person.laboratory }}, {{ person.city }})
       </li>
     {% endif %}  

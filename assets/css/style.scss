@@ -72,6 +72,7 @@ a, a:visited {
     color: #000090;
 }
 
+
 h1 a, h1 a:visited,
 h2 a, h2 a:visited,
 h3 a, h3 a:visited {
@@ -94,6 +95,7 @@ h1, h1.post-title, h2, h3, h4 {
     padding-top: 1em;
     color: #000090;
 }
+
 
 h1 em {
     font-style: normal;
@@ -151,22 +153,22 @@ p.feed-subscribe {
 
 
 a.tag, .tag {
-    color: #000000;
-    background-color: #f0f0f0;
-/*    border: 0.5px solid #f0f0f0;*/
+    color: #000090;
+    background-color: #f0f0ff;
+/*    border: 0.5px solid #c0c0ff;*/
     border-radius: 2px;
     padding: 2px 5px 0px 5px;
     margin-left: 1px;
     margin-right: 1px;
     font-size: 85%;
     font-weight: 500;
-    transition: 0.25s;
+    transition: 0.5s;
 }
 
 a.tag:hover {
     color: white;
     text-decoration: none;
-    background-color: #555555;
+    background-color: #000090;
 /*    border: 0.5px solid #f0f0f0;*/
     border-radius: 2px;
     padding: 2px 5px 0px 5px;
@@ -174,5 +176,5 @@ a.tag:hover {
     margin-right: 1px;
     font-size: 85%;
     font-weight: 500;
-    transition: 0.25s;
+    transition: 0.5s;
 }
