@@ -2,7 +2,7 @@
 layout: page
 title: Community
 permalink: /community/
-cities: ["Bordeaux", "Grenoble"]
+cities: ["Bordeaux", "Grenoble", "Orléans"]
 ---
 
 # French Reproducibility Network Members

@@ -27,6 +27,16 @@
   city: Bordeaux
   country: France
   domain: comp. science
+
+- name: Konrad Hinsen
+  url: http://dirac.cnrs-orleans.fr/~hinsen
+  email: konrad.hinsen@cnrs.fr
+  employer: CNRS
+  laboratory: Centre de Biophysique Moléculaire
+  sex: male
+  city: Orléans
+  country: France
+  domain: biophysics
   
 - name: Hans Rocha IJzerman
   email: Hans.Ijzerman@univ-grenoble-alpes.fr
@@ -68,12 +78,3 @@
   country: France
   domain: neuroscience
 
-- name: Konrad Hinsen
-  url: http://dirac.cnrs-orleans.fr/~hinsen
-  email: konrad.hinsen@cnrs.fr
-  employer: CNRS
-  laboratory: Centre de Biophysique Moléculaire
-  sex: male
-  city: Orléans
-  country: France
-  domain: biophysics
