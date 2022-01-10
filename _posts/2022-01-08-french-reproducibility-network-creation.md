@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Creation of the French Reproducibility Network"
+title:  "Création du réseau de recherche reproductible"
 date:   2022-01-08 08:01:55 +0100
-categories: annoucement website
+categories: news
 ---
 
-We are very happy to announce the official creation of the French
-Reproducibility Network. If you're interested to join the network,
-just drop us an [email](mailto:{{site.contact}}).
+Nous sommes très heureux d'annoncer la création du réseau de recherche reproductible. Si vous souhaitez nous rejoindre, envoyez-nous un [courriel](mailto:{{site.contact}}).
 
 
 

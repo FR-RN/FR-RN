@@ -1,32 +1,38 @@
 ---
 layout: page
-title: Resources
+title: Ressources
 permalink: /resources/
 ---
 
 # Communication
 
-## Mailing list
+## Liste de diffusion
 
-The objective of the list [recherche-reproductible](https://listes.univ-orleans.fr/sympa/subscribe/recherche-reproductible) is to compare the points of view of different scientific disciplines on the notion of reproducibility and to list the different initiatives taken, particularly at the national level. Beyond the diagnosis specific to each discipline, the aim is to identify certain common problems and to evoke, with different actors (researchers, scientific publishers, etc.), the solutions that can emerge around the concept of executable publication.
+L'objectif de la liste
+**[recherche-reproductible](https://listes.univ-orleans.fr/sympa/subscribe/recherche-reproductible)**
+est de confronter les points de vue de différentes disciplines
+scientifiques sur la notion de reproductibilité et recenser les
+différentes initiatives prises notamment au niveau national. Au-delà
+du diagnostic spécifique à chaque discipline, il s'agit d'identifier
+certaines problématiques communes et d'évoquer, avec différents
+acteurs (chercheurs, éditeurs scientifiques etc.), les solutions qui
+peuvent émerger autour notamment du concept de publication exécutable.
 
-## Discussion forum
+## Forum de discussion
 
-[Reproducible research forum](https://reproducible-research.inria.fr/about) is the place for discussing freely about reproducibility in order to improve our research methodology by exchanging experiences, informations and advices.
-Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.
-The topics discussed here matter to us, and we want you to act as if they matter to you, too. Be respectful of the topics and the people discussing them, even if you disagree with some of what is being said.
+Le **[forum](https://reproducible-research.inria.fr/about)** de la recherche reproductible est le lieu pour discuter librement de la reproductibilité afin d'améliorer notre méthodologie de recherche en échangeant des expériences, des informations et des conseils. Aidez-nous à faire de ce site un lieu de discussion privilégié en essayant toujours d'améliorer la discussion d'une manière ou d'une autre, aussi minime soit-elle.
 
 ## Syndication
 
-The [RSS]({{ 'feed.xml' | relative_url }}) feed provides latest news from the network and upcoming events related to reproducibility in France and worldwide.
+Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières nouvelles du réseau ainsi que des événements à venir en relation avec la rechercher reproductible en France et dans le monde.
 
 # Education
 
-## Reproducible research: methodological principles for transparent science
+## Recherche reproductible : principes méthodologiques pour une science transparente
 
-  This **[MOOC](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/)** proposes methodological principles for open and transparent science. It deals in a practical way with note-taking, computational documentation, replicability of analyses. You take notes and you want to be able to find them back? You make calculations on your computer, but your results change from day to day? You analyse data, or you work on a new method that you would like to share easily with your colleagues so that they can use it as well? This MOOC is for you.
+Ce **[Mooc](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/)** propose des principes méthodologiques pour une science ouverte et transparente. Il aborde de manière pratique la prise de notes, le document computationnel, la réplicabilité des analyses. Vous prenez des notes et vous voulez vous y retrouver ? Vous faites des calculs sur ordinateur et vos résultats changent d’un jour à l’autre ? Vous aimeriez partager avec vos collègues vos analyses de données et vos derniers travaux et qu’ils puissent les réutiliser ? Ce MOOC est pour vous, doctorant-e-s, chercheur-se-s , étudiant-e-s en master, enseignant-e-s, ingénieur-e-s de toutes disciplines qui souhaitez vous former à des environnements de publication et des outils fiables.
 
 
-## Towards repdroducible research
+## Vers une recherche repdroductible
 
-For a researcher, there is nothing more frustrating than the failure to reproduce major results obtained a few months back. The causes of such disappointments can be multiple and insidious. This phenomenon plays an important role in the so-called “research reproducibility crisis”. This **[book](https://rr-france.github.io/bookrr/)** takes a current perspective onto a number of potentially dangerous situations and practices, to examplify and highlight the symptoms of non-reproducibility in research. Each time, it provides efficient solutions ranging from good-practices that are easily and immediately implementable to more technical tools, all of which are free and have been put to the test by the authors themselves. With this book written during a book sprint, students and engineers and researchers should find efficient and accessible ways leading them to improve their reproducible research practices.
+Pour un chercheur, il n’y a rien de plus frustrant que l’impossibilité de reproduire des résultats majeurs obtenus quelques mois auparavant. Les causes de ce type de déconvenues sont multiples et parfois pernicieuses. Ce phénomène participe à ce que certains identifient comme une “crise de la reproductibilité de la recherche”. Cet ouvrage considère un ensemble de situations et de pratiques potentiellement dangereuses afin d’illustrer et de mettre en évidence les symptômes de la non-reproductibilité dans la recherche. À chaque fois, il propose un éventail de solutions allant de bonnes pratiques faciles et rapides à implémenter jusqu’à des outils plus techniques, tous gratuits et mis à l’épreuve par les auteurs eux-mêmes. Dans ce **[livre](https://rr-france.github.io/bookrr/)** rédigé lors d’un book sprint, étudiants, ingénieurs et chercheurs devraient trouver des moyens efficaces et à leur portée pour améliorer leurs pratiques de la recherche reproductible.

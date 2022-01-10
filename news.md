@@ -1,8 +1,14 @@
 ---
 layout: home
-title: Activities
+title: Activités
 permalink: /activities/
-list_title: Latest news
+list_title: Dernières nouvelles
 ---
 
-These are the latest news & events from the network. If you want to add a news, go [here](https://github.com/FR-RN/FR-RN/tree/source/_posts) and click "Add file". You can look at other [posts](https://raw.githubusercontent.com/FR-RN/FR-RN/source/_posts/2022-01-08-french-reproducibility-network-creation.md) for the exact format .
+Voilà les dernières nouvelles ainsi que les événements à venir en lien
+avec la recherche reproductible. Si vous souhaitez ajouter une
+nouvelle ou annoncer un évènement, allez
+[ici](https://github.com/FR-RN/FR-RN/tree/source/_posts) puis cliquez
+sur "Add file". Vous pouvez regarder les
+[nouvelles](https://raw.githubusercontent.com/FR-RN/FR-RN/source/_posts/2022-01-08-french-reproducibility-network-creation.md)
+déjà postées pour copier le format (nommage du fichier et entête).

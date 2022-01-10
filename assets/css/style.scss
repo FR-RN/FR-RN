@@ -8,13 +8,24 @@
 
 
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&family=Roboto:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&family=Roboto:wght@300;400;500&display=swap');
 
 body {
     font-size: 100%;
     font-family: Roboto;
     font-weight: 300;
     color: #565656;
+}
+strong, strong a {
+    font-weight: 400;
+}
+
+blockquote {
+    text-align: justify;
+    font-size: 100%;
+    border: 0;
+    line-height: 1.25em;
+    padding: 1em 0em 1em 4em;
 }
 
 .site-header {

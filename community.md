@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Community
+title: Communauté
 permalink: /community/
 cities: ["Bordeaux", "Grenoble", "Orléans"]
 ---
 
-# French Reproducibility Network Members
+# Membres du réseau
 
-Here are the French academics (or affiliated to a French research entity) that have declared interests and/or are active in reproducibility related topics.
+Voilà la liste des universitaires ayant exprimé un intérêt ou étant actifs autour des thématiques de la recherche reproductible.
 
 {% for city in page.cities %}
 ## {{ city }}
@@ -28,9 +28,20 @@ Here are the French academics (or affiliated to a French research entity) that h
 {% endfor %}
 
 
-# Network nodes
+# Réseaux internationaux
 
-The Reproducibility Network is made of a number of international nodes whose number is growing each year. Each node is a national, peer-led consortium of researchers that aims to promote and ensure rigorous research practices by establishing appropriate training activities, designing and evaluating research improvement efforts, disseminating best practice and working with stakeholders to coordinate efforts across the sector. RNs aim for broad disciplinary representation and an intensive interdisciplinary dialogue (e.g., with funding agencies, publishers, learned societies and other sectoral organisations, as well as researchers from all disciplines and across all career stages).
+Le réseau français s'inscrit dans un plus vaste réseau international
+regroupant des réseaux nationaux composés d'universitaires qui visent
+à promouvoir et à garantir des pratiques de recherche rigoureuses en
+mettant en place des activités de formation appropriées, en concevant
+et en évaluant les efforts d'amélioration de la recherche, en
+diffusant les meilleures pratiques et en travaillant avec les parties
+prenantes pour coordonner les efforts dans tout le secteur. Ces rseaux
+nationaux visent une large représentation disciplinaire et un dialogue
+interdisciplinaire intensif (par exemple, avec les organismes de
+financement, les éditeurs, les sociétés savantes et d'autres
+organisations sectorielles, ainsi que des chercheurs de toutes les
+disciplines et à tous les stades de leur carrière).
 
 <ul>
 {% for node in site.data.nodes %}
@@ -41,33 +52,16 @@ The Reproducibility Network is made of a number of international nodes whose num
 {% endfor %}
 </ul>
 
-# Nationale initiatives
+# Initiatives nationales corrélées
 
 ## Comité pour la Science Ouverte ([ouvrirlascience.fr](https://www.ouvrirlascience.fr/))
 
-The Committee for Open Science works as a result of the political
-policy and national plan for open science introduced during the annual
-conference of the League of European Research Libraries in 2018. This
-plan proposes three main axes to generalize open access to
-publications, to structure and make research data open and to fully
-participate in a sustainable European and international dynamic.
-The site [ouvrirlascience.fr](https://www.ouvrirlascience.fr/) run by the Committee for Open Science accompanies and supports national measures. It is aimed at all actors who play a role in open science and all interested citizens. Its’ objective are to increase knowledge about open science, to explain the challenges to be overcome to implement open science and to increase awareness of the scientific, societal and financial issues at stake. The site provides news, resources – founding texts, reports, studies, sites and databases – and a schedule of upcoming events which are linked to the three main components of the plan and cover all scientific disciplines.
+Le Comité pour la science ouverte mobilise les acteurs de l’enseignement supérieur et de la recherche pour accompagner de manière dynamique et coordonnée la mise en œuvre de la politique nationale de science ouverte. Il se compose de plusieurs instances qui proposent des orientations, instruisent les dossiers, effectuent des arbitrages, impulsent et accompagnent les actions associées. Il constitue une structure fluide, facilitant l’expression et la remontée des idées, les engagements et les contributions.
 
+## Software Heritage ([softwareheritage.org](https://www.softwareheritage.org))
 
-# Internationale initiatives
+La mission de Software Heritage est de collecter, préserver et partager tous les logiciels disponibles publiquement sous forme de code source, dans le but de construire une infrastructure commune et partagée au service de l'industrie, de la recherche, de la culture et de la société dans son ensemble. Le code source des logiciels est collecté depuis des plateformes d'hébergement de code, comme GitHub, GitLab.com ou Bitbucket, et des archives de paquets, comme Npm ou Pypi, et est intégré dans une structure de données spécifique, un arbre de Merkle, qui est le cœur des archives de Software Heritage. Les artefacts qui se trouvent dans les archives sont associés à des identifiants appelés SWHID.
 
-## Center for Open Science ([www.cos.io](https://www.cos.io))
+## HAL ([hal.archives-ouvertes.fr](https://hal.archives-ouvertes.fr/))
 
-Our mission is to increase openness, integrity, and reproducibility of research.
-These are core values of scholarship and practicing them is presumed to increase the efficiency of acquiring knowledge. For COS to achieve our mission, we must drive change in the culture and incentives that drive researchers’ behavior, the infrastructure that supports their research, and the business models that dominate scholarly communication. This culture change requires simultaneous movement by funders, institutions, researchers, and service providers across national and disciplinary boundaries. Despite this, the vision is achievable because openness, integrity, and reproducibility are shared values, the technological capacity is available, and alternative sustainable business models exist.
-
-
-
-## Reproducibility tea ([reproducibilitea.org](https://reproducibilitea.org/))
-
-We are a grassroots journal club initiative that helps researchers create local Open Science journal clubs at their universities to discuss diverse issues, papers and ideas about improving science, reproducibility and the Open Science movement. Started in early 2018 at the University of Oxford, ReproducibiliTea has now spread to 137 institutions in 26 different countries. We are completely volunteer run, and provide a unique and supportive community for our members, who are predominantly Early Career Researchers.
-
-## Reprohack ([www.reprohack.org](https://www.reprohack.org/))
-
-During a ReproHack, participants attempt to reproduce published research of their choice from a list of proposed papers with publicly available associated code and data. Participants get to work with other people’s material in a low pressure environment and record their experiences on a number of key aspects, including reproducibility, transparency and reusability of materials. At the end of the day we regroup, share our experiences and give feedback to the authors. It’s imperative to note that ReproHacks are by no means an attempt to criticise or discredit work. We see reproduction as beneficial scientific activity in itself, with useful outcomes for authors and valuable learning experiences for the participants and the research community as a whole.
-
+HAL est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs (publiés ou non), et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. L'accès aux données est libre, mais pas nécessairement leur utilisation ou réutilisation. La plateforme vérifie le contenu scientifique des articles et documents déposés, mais ne procède pas à leur évaluation. Cet outil vient donc en complément de la publication dans des revues à comité de lecture. Les articles scientifiques peuvent y être déposés avant publication (preprint) ou après publication, l'archive fournissant alors, le cas échéant, un accès ouvert. 
