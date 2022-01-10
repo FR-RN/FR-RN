@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&family=Roboto:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;;1,400;&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -326,7 +327,7 @@ body { font-size: 100%; font-family: Roboto; font-weight: 300; color: #565656; }
 
 strong, strong a { font-weight: 400; }
 
-blockquote { text-align: justify; font-size: 100%; border: 0; line-height: 1.25em; padding: 1em 0em 1em 4em; }
+blockquote { font-family: 'Source Serif Pro', serif; font-weight: 400; text-align: justify; font-size: 100%; border: 0; line-height: 1.25em; padding: 1em 0em 1em 4em; }
 
 .site-header { font-variant: small-caps; background-color: #f0f0f0; border-bottom: 0.5px solid #c0c0c0; padding-top: 1.0em; padding-bottom: 1.0em; }
 
@@ -381,6 +382,8 @@ h2.post-list-heading { font-size: 1.5em; border-bottom: 1px solid #000090; }
 .post-list > li { margin-bottom: 0px; }
 
 .post-content h1, .post-content h2, .post-content h3 { margin-top: 0px; }
+
+.post-meta { display: inline-block; min-width: 6em; }
 
 p.feed-subscribe { margin-bottom: 0; }
 
