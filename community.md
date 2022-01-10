@@ -52,7 +52,7 @@ disciplines et à tous les stades de leur carrière).
 {% endfor %}
 </ul>
 
-# Initiatives nationales corrélées
+# Initiatives nationales connexes
 
 ## Comité pour la Science Ouverte ([ouvrirlascience.fr](https://www.ouvrirlascience.fr/))
 
@@ -64,4 +64,8 @@ La mission de Software Heritage est de collecter, préserver et partager tous le
 
 ## HAL ([hal.archives-ouvertes.fr](https://hal.archives-ouvertes.fr/))
 
-HAL est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs (publiés ou non), et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. L'accès aux données est libre, mais pas nécessairement leur utilisation ou réutilisation. La plateforme vérifie le contenu scientifique des articles et documents déposés, mais ne procède pas à leur évaluation. Cet outil vient donc en complément de la publication dans des revues à comité de lecture. Les articles scientifiques peuvent y être déposés avant publication (preprint) ou après publication, l'archive fournissant alors, le cas échéant, un accès ouvert. 
+HAL est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs (publiés ou non), et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. L'accès aux données est libre, mais pas nécessairement leur utilisation ou réutilisation. La plateforme vérifie le contenu scientifique des articles et documents déposés, mais ne procède pas à leur évaluation. Cet outil vient donc en complément de la publication dans des revues à comité de lecture. Les articles scientifiques peuvent y être déposés avant publication (preprint) ou après publication, l'archive fournissant alors, le cas échéant, un accès ouvert.
+
+## Office français de l'intégrité scientifique ([hceres.fr/fr/integrite-scientifique](https://www.hceres.fr/fr/office-francais-de-lintegrite-scientifique-ofis))
+
+Sur l’intégrité scientifique repose la confiance entre les communautés de recherche, et entre celles-ci et la société. Pour lui donner un cadre et une impulsion nationale, l’Office Français de l’Intégrité Scientifique (OFIS) a été créé en mars 2017. Installé sous la forme d’un département du Hcéres, l’OFIS est une structure nationale transversale qui assure une triple mission : Plate-forme de réflexion, observation et animation.
