@@ -67,3 +67,13 @@
   city: Bordeaux
   country: France
   domain: neuroscience
+
+- name: Konrad Hinsen
+  url: http://dirac.cnrs-orleans.fr/~hinsen
+  email: konrad.hinsen@cnrs.fr
+  employer: CNRS
+  laboratory: Centre de Biophysique Moléculaire
+  sex: male
+  city: Orléans
+  country: France
+  domain: biophysics
