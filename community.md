@@ -2,7 +2,7 @@
 layout: page
 title: Communauté
 permalink: /community/
-cities: ["Bordeaux", "Grenoble", "Orléans", "Rennes", "Orsay"]
+cities: ["Bordeaux", "Grenoble", "Orléans", "Orsay", "Paris", "Rennes"]
 ---
 
 # Membres du réseau

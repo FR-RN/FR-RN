@@ -98,3 +98,13 @@
   country: France
   domain: neuroscience
 
+- name: Simon Tournier
+  url: https://simon.tournier.info
+  email: simon.tournier@u-paris.fr
+  employer: Univiersité de Paris
+  laboratory: Institut de Recherche Saint Louis
+  sex: male
+  city: Paris
+  country: France
+  domain: comp. science
+
