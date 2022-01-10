@@ -18,6 +18,16 @@
   country: France
   domain: comp. science
 
+- name: Benoit Combemale
+  url: https://people.irisa.fr/Benoit.Combemale/
+  email: benoit.combemale@irisa.fr
+  employer: Université de Rennes 1
+  laboratory: IRISA 
+  sex: male
+  city: Rennes
+  country: France
+  domain: soft. engineering
+
 - name: Ludovic Courtès
   email: ludovic.courtes@inria.fr
   url: https://people.bordeaux.inria.fr/lcourtes/
