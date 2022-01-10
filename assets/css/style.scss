@@ -10,10 +10,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&family=Roboto:wght@300;400;500&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;;1,400;&display=swap');
+
 body {
     font-size: 100%;
-    font-family: Roboto;
-    font-weight: 300;
+    font-family: Roboto; 
+    font-weight: 300; 
     color: #565656;
 }
 strong, strong a {
@@ -21,6 +23,8 @@ strong, strong a {
 }
 
 blockquote {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 400;
     text-align: justify;
     font-size: 100%;
     border: 0;
@@ -141,6 +145,7 @@ h2.post-list-heading {
     font-size: 1.5em;
     border-bottom: 1px solid #000090;
 }
+
 .post-list h3, .post-list h3 a {
     display: inline;
     font-size: 1.0em;
@@ -156,6 +161,11 @@ h2.post-list-heading {
 .post-content h2,
 .post-content h3 {
     margin-top: 0px;
+}
+
+.post-meta {
+ display: inline-block;
+ min-width: 6em;
 }
 
 p.feed-subscribe {

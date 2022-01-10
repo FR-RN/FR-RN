@@ -20,7 +20,7 @@ Voilà la liste des universitaires ayant exprimé un intérêt ou étant actifs 
         {% else %}
           {{ person.name }}
         {% endif %}  
-        ({{ person.laboratory }}, {{ person.city }})
+        ({{ person.laboratory }})
       </li>
     {% endif %}  
   {% endfor %}
