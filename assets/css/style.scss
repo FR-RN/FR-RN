@@ -154,14 +154,13 @@ p.feed-subscribe {
 
 a.tag, .tag {
     color: #000090;
-    background-color: #f0f0ff;
-/*    border: 0.5px solid #c0c0ff;*/
+    border: 1px solid #000090;
     border-radius: 2px;
-    padding: 2px 5px 0px 5px;
+    padding: 1px 5px 0px 5px;
     margin-left: 1px;
     margin-right: 1px;
-    font-size: 85%;
-    font-weight: 500;
+    font-size: 80%;
+    font-weight: 300;
     transition: 0.5s;
 }
 
@@ -169,12 +168,11 @@ a.tag:hover {
     color: white;
     text-decoration: none;
     background-color: #000090;
-/*    border: 0.5px solid #f0f0f0;*/
     border-radius: 2px;
-    padding: 2px 5px 0px 5px;
+    padding: 1px 5px 0px 5px;
     margin-left: 1px;
     margin-right: 1px;
-    font-size: 85%;
+    font-size: 80%;
     font-weight: 500;
     transition: 0.5s;
 }
