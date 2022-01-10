@@ -18,6 +18,16 @@
   country: France
   domain: comp. science
 
+- name: Sarah Cohen-Boulakia
+  url: https://sarah.cohen-boulakia.eu/
+  email: sarah.cohen-boulakia@universite-paris-saclay.fr
+  employer: Université Paris-Saclay
+  laboratory: Laboratoire Interdisciplinaire des Sciences du Numérique 
+  sex: female
+  city: Orsay
+  country: France
+  domain: Bioinformatics
+
 - name: Benoit Combemale
   url: https://people.irisa.fr/Benoit.Combemale/
   email: benoit.combemale@irisa.fr
