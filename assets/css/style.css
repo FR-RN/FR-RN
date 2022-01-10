@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&family=Roboto:wght@300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&family=Roboto:wght@300;400;500&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -323,6 +323,10 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
 
 body { font-size: 100%; font-family: Roboto; font-weight: 300; color: #565656; }
+
+strong, strong a { font-weight: 400; }
+
+blockquote { text-align: justify; font-size: 100%; border: 0; line-height: 1.25em; padding: 1em 0em 1em 4em; }
 
 .site-header { font-variant: small-caps; background-color: #f0f0f0; border-bottom: 0.5px solid #c0c0c0; padding-top: 1.0em; padding-bottom: 1.0em; }
 
