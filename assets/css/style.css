@@ -323,11 +323,11 @@ table td { border: 1px solid #e8e8e8; }
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
 
-body { font-size: 100%; font-family: Roboto; font-weight: 300; color: #565656; }
+body { font-size: 100%; font-family: Roboto; font-weight: 300; color: #333333; }
 
 strong, strong a { font-weight: 400; }
 
-blockquote { font-family: 'Source Serif Pro', serif; font-weight: 400; text-align: justify; font-size: 100%; border: 0; line-height: 1.25em; padding: 1em 0em 1em 4em; }
+blockquote { color: #999999; font-family: 'Source Serif Pro', serif; font-weight: 400; text-align: justify; font-size: 100%; border: 0; line-height: 1.25em; padding: 1em 0em 1em 4em; }
 
 .site-header { font-variant: small-caps; background-color: #f0f0f0; border-bottom: 0.5px solid #c0c0c0; padding-top: 1.0em; padding-bottom: 1.0em; }
 
@@ -387,8 +387,8 @@ h2.post-list-heading { font-size: 1.5em; border-bottom: 1px solid #000090; }
 
 p.feed-subscribe { margin-bottom: 0; }
 
-a.tag, .tag { color: #000090; border: 1px solid #000090; border-radius: 2px; padding: 1px 5px 0px 5px; margin-left: 1px; margin-right: 1px; font-size: 80%; font-weight: 300; transition: 0.5s; }
+a.tag, .tag { color: #000090; border: 1px solid #000090; border-radius: 3px; padding: 1px 5px 0px 5px; margin-left: 1px; margin-right: 1px; font-size: 80%; font-weight: 300; transition: 0.5s; }
 
-a.tag:hover { color: white; text-decoration: none; background-color: #000090; border-radius: 2px; padding: 1px 5px 0px 5px; margin-left: 1px; margin-right: 1px; font-size: 80%; font-weight: 500; transition: 0.5s; }
+a.tag:hover { color: white; text-decoration: none; background-color: #000090; border-radius: 3px; padding: 1px 5px 0px 5px; margin-left: 1px; margin-right: 1px; font-size: 80%; font-weight: 500; transition: 0.5s; }
 
 /*# sourceMappingURL=style.css.map */
