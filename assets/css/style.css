@@ -337,9 +337,9 @@ blockquote { font-family: 'Source Serif Pro', serif; font-weight: 400; text-alig
 
 .site-header a, .site-header a:visited { font-weight: 500; }
 
-.site-nav .page-link:not(:last-child) { margin: 0; padding: 0.5em 1em; }
+.site-nav .page-link:not(:last-child) { margin: 0; padding: 0.25em .5em; }
 
-.site-nav a.page-link { padding: 0.5em 1em; }
+.site-nav a.page-link { padding: 0.25em .5em; }
 
 .site-nav a.page-link:hover, .site-nav .page-link:not(:last-child):hover { text-decoration: none; background-color: #f9f9f9; border-radius: 0.25em; transition: 0.5s; }
 
