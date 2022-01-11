@@ -16,11 +16,11 @@ Voilà la liste des universitaires ayant exprimé un intérêt ou étant actifs 
     {%if person.city == city %}
       <li>
         {%if person.url %}
-          <a href="{{ person.url }}"> {{ person.name }}</a>
+          <b><a href="{{ person.url }}"> {{ person.name }}</a></b>
         {% else %}
-          {{ person.name }}
+          <b><a href="{{ person.laboratory.url }}"> {{ person.name }}</a></b>
         {% endif %}  
-        ({{ person.laboratory }})
+        — <a href="{{ person.laboratory.url }}"> {{ person.laboratory.name }}</a> 
       </li>
     {% endif %}  
   {% endfor %}

@@ -2,7 +2,9 @@
   email: celine.acary-robert@univ-grenoble-alpes.fr
   url: https://team.inria.fr/airsea/en/celine-acary-robert/
   employer: Université Grenoble Alpes
-  laboratory: Laboratoire Jean Kuntzmann
+  laboratory:
+    name: Laboratoire Jean Kuntzmann
+    url: https://www-ljk.imag.fr
   sex: female
   city: Grenoble
   country: France
@@ -12,7 +14,9 @@
   email: pierre-antoine.bouttier@univ-grenoble-alpes.fr
   url: 
   employer: CNRS
-  laboratory: UAR GRICAD
+  laboratory:
+    name: GRICAD - Infrastructure de Calcul Intensif et de Données
+    url: https://gricad.univ-grenoble-alpes.fr/
   sex: male
   city: Grenoble
   country: France
@@ -22,7 +26,9 @@
   url: https://sarah.cohen-boulakia.eu/
   email: sarah.cohen-boulakia@universite-paris-saclay.fr
   employer: Université Paris-Saclay
-  laboratory: Laboratoire Interdisciplinaire des Sciences du Numérique 
+  laboratory:
+    name: Laboratoire Interdisciplinaire des Sciences du Numérique
+    url: https://www.lisn.upsaclay.fr
   sex: female
   city: Orsay
   country: France
@@ -32,7 +38,9 @@
   url: https://people.irisa.fr/Benoit.Combemale/
   email: benoit.combemale@irisa.fr
   employer: Université de Rennes 1
-  laboratory: IRISA 
+  laboratory:
+    name: Institut de Recherche en Informatique et Systèmes Aléatoires
+    url: https://www.irisa.fr
   sex: male
   city: Rennes
   country: France
@@ -42,7 +50,9 @@
   email: ludovic.courtes@inria.fr
   url: https://people.bordeaux.inria.fr/lcourtes/
   employer: Inria
-  laboratory: Inria
+  laboratory:
+    name: Inria Bordeaux Sud-Ouest
+    url: https://www.inria.fr/en/inria-centre-university-bordeaux
   sex: male
   city: Bordeaux
   country: France
@@ -52,7 +62,9 @@
   url: https://sites.google.com/site/mariejoseecros
   email: marie-josee.cros@inrae.fr
   employer: INRAE
-  laboratory: MIAT
+  laboratory:
+    name: Unité de Mathématiques et Informatique Appliquées
+    url: https://miat.inrae.fr/site/Accueil
   sex: female
   city: Toulouse
   country: France
@@ -62,7 +74,9 @@
   url: http://dirac.cnrs-orleans.fr/~hinsen
   email: konrad.hinsen@cnrs.fr
   employer: CNRS
-  laboratory: Centre de Biophysique Moléculaire
+  laboratory:
+    name: Centre de Biophysique Moléculaire
+    url: http://cbm.cnrs-orleans.fr/en/le-laboratoire-accueil/
   sex: male
   city: Orléans
   country: France
@@ -72,7 +86,9 @@
   email: Hans.Ijzerman@univ-grenoble-alpes.fr
   url: https://www.lippc2s.fr/archives/person/ijzerman-hans/
   employer: Université Grenoble Alpes
-  laboratory: Laboratoire Inter-universitaire de Psychologie
+  laboratory:
+    name: Laboratoire Inter-universitaire de Psychologie
+    url: https://www.lippc2s.fr
   sex: male
   city: Grenoble
   country: France
@@ -82,7 +98,9 @@
   email: arnaud.legrand@imag.fr
   url: http://polaris.imag.fr/arnaud.legrand/
   employer: CNRS
-  laboratory: Laboratoire d'Informatique de Grenoble
+  laboratory:
+    name: Laboratoire d'Informatique de Grenoble
+    url: https://www.liglab.fr/
   sex: male
   city: Grenoble
   country: France
@@ -92,7 +110,9 @@
   url: https://louvet.perso.math.cnrs.fr/
   email: violaine.louvet@univ-grenoble-alpes.fr
   employer: CNRS
-  laboratory: GRICAD 
+  laboratory:
+    name: GRICAD - Infrastructure de Calcul Intensif et de Données
+    url: https://gricad.univ-grenoble-alpes.fr/
   sex: female
   city: Grenoble
   country: France
@@ -102,7 +122,9 @@
   email: francois.ric@u-bordeaux.fr
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
   employer: Université de Bordeaux
-  laboratory: Laboratoire de Psychologie
+  laboratory:
+    name: Laboratoire de Psychologie
+    url: https://labpsy.u-bordeaux.fr
   sex: male
   city: Bordeaux
   country: France
@@ -112,7 +134,9 @@
   url: https://www.labri.fr/perso/nrougier/
   email: nicolas.rougier@inria.fr
   employer: Inria
-  laboratory: Institute of Neurodegenerative Diseases
+  laboratory:
+    name: Institute of Neurodegenerative Diseases
+    url: https://www.imn-bordeaux.org/en/
   sex: male
   city: Bordeaux
   country: France
@@ -122,7 +146,9 @@
   url: https://simon.tournier.info
   email: simon.tournier@u-paris.fr
   employer: Univiersité de Paris
-  laboratory: Institut de Recherche Saint Louis
+  laboratory:
+    name: Institut de Recherche Saint Louis
+    url: https://irsl.u-paris.fr
   sex: male
   city: Paris
   country: France

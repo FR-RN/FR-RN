@@ -16,13 +16,14 @@ body {
     font-size: 100%;
     font-family: Roboto; 
     font-weight: 300; 
-    color: #565656;
+    color: #333333;
 }
 strong, strong a {
     font-weight: 400;
 }
 
 blockquote {
+    color: #999999;
     font-family: 'Source Serif Pro', serif;
     font-weight: 400;
     text-align: justify;
@@ -176,7 +177,7 @@ p.feed-subscribe {
 a.tag, .tag {
     color: #000090;
     border: 1px solid #000090;
-    border-radius: 2px;
+    border-radius: 3px;
     padding: 1px 5px 0px 5px;
     margin-left: 1px;
     margin-right: 1px;
@@ -189,7 +190,7 @@ a.tag:hover {
     color: white;
     text-decoration: none;
     background-color: #000090;
-    border-radius: 2px;
+    border-radius: 3px;
     padding: 1px 5px 0px 5px;
     margin-left: 1px;
     margin-right: 1px;
