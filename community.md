@@ -46,7 +46,7 @@ disciplines et à tous les stades de leur carrière).
 <ul>
 {% for node in site.data.nodes %}
   <li>
-    {{ node.country }}: 
+    <b>{{ node.country }}</b>: 
     <a href="{{ node.url }}">{{ node.url }}</a>
   </li>
 {% endfor %}
