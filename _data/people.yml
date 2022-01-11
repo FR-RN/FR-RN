@@ -48,6 +48,16 @@
   country: France
   domain: comp. science
 
+- name: Marie-Josee Cros
+  url: https://sites.google.com/site/mariejoseecros
+  email: marie-josee.cros@inrae.fr
+  employer: INRAE
+  laboratory: MIAT
+  sex: female
+  city: Toulouse
+  country: France
+  domain: Life science
+
 - name: Konrad Hinsen
   url: http://dirac.cnrs-orleans.fr/~hinsen
   email: konrad.hinsen@cnrs.fr
@@ -77,7 +87,17 @@
   city: Grenoble
   country: France
   domain: comp. science
-  
+
+- name: Violaine Louvet
+  url: https://louvet.perso.math.cnrs.fr/
+  email: violaine.louvet@univ-grenoble-alpes.fr
+  employer: CNRS
+  laboratory: GRICAD 
+  sex: female
+  city: Grenoble
+  country: France
+  domain: applied mathematics
+
 - name: François Ric
   email: francois.ric@u-bordeaux.fr
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
