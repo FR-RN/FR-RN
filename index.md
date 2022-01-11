@@ -12,7 +12,7 @@ qui contribuent à la robustesse de la recherche {%cite book:2019 %},
 la promotion des activités de formation {%cite mooc:2020 %} et la
 diffusion des bonnes pratiques {% cite brandt:2014 benureau:2018 %}
 ainsi que des recommandations. Les questions de reproductibilité
-touchent toutes les disciplines et le consortium vise une large
+touchent toutes les disciplines et le réseau vise une large
 représentation disciplinaire. Si vous êtes intéressé, envoyez-nous un
 [courriel](mailto:{{site.contact}}) et rejoignez le réseau !
 
