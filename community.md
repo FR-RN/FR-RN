@@ -9,10 +9,12 @@ cities: ["Bordeaux", "Grenoble", "Orléans", "Orsay", "Paris", "Rennes", "Toulou
 
 Voilà la liste des universitaires ayant exprimé un intérêt ou étant actifs autour des thématiques de la recherche reproductible.
 
+{% assign files = site.data.people | sort %}
 {% for city in page.cities %}
 ## {{ city }}
   <ul>
-  {% for person in site.data.people %}
+  {% for f in files %}
+    {% assign person = f[1] %}
     {%if person.city == city %}
       <li>
         {%if person.url %}
