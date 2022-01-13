@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: home
+list_title: Dernières nouvelles
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
@@ -16,5 +17,8 @@ touchent toutes les disciplines et le réseau vise une large
 représentation disciplinaire. Si vous êtes intéressé, envoyez-nous un
 [courriel](mailto:{{site.contact}}) et rejoignez le réseau !
 
-#### Réferences
+### Réferences
 {% bibliography --cited %}
+
+
+
