@@ -64,7 +64,7 @@ Le Comité pour la science ouverte mobilise les acteurs de l’enseignement sup�
 
 HAL est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs (publiés ou non), et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. L'accès aux données est libre, mais pas nécessairement leur utilisation ou réutilisation. La plateforme vérifie le contenu scientifique des articles et documents déposés, mais ne procède pas à leur évaluation. Cet outil vient donc en complément de la publication dans des revues à comité de lecture. Les articles scientifiques peuvent y être déposés avant publication (preprint) ou après publication, l'archive fournissant alors, le cas échéant, un accès ouvert.
 
-## Open Editions ([www.openedition.org](https://www.openedition.org)
+## Open Editions ([www.openedition.org](https://www.openedition.org))
 
 OpenEdition est une infrastructure complète d’édition numérique au
 service de la communication scientifique en sciences humaines et
