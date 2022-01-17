@@ -79,7 +79,7 @@ induites par le numérique et garantir un haut niveau de fiabilité et
 de disponibilité des plateformes.
 
 
-## Office français de l'intégrité scientifique ([hceres.fr/fr/integrite-scientifique](https://www.hceres.fr/fr/office-francais-de-lintegrite-scientifique-ofis))
+## Office français de l'intégrité scientifique ([hceres.fr](https://www.hceres.fr/fr/office-francais-de-lintegrite-scientifique-ofis))
 
 Sur l’intégrité scientifique repose la confiance entre les communautés de recherche, et entre celles-ci et la société. Pour lui donner un cadre et une impulsion nationale, l’Office Français de l’Intégrité Scientifique (OFIS) a été créé en mars 2017. Installé sous la forme d’un département du Hcéres, l’OFIS est une structure nationale transversale qui assure une triple mission : Plate-forme de réflexion, observation et animation.
 
