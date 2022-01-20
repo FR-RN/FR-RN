@@ -4,6 +4,7 @@ description: "Un réseau national de chercheurs pour la promotion de la recherch
 email: Nicolas.Rougier@inria.fr
 contact: Nicolas.Rougier@inria.fr
 show_excerpts: false # set to true to show excerpts on the homepage
+future: true
 
 # url: https://fr-rn.github.io/FR-RN
 # url: "https://www.french-rn.org/FR-RN"
@@ -18,12 +19,12 @@ plugins:
 scholar:
   style: acm-siggraph
   locale: en
-  sort_by: none
-  order: ascending
+  sort_by: year, month
+  order: descending
   group_by: none
   group_order: ascending
-  source: ./_bibliography
-  bibliography: references.bib
+  source: ./_data
+  bibliography: network.bib
   bibliography_template: bib
   replace_strings: true
   join_strings:    true

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Activités
 permalink: /activities/
 list_title: Dernières nouvelles
@@ -13,3 +13,59 @@ nouvelle ou annoncer un évènement, allez
 sur "Add file". Vous pouvez regarder les
 [nouvelles](https://raw.githubusercontent.com/FR-RN/FR-RN/source/_posts/2022-01-08-french-reproducibility-network-creation.md)
 déjà postées pour copier le format (nommage du fichier et entête).
+
+
+## Prochains évènements
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.event limit:page.n_posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+## Dernières nouvelles
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.news limit:page.n_posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+
+## Nouvelles publications
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.publication limit:5 -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
