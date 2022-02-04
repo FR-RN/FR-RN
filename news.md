@@ -64,6 +64,9 @@ déjà postées pour copier le format (nommage du fichier et entête).
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
+          {% if post.lang == "english" %}
+          [en]
+          {% endif %}
         </a>
       </h3>
     </li>
