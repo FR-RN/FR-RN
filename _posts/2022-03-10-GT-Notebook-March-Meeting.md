@@ -2,7 +2,7 @@
 layout: post
 title:  "Meeting GT Notebook"
 date:   2022-03-10 10:00 +0100
-categories: event
+categories: past-event
 ---
 
 Qu'on les appelle "notebooks", "article exécutable" ou "publication reproductible", la démocratisation du _Literate Programming_ et des technologies supports (Org; RMarkdown ; Jupyter) soulève un ensemble de problématiques susceptible d'interroger de nombreux métiers de l'enseignement supérieur et de la recherche.

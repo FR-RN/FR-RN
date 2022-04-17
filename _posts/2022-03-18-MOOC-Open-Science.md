@@ -2,7 +2,7 @@
 layout: post
 title:  "MOOC Science ouverte"
 date:   2022-03-18 8:00 +0100
-categories: event
+categories: past-event
 ---
 
 Un **[cours en ligne
