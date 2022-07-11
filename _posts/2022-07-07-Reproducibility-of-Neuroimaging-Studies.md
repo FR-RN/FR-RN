@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reproducibility of neuroimaging studies of brain disorders with hundreds -not thousands- of participants"
-date:   2022-04-17 15:00 +0100
+date:   2022-07-07 15:00 +0100
 categories: publication
 tags: neuroimaging
 lang: english
