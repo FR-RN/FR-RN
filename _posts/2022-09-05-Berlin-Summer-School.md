@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "5th Oxford | Berlin Summer School on Open and Responsible Research in the Life Sciences 2022 [en]"
+date:   2022-09-05 8:00 +0100
+categories: event
+---
+
+Transparency and reproducibility of research methods and results are important hallmarks of high quality in all areas, from biomedical to social and physical sciences. In the last few years, many novel approaches, tools, and technologies have emerged that allow for a comprehensive representation of the research process that goes far beyond descriptions of research methods and results as found in traditional journal articles. Open research practices have the potential to revolutionise the way research methods and results are communicated, and to facilitate research collaborations and sharing of research outputs in an unprecedented manner. However, adopting these practices requires knowledge and skills that are not normally taught in undergraduate or graduate degrees. To close this gap, we offer a [five-day summer school](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/mission-approaches/education-and-training/oxford-berlin-summer-school-on-open-research) to guide early career researchers (PhD students and postdocs) towards an open, transparent, and reproducible research workflow. These topics will be embedded in a more general curriculum on research ethics and meta-research. This year a special focus lies on ethics of animal experiments and the 3R principles (reduce, refine, replace). Dedicated workshops in this area will be offered and researchers from disciplines where animal research is relevant are particularly encouraged to apply.
