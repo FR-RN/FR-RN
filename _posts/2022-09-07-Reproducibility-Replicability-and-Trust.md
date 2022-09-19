@@ -2,7 +2,7 @@
 layout: post
 title:  "Reproducibility, Replicability and Trust in Science [en]"
 date:   2022-09-07 8:00 +0100
-categories: event
+categories: past-event
 ---
 
 This [meeting](https://coursesandconferences.wellcomeconnectingscience.org/event/reproducibility-replicability-and-trust-in-science-20220907/) will bring together an international audience of researchers motivated to improve the robustness of scientific research. It will also include important stakeholder groups such as data and services providers, tool developers, publishers, institutions and funders that are developing policies relating to research reproducibility.
