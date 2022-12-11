@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The [Institute for Replication"
-date:   2022-01-12 10:00 +0100
+title:  "The Institute for Replication"
+date:   2022-12-12 8:00 +0100
 categories: news
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Journée reproductibilité du LabEx Primes [fr]"
 date:   2022-12-08 8:00 +0100
-categories: event
+categories: past-event
 ---
 
 Le LabEx Primes organise une journée scientifique autour de la notion de

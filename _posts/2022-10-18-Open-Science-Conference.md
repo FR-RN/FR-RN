@@ -2,7 +2,7 @@
 layout: post
 title:  "Science Europe Open Science Conference 2022 [en]"
 date:   2022-10-18 8:00 +0100
-categories: event
+categories: past-event
 ---
 
 Science Europe is organising its [first conference on Open Science](https://www.scienceeurope.org/events/open-science-conference-2022/) at an important time: the COVID-19 pandemic has highlighted the value of open and collaborative research, and the November 2021 UNESCO Recommendation on Open Science has invited world regions to discuss shared values, principles, and standards.
