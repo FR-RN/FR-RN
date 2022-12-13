@@ -58,7 +58,7 @@ laisser un temps plus important d’échange en fin de session.
 ## Journée du 8 mars 2023 (14h - 18h)
 
 * **Accueil et introduction** (14h00 - 14h30)  
-   (Sarah Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
+   (Sarah Cohen Boulakia)
 
 * **Reproductibilité observationnelle** (14h30 - 15h30)  
   (Alexandre Hocquet, Timothée Giraud, Thomas Vuillaume)
@@ -82,7 +82,7 @@ laisser un temps plus important d’échange en fin de session.
 * **Accueil café** (9h00 - 9h30)
 
 * **Reproductibilité computationelle** (9h30 - 10h30)  
-  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen-Boulakia)
+  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Arnaud Legrand)
 
 * **Formation et enseignement** (10h30 - 11h30)  
   (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
@@ -95,7 +95,7 @@ laisser un temps plus important d’échange en fin de session.
   (Etienne Roesch, Marin Dacos, Enrico Glerean)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
-   (Sarah Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
+  (Réflexion collective)
 
 * **Conclusion des journées** (15h00 - 15h30)
 
