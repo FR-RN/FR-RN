@@ -52,19 +52,17 @@ pas, le but des ces journées est aussi d'apprendre à nous découvrir et
    (Sarah Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
 
 * **Reproductibilité observationnelle** (14h30 - 15h30)  
-  (Alexandre Hocquet, Élodie Ey, Timothée Giraud, Thomas Corpetti) 
+  (Alexandre Hocquet, Timothée Giraud, Thomas Vuillaume)
 
 * **Reproductibilité expérimentale** (15h30 - 16h30)  
-   (Camille Maumet, François-Xavier Coudert, Florian Naudet)
+  (François-Xavier Coudert, Florian Naudet, François Ric)
 
 * **Pause café** (16h30 - 17h00)
 
 * **Reproductibilité statistique** (17h00 - 18h00)  
-   (Isabelle Boutron, )
+  (Isabelle Boutron, Nelle Varoquaux, Christophe Hurlin)
 
-* **Discussion générale** (18h00 - 18h30)
-
-* **Pause pipi** (18h30 - 19h00)
+* **Discussion générale** (18h00 - 19h00)
 
 * **Cocktail à l'Institut** (19h00 - 21h00)
 
@@ -72,16 +70,20 @@ pas, le but des ces journées est aussi d'apprendre à nous découvrir et
 
 ## Journée du 9 mars 2023 (9h - 15h30)
 
-* **Reproductibilité computationelle** (9h00 - 10h00)  
-  (Konrad Hinsen, Roberto Di Cosmo, )
+* **Accueil café** (9h00 - 9h30)
 
-* **Formation et enseignement** (10h00 - 11h00)  
-  (Frederic Lemoine, Eduarda Centeno+Fjola Hysseni, Blandine Ribotta, Christophe Pouzat)
+* **Reproductibilité computationelle** (9h30 - 10h30)  
+  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen-Boulakia)
 
-* **Europe et international** (11h00 - 12h00)  
-  (Etienne Roesch, Marin Dacos, Enrico Glerean)
+* **Formation et enseignement** (10h30 - 11h30)  
+  (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
+
+* **Session “wrap-up”** (11h30 - 12h00)
 
 * **Déjeuner** (12h00 - 13h00)
+
+* **Europe et international** (13h00 - 14h00)  
+  (Etienne Roesch, Marin Dacos, Enrico Glerean)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
    (Sarah Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
