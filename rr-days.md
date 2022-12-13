@@ -46,7 +46,7 @@ Le programme a été mis en place en essayant de couvrir tous les
 aspects de la reproductibilité en France, en cherchant les personnes
 impliquées sur ces différents aspects. N'étant pas omniscients et
 certainement biaisés par nos propres domaines de recherche, nous avons
-pu oublié des personnes dans tel ou tel domaine. Ne vous en offusquez
+pu oublier des personnes dans tel ou tel domaine. Ne vous en offusquez
 pas, le but des ces journées est d'apprendre à nous connaître. De
 même, les différentes sessions ne sont certainement pas représentatives
 de toute la diversité des nos pratiques et le but des ces journées (et
