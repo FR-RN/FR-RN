@@ -3,8 +3,12 @@ layout: page
 permalink: /rr-days/
 ---
 
+
 # Reproductibilité: état des lieux
 ## Les 8 et 9 mars 2023 à l'institut Pasteur
+
+
+[![](../assets/images/recherche-reproductible.png){: style="border: 1px solid black; width: 51%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible.pdf)
 
 Un nombre croissant de chercheurs s’intéresse à la problématique de la
 reproductibilité, dont la définition même peut grandement varier d’une
@@ -48,6 +52,9 @@ même, les différentes sessions ne sont certainement pas représentatives
 de toute la diversité des nos pratiques et le but des ces journées (et
 des discusions que l'on espère fructueuses) est de partager et faire
 découvrir nos différentes pratiques, problématiques et définitions.
+
+Chaque session comportera des exposés de 10 minutes maximum pour
+laisser un temps plus important d’échange en fin de session.
 
 ## Journée du 8 mars 2023 (14h - 18h)
 
