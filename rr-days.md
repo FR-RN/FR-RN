@@ -30,7 +30,7 @@ reproductibilité, comme par exemple au Royaume Uni
 ([www.finnish-rn.org](https://www.finnish-rn.org)), en Italie
 ([www.itrn.org](https://www.itrn.org)), en Allemagne
 ([reproducibilitynetwork.de](https://reproducibilitynetwork.de)), en
-Suisse ([https://www.swissrn.org](https://www.swissrn.org)), etc.  Un
+Suisse ([https://www.swissrn.org](https://www.swissrn.org)), etc. Un
 des enjeux de ce workshop est donc de réfléchir à la définition et à
 la gouvernance d’un tel réseau, à son positionnement vis à vis
 d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
@@ -43,8 +43,11 @@ aspects de la reproductibilité en France, en cherchant les personnes
 impliquées sur ces différents aspects. N'étant pas omniscients et
 certainement biaisés par nos propres domaines de recherche, nous avons
 pu oublié des personnes dans tel ou tel domaine. Ne vous en offusquez
-pas, le but des ces journées est aussi d'apprendre à nous découvrir et
-à nous connaître.
+pas, le but des ces journées est d'apprendre à nous connaître. De
+même, les différentes sessions ne sont certainement pas représentatives
+de toute la diversité des nos pratiques et le but des ces journées (et
+des discusions que l'on espère fructueuses) est de partager et faire
+découvrir nos différentes pratiques, problématiques et définitions.
 
 ## Journée du 8 mars 2023 (14h - 18h)
 
