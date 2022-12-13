@@ -95,7 +95,7 @@ laisser un temps plus important d’échange en fin de session.
   (Etienne Roesch, Marin Dacos, Enrico Glerean)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
-  (Réflexion collective)
+  (Discussion collective)
 
 * **Conclusion des journées** (15h00 - 15h30)
 
