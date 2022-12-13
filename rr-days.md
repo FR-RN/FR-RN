@@ -49,7 +49,7 @@ pas, le but des ces journées est aussi d'apprendre à nous découvrir et
 ## Journée du 8 mars 2023 (14h - 18h)
 
 * **Accueil et introduction** (14h00 - 14h30)  
-   (Sarah Cohen Boulakia, Arnaud Legrand, Nicolas P. Rougier)
+   (Sarah Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
 
 * **Reproductibilité observationnelle** (14h30 - 15h30)  
   (Alexandre Hocquet, Élodie Ey, Timothée Giraud, Thomas Corpetti) 
@@ -84,7 +84,7 @@ pas, le but des ces journées est aussi d'apprendre à nous découvrir et
 * **Déjeuner** (12h00 - 13h00)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
-   (Sarah Cohen Boulakia, Arnaud Legrand, Nicolas P. Rougier)
+   (Sarah Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
 
 * **Conclusion des journées** (15h00 - 15h30)
 
