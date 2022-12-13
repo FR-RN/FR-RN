@@ -4,10 +4,10 @@ permalink: /rr-days/
 ---
 
 
-# Reproductibilité: état des lieux
+# Rechercher Reproductible: état des lieux
 ## Les 8 et 9 mars 2023 à l'institut Pasteur
 
-[![](../assets/images/recherche-reproductible.png){: style="border: 1px solid black; width: 45%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible.pdf)
+[![](../assets/images/recherche-reproductible.png){: style="border: 1px solid black; width: 41%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible.pdf)
 
 Un nombre croissant de chercheurs s’intéresse à la problématique de la
 reproductibilité, dont la définition même peut grandement varier d’une
@@ -33,7 +33,7 @@ reproductibilité, comme par exemple au Royaume Uni
 ([www.finnish-rn.org](https://www.finnish-rn.org)), en Italie
 ([www.itrn.org](https://www.itrn.org)), en Allemagne
 ([reproducibilitynetwork.de](https://reproducibilitynetwork.de)), en
-Suisse ([https://www.swissrn.org](https://www.swissrn.org)), etc. Un
+Suisse ([www.swissrn.org](https://www.swissrn.org)), etc. Un
 des enjeux de ce workshop est donc de réfléchir à la définition et à
 la gouvernance d’un tel réseau, à son positionnement vis à vis
 d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
