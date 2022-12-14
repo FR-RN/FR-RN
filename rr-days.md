@@ -39,6 +39,13 @@ la gouvernance d’un tel réseau, à son positionnement vis à vis
 d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
 (par exemple).
 
+**Organisateurs**:  
+* Sara Cohen Boulakia (Université Paris-Saclay, Orsay)
+* Arnaud Legrand (CNRS, Grenoble)
+* Frédéric Lemoine (Institut Pasteur, Paris)
+* Nicolas P. Rougier (Inria, Bordeaux)
+
+
 ### Programme préliminaire
 
 Le programme a été mis en place en essayant de couvrir tous les
@@ -69,13 +76,11 @@ laisser un temps plus important d’échange en fin de session.
 * **Pause café** (16h30 - 17h00)
 
 * **Reproductibilité statistique** (17h00 - 18h00)  
-  (Isabelle Boutron, Nelle Varoquaux, Christophe Hurlin)
+  (Isabelle Boutron, *Nelle Varoquaux*, Christophe Hurlin)
 
 * **Discussion générale** (18h00 - 19h00)
 
 * **Cocktail à l'Institut** (19h00 - 21h00)
-
-
 
 ## Journée du 9 mars 2023 (9h - 15h30)
 
@@ -87,7 +92,7 @@ laisser un temps plus important d’échange en fin de session.
 * **Formation et enseignement** (10h30 - 11h30)  
   (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
 
-* **Session “wrap-up”** (11h30 - 12h00)
+* **Discussion générale** (11h30 - 12h00)
 
 * **Déjeuner** (12h00 - 13h00)
 
@@ -95,7 +100,7 @@ laisser un temps plus important d’échange en fin de session.
   (Etienne Roesch, Marin Dacos, Enrico Glerean)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
-  (Discussion collective)
+  (Discussion générale)
 
 * **Conclusion des journées** (15h00 - 15h30)
 
