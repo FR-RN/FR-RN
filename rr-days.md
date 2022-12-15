@@ -45,7 +45,6 @@ d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
 * Frédéric Lemoine (Institut Pasteur, Paris)
 * Nicolas P. Rougier (Inria, Bordeaux)
 
-
 ### Programme préliminaire
 
 Le programme a été mis en place en essayant de couvrir tous les
@@ -65,7 +64,7 @@ laisser un temps plus important d’échange en fin de session.
 ## Journée du 8 mars 2023 (14h - 18h)
 
 * **Accueil et introduction** (14h00 - 14h30)  
-   (Sarah Cohen Boulakia)
+  (Sara Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
 
 * **Reproductibilité observationnelle** (14h30 - 15h30)  
   (Alexandre Hocquet, Timothée Giraud, Thomas Vuillaume)
@@ -87,7 +86,7 @@ laisser un temps plus important d’échange en fin de session.
 * **Accueil café** (9h00 - 9h30)
 
 * **Reproductibilité computationelle** (9h30 - 10h30)  
-  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Arnaud Legrand)
+  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen Boulakia)
 
 * **Formation et enseignement** (10h30 - 11h30)  
   (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
@@ -103,4 +102,3 @@ laisser un temps plus important d’échange en fin de session.
   (Discussion générale)
 
 * **Conclusion des journées** (15h00 - 15h30)
-
