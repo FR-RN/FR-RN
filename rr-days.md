@@ -71,13 +71,13 @@ laisser un temps plus important d’échange en fin de session.
 * **Reproductibilité observationnelle** (14h30 - 15h30)  
   (Alexandre Hocquet, Timothée Giraud, Thomas Vuillaume)
 
-* **Reproductibilité expérimentale** (15h30 - 16h30)  
-  (François-Xavier Coudert, Florian Naudet, François Ric)
+* **Reproductibilité computationelle** (15h30 - 16h30)  
+  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen Boulakia)
 
 * **Pause café** (16h30 - 17h00)
 
 * **Reproductibilité statistique** (17h00 - 18h00)  
-  (Isabelle Boutron, *Nelle Varoquaux*, Christophe Hurlin)
+  (Isabelle Boutron, Nelle Varoquaux, Christophe Hurlin)
 
 * **Discussion générale** (18h00 - 19h00)
 
@@ -87,8 +87,8 @@ laisser un temps plus important d’échange en fin de session.
 
 * **Accueil café** (9h00 - 9h30)
 
-* **Reproductibilité computationelle** (9h30 - 10h30)  
-  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen Boulakia)
+* **Reproductibilité expérimentale** (9h30 - 10h30)  
+  (François-Xavier Coudert, Florian Naudet, François Ric)
 
 * **Formation et enseignement** (10h30 - 11h30)  
   (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
