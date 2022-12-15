@@ -104,3 +104,7 @@ laisser un temps plus important d’échange en fin de session.
   (Discussion générale)
 
 * **Conclusion des journées** (15h00 - 15h30)
+
+---
+
+Les journées ont été rendues possibles grâçe au généreux soutien du [GDR Madics](https://www.madics.fr/) et de l'[institut Pasteur](https://www.pasteur.fr/fr).
