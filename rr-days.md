@@ -4,7 +4,7 @@ permalink: /rr-days/
 ---
 
 
-# Recherche Reproductible: état des lieux
+# Recherche reproductible: état des lieux
 ## Les 8 et 9 mars 2023 à l'institut Pasteur
 
 [**Incription gratuite mais obligatoire**](https://framaforms.org/inscription-rr-days-registration-rr-days-1671025486) pour nous aider à prévoir la logistique.
@@ -88,7 +88,7 @@ laisser un temps plus important d’échange en fin de session.
 * **Accueil café** (9h00 - 9h30)
 
 * **Reproductibilité expérimentale** (9h30 - 10h30)  
-  (François-Xavier Coudert, Florian Naudet, François Ric)
+  (François-Xavier Coudert, Florian Naudet, François Ric, Yoann Lafon)
 
 * **Formation et enseignement** (10h30 - 11h30)  
   (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
