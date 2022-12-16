@@ -4,7 +4,7 @@ permalink: /rr-days/
 ---
 
 
-# Rechercher Reproductible: état des lieux
+# Recherche Reproductible: état des lieux
 ## Les 8 et 9 mars 2023 à l'institut Pasteur
 
 [**Incription gratuite mais obligatoire**](https://framaforms.org/inscription-rr-days-registration-rr-days-1671025486) pour nous aider à prévoir la logistique.
