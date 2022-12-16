@@ -42,7 +42,7 @@ d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
 (par exemple).
 
 **Organisateurs**:  
-* Sara Cohen Boulakia (Université Paris-Saclay, Orsay)
+* Sarah Cohen-Boulakia (Université Paris-Saclay, Orsay)
 * Arnaud Legrand (CNRS, Grenoble)
 * Frédéric Lemoine (Institut Pasteur, Paris)
 * Nicolas P. Rougier (Inria, Bordeaux)
@@ -66,13 +66,13 @@ laisser un temps plus important d’échange en fin de session.
 ## Journée du 8 mars 2023 (14h - 18h)
 
 * **Accueil et introduction** (14h00 - 14h30)  
-  (Sara Cohen Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
+  (Sarah Cohen-Boulakia, Arnaud Legrand, Frédéric Lemoine, Nicolas P. Rougier)
 
 * **Reproductibilité observationnelle** (14h30 - 15h30)  
   (Alexandre Hocquet, Timothée Giraud, Thomas Vuillaume)
 
 * **Reproductibilité computationelle** (15h30 - 16h30)  
-  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen Boulakia)
+  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen-Boulakia)
 
 * **Pause café** (16h30 - 17h00)
 
