@@ -98,7 +98,7 @@ laisser un temps plus important d’échange en fin de session.
 * **Déjeuner** (12h00 - 13h00)
 
 * **Europe et international** (13h00 - 14h00)  
-  (Etienne Roesch, Marin Dacos, Enrico Glerean)
+  (Etienne Roesch, Isabelle Blanc, Enrico Glerean)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
   (Discussion générale)
