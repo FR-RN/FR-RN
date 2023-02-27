@@ -74,7 +74,7 @@ laisser un temps plus important d’échange en fin de session.
   (Alexandre Hocquet, Timothée Giraud, Thomas Vuillaume)
 
 * **Reproductibilité computationelle** (15h30 - 16h30)  
-  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Sarah Cohen-Boulakia)
+  (Konrad Hinsen, Roberto Di Cosmo, Camille Maumet, Thomas Moreau)
 
 * **Pause café** (16h30 - 17h00)
 
@@ -100,7 +100,7 @@ laisser un temps plus important d’échange en fin de session.
 * **Déjeuner** (12h00 - 13h00)
 
 * **Europe et international** (13h00 - 14h00)  
-  (Etienne Roesch, Isabelle Blanc, Enrico Glerean)
+  (Etienne Roesch, Enrico Glerean, Isabelle Blanc)
 
 * **Organisation, finances et animation** (14h00 - 15h00)  
   (Discussion générale)
