@@ -90,10 +90,10 @@ laisser un temps plus important d’échange en fin de session.
 * **Accueil café** (9h00 - 9h30)
 
 * **Reproductibilité expérimentale** (9h30 - 10h30)  
-  (François-Xavier Coudert, Florian Naudet, François Ric, Yoann Lafon)
+  (Fay Betsou, Florian Naudet, François Ric, Yoann Lafon)
 
 * **Formation et enseignement** (10h30 - 11h30)  
-  (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Christophe Pouzat)
+  (Frederic Lemoine, Eduarda Centeno, Fjola Hysseni, Laurent Oudre, Arnaud Legrand)
 
 * **Discussion générale** (11h30 - 12h00)
 
