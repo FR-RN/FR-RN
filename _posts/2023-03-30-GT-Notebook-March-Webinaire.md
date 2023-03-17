@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GT Notebook Webinaire #1 Quarto"
-date:   2023-30-03 13:30 +0100
+date:   2023-03-30 13:30 +0100
 categories: news
 ---
 
