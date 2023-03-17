@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "An implementation framework to improve the transparency and reproducibility of computational models of infectious diseases"
+date:   2023-03-17 20:00 +0100
+categories: publication
+tags: science
+lang: english
+---
+
+Computational models of infectious diseases have become valuable tools for research and the public health response against epidemic threats. The reproducibility of computational models has been limited, undermining the scientific process and possibly trust in modeling results and related response strategies, such as vaccination. We translated published reproducibility guidelines from a wide range of scientific disciplines into an implementation framework for improving reproducibility of infectious disease computational models. The framework comprises 22 elements that should be described, grouped into 6 categories: computational environment, analytical software, model description, model implementation, data, and experimental protocol. The framework can be used by scientific communities to develop actionable tools for sharing computational models in a reproducible way.
+    
+[{% reference Pokutnaya:2023 --file references.bib %}](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010856)
