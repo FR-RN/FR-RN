@@ -68,6 +68,7 @@ La sensibilisation aux notions de reproductibilité dans le domaine de la recher
 **Laurent Oudre** nous a ensuite présenté un nouveau track d'enseignement dans le master MVA (ENS Paris-Saclay) composé d'un cours théorique et d'un cours pratique. Le but pour les étudiants est de pouvoir soumettre un article à la [revue IPOL](https://www.ipol.im/), très exigeante sur les aspects de reproductibilité.  **[[slides]](/assets/rrdays/17-Oudre.pdf)**
 
 **Arnaud Legrand** a terminé la session en expliquant la genèse du MOOC "Recherche Reproductible", qui compte désormais plus de 13 000 participants depuis la troisième édition ouverte en 2020. Une suite de ce MOOC, plus technique, est appelée à se développer avec 3 modules en préparation : gestion des données, contrôle des environnements logiciels et workflow scientifique. Ces modules seront disponibles à la fin de l'automne 2023. Ce retour d'expérience permet aussi de mettre en lumière la problématique de la sensibilisation de communautés variées : comment toucher efficacement des utilisateurs de domaines pouvant se percevoir éloignés de ces questions ? 
+ **[[slides]](/assets/rrdays/18-Legrand.pdf)**
 
 ## 6. Europe et international
 
