@@ -8,7 +8,7 @@ future: true
 
 # url: https://fr-rn.github.io/FR-RN
 # url: "https://www.french-rn.org/FR-RN"
-url: "https://www.recherche-reproductible.fr/FR-RN"
+url: "https://www.recherche-reproductible.fr/"
 baseurl: ""
 
 plugins:
