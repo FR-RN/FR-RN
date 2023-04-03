@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webinaire : La reproductibilité de calculs en Python"
-date:   2023-04-06 15:00 +0100
+date:   2023-04-11 15:00 +0100
 categories: news
 ---
 
