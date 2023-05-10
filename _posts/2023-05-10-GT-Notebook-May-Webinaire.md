@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GT Notebook Webinaire #3 Spécial Computo & Onyxia - REPORT"
+title:  "GT Notebook Webinaire #3 Spécial Computo & Onyxia"
 date:   2023-05-24 14:30 +0100
 categories: news
 ---
