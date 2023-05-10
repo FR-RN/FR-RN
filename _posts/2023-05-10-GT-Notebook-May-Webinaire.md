@@ -11,7 +11,7 @@ Pour ce troisième webinaire plus conséquent (14h30 à 16h30), nous aurons le p
 
 Pour vous inscrire, merci d’indiquer vos coordonnées (nom, prénom, courriel) dans [ce formulaire](https://enquetes.univ-rouen.fr/739657?lang=fr).
 
-La séance a lieu en ligne sur BBB, en simultanée un chat sur le rocket-chat d’Esup (https://rocket.esup-portail.org/channel/GT-Notebook) Vous recevrez les différentes informations la veille du webinaire.
+La séance a lieu en ligne sur BBB, en simultanée le [canal GT-Notebook du rocket-chat d’Esup](https://rocket.esup-portail.org/channel/GT-Notebook) Vous recevrez les différentes informations la veille du webinaire.
 
 ---
 
@@ -19,7 +19,7 @@ Appel à participation : les rubriques revue de littérature et retour d’expé
 
 ---
 
-Pour prendre connaissance des activités et des futurs du gt notebook, c’est ici (humanum gitlab page work in progress) https://gt-notebook.gitpages.huma-num.fr/site_quarto/ ou là [groupe humanum gitlab](https://gitlab.huma-num.fr/gt-notebook).
+Pour prendre connaissance des activités et des futurs du gt notebook, c’est ici [humanum gitlab page work in progress](https://gt-notebook.gitpages.huma-num.fr/site_quarto/) ou là [groupe humanum gitlab](https://gitlab.huma-num.fr/gt-notebook).
 
 ---
 
@@ -27,8 +27,8 @@ Pour rappel, le gt Notebook à le plaisir de vous proposer une série de webinai
 
 En attendant l’ouverture d’une chaine Canal-U, les vidéos des sessions sont disponible ici :
 
-    Session 1 / Quarto : https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1680166785045
+[Session 1 / Quarto](https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1680166785045)
 
-    Session 2 / Interactivité : https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1681902920713
+[Session 2 / Interactivité(https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1681902920713)
 
 Espérant vous accueillir nombreux et nombreuses.
