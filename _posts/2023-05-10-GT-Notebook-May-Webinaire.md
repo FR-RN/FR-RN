@@ -23,7 +23,7 @@ Pour prendre connaissance des activités et des futurs du gt notebook, c’est i
 
 Pour rappel, le gt Notebook à le plaisir de vous proposer une série de webinaires pour 2023, l’objectif est d’explorer cet objet complexe que sont les notebooks, et cela au travers de ces différentes facettes : histoire, épistémologie, écriture, reproductibilité, plateformes, avantages et limites pédagogiques, interactivité, etc.
 
-En attendant l’ouverture d’une chaine Canal-U, les vidéos des sessions sont disponible ici :
+En attendant l’ouverture d’une chaine Canal-U, les vidéos des sessions sont disponibles ici :
 
 [Session 1 / Quarto](https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1680166785045)
 
