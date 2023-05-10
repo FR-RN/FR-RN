@@ -5,9 +5,7 @@ date:   2023-05-24 14:30 +0100
 categories: news
 ---
 
-Pour ce troisième webinaire plus conséquent (14h30 à 16h30), nous aurons le plaisir d’écouter les équipes de deux importants projets : Onyxia et Computo. C’est là l’occasion pour le gt notebook de mettre en débat les questions relatives aux Notebooks tels qu’utilisés au sein de nouveaux modèles de revues (RZine, ReScience, etc.), articulées à celles de leurs déploiements au moyen d’infrastructures techniques ou de plateformes avec l’équipe de Computo, en présence de Ghislain Durif (IGR Biostatistique à l’ENS Lyon), et l’équipe de la plateforme Onyxia, avec Lino Galiana (Data Scientist à l’INSEE) et Romain Lesur (Responsable du Lab de Data Science à l’INSEE.).
-
----
+Pour ce troisième webinaire plus conséquent (**le 24 mai de 14h30 à 16h30**), nous aurons le plaisir d’écouter les équipes de deux importants projets : **Onyxia et Computo**. C’est là l’occasion pour le gt notebook de mettre en débat les questions relatives aux Notebooks tels qu’utilisés au sein de nouveaux modèles de revues (RZine, ReScience, etc.), articulées à celles de leurs déploiements au moyen d’infrastructures techniques ou de plateformes avec l’équipe de [Computo](https://computo.sfds.asso.fr/), en présence de **Ghislain Durif** (IGR Biostatistique à l’ENS Lyon), et l’équipe de la plateforme [Onyxia](https://onyxia.lab.sspcloud.fr/), avec **Lino Galiana** (Data Scientist à l’INSEE) et **Romain Lesur** (Responsable du Lab de Data Science à l’INSEE.).
 
 Pour vous inscrire, merci d’indiquer vos coordonnées (nom, prénom, courriel) dans [ce formulaire](https://enquetes.univ-rouen.fr/739657?lang=fr).
 
