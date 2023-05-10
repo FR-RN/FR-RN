@@ -29,6 +29,6 @@ En attendant l’ouverture d’une chaine Canal-U, les vidéos des sessions sont
 
 [Session 1 / Quarto](https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1680166785045)
 
-[Session 2 / Interactivité(https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1681902920713)
+[Session 2 / Interactivité](https://webconf.univ-rouen.fr/playback/presentation/2.3/cad24ac6d5fe122b54365996bc9d391a67493b99-1681902920713)
 
 Espérant vous accueillir nombreux et nombreuses.
