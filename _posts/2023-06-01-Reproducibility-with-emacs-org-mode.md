@@ -5,6 +5,7 @@ date:   2023-06-01 14:00 +0100
 categories: news
 ---
 
+
 Les notebooks Jupyter ou Mathematica, l'IDE Rstudio et son format
 RMarkdown, Emacs/Org-mode, ou leurs nombreuses déclinaisons sont
 devenus extrêmement populaires ces 10 dernières années. Ces outils qui
@@ -27,6 +28,7 @@ capacités à répondre à tel ou tel usage en me basant sur ma propre
 expérience, puis je ferai une petite démonstration de mon utilisation
 d'Emacs/org-mode au quotidien.
 
+Ce webinaire sera animé par **Arnaud Legrand**, directeur de recherche au Laboratoire d'Informatique de Grenoble ([LIG](https://www.liglab.fr/)).
 
 Les informations de connexion (zoom) seront diffusés sur le site web :
 https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/web/
