@@ -9,7 +9,7 @@ permalink: /resources/
 ## Liste de diffusion
 
 L'objectif de la liste
-**[recherche-reproductible](https://listes.univ-orleans.fr/sympa/subscribe/recherche-reproductible)**
+**[recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible)**
 est de confronter les points de vue de différentes disciplines
 scientifiques sur la notion de reproductibilité et recenser les
 différentes initiatives prises notamment au niveau national. Au-delà
@@ -20,7 +20,7 @@ peuvent émerger autour notamment du concept de publication exécutable.
 
 ## Forum de discussion
 
-Le **[forum](https://reproducible-research.inria.fr)** de la recherche reproductible est le lieu pour discuter librement de la reproductibilité afin d'améliorer notre méthodologie de recherche en échangeant des expériences, des informations et des conseils. Aidez-nous à faire de ce site un lieu de discussion privilégié en essayant toujours d'améliorer la discussion d'une manière ou d'une autre, aussi minime soit-elle.
+Le **[forum](https://forum.recherche-reproductible.fr/)** de la recherche reproductible est le lieu pour discuter librement de la reproductibilité afin d'améliorer notre méthodologie de recherche en échangeant des expériences, des informations et des conseils. Aidez-nous à faire de ce site un lieu de discussion privilégié en essayant toujours d'améliorer la discussion d'une manière ou d'une autre, aussi minime soit-elle.
 
 ## Syndication
 
