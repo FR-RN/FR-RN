@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A reproducible and generalizable software workflow for analysis of large-scale neuroimaging data collections using BIDS Apps"
-date:   2023-01-09 08:00 +0100
+date:   2023-08-18 08:00 +0100
 categories: publication
 tags: computational science
 lang: english
