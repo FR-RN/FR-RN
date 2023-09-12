@@ -2,32 +2,30 @@
 layout: page
 title: Communauté
 permalink: /community/
-cities: ["Bordeaux", "Grenoble", "Orléans", "Orsay", "Paris", "Rennes", "Saclay", "Strasbourg", "Tarbes", "Toulouse"]
+cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand", "Corte", "Dijon", "Évry",  "Gif-Sur-Yvette", "Grenoble", "Lyon", "Bron", "Marseille", "Montpellier", "Nice", "Orléans", "Orsay", "Palaiseau", "Paris", "Rennes", "Rungis", "Saclay", "Strasbourg", "Tarbes", "Toulouse", "Villetaneuse", "Villeurbanne"]
 ---
 
 # Membres du réseau
 
 Voilà la liste des universitaires ayant exprimé un intérêt ou étant actifs autour des thématiques de la recherche reproductible.
 
-{% assign files = site.data.people | sort %}
 {% for city in page.cities %}
 ## {{ city }}
   <ul>
-  {% for f in files %}
-    {% assign person = f[1] %}
+  {% for person in site.data.members %}
     {%if person.city == city %}
-      <li>
-        {%if person.url %}
+       <li>
+       {%if person.url %}
           <b><a href="{{ person.url }}"> {{ person.name }}</a></b>
-        {% else %}
-          <b><a href="{{ person.laboratory.url }}"> {{ person.name }}</a></b>
-        {% endif %}  
-        — <a href="{{ person.laboratory.url }}"> {{ person.laboratory.name }}</a> 
-      </li>
+       {% else %}
+          <b>{{ person.name }}</b>
+       {% endif %}  
+       — {{ person.lab }}
+       </li>
     {% endif %}  
   {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %}  
 
 
 # Réseaux internationaux

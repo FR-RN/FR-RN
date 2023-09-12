@@ -1,0 +1,456 @@
+- name: Céline Acary-Robert
+  url: https://team.inria.fr/airsea/en/celine-acary-robert/
+  lab: Laboratoire Jean Kuntzmann
+  city: Grenoble
+- name: Sarah Cohen-Boulakia
+  url: https://sarah.cohen-boulakia.eu/
+  lab: Laboratoire Interdisciplinaire des Sciences du Numérique
+  city: Orsay
+- name: Benoit Combemale
+  url: https://people.irisa.fr/Benoit.Combemale/
+  lab: Institut de Recherche en Informatique et Systèmes Aléatoires
+  city: Rennes
+- name: Ludovic Courtès
+  url: https://people.bordeaux.inria.fr/lcourtes/
+  lab: Inria Bordeaux Sud-Ouest
+  city: Bordeaux
+- name: Marie-Josee Cros
+  url: https://sites.google.com/site/mariejoseecros
+  lab: Unité de Mathématiques et Informatique Appliquées
+  city: Toulouse
+- name: Andrew P. Davison
+  url: https://neuropsi.cnrs.fr/annuaire/andrew-davison/
+  lab: Institut des Neurosciences Paris-Saclay (NeuroPSI)
+  city: Saclay
+- name: Konrad Hinsen
+  url: http://dirac.cnrs-orleans.fr/~hinsen
+  lab: Centre de Biophysique Moléculaire
+  city: Orléans
+- name: Sacha Hodencq
+  url: https://pad.lescommuns.org/SachaHodencq
+  lab: Grenoble Electrical Engineering Laboratory (G2Elab)
+  city: Grenoble
+- name: Hans Rocha IJzerman
+  url: https://www.lippc2s.fr/archives/person/ijzerman-hans/
+  lab: Laboratoire Inter-universitaire de Psychologie
+  city: Grenoble
+- name: Johann Dreo
+  url: http://johann.dreo.fr
+  lab: Computational Systems Biomedicine
+  city: Paris
+- name: Arnaud Legrand
+  url: http://polaris.imag.fr/arnaud.legrand/
+  lab: Laboratoire d'Informatique de Grenoble
+  city: Grenoble
+- name: Frédéric Lemoine
+  url: https://research.pasteur.fr/fr/member/frederic-lemoine/
+  lab: Institut Pasteur
+  city: Paris
+- name: Violaine Louvet
+  url: https://louvet.perso.math.cnrs.fr/
+  lab: GRICAD - Infrastructure de Calcul Intensif et de Données
+  city: Grenoble
+- name: Valérie Orozco
+  url: https://www.tse-fr.eu/fr/people/valerie-orozco
+  lab: Toulouse School of Economics (TSE-R)
+  city: Toulouse
+- name: Pierre Poulain
+  url: https://cupnet.net/
+  lab: Institut Jacques Monod
+  city: Paris
+- name: Christophe Pouzat
+  url: http://xtof.perso.math.cnrs.fr/
+  lab: Institut de Recherche Mathématique Avancée
+  city: Strasbourg
+- name: François Ric
+  url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
+  lab: Laboratoire de Psychologie
+  city: Bordeaux
+- name: Nicolas P. Rougier
+  url: https://www.labri.fr/perso/nrougier/
+  lab: Institute of Neurodegenerative Diseases
+  city: Bordeaux
+- name: Simon Tournier
+  url: https://simon.tournier.info
+  lab: Institut de Recherche Saint Louis
+  city: Paris
+- name: Pierre-Antoine Bouttier
+  url: 
+  city: Grenoble
+  lab: UAR GRICAD
+- name: Camille Maumet
+  url: http://camillemaumet.com/
+  city: Rennes
+  lab: IRISA / Inria Rennes
+- name: Isabelle Boutron
+  url: 
+  city: Paris
+  lab: Centre de Recherche en Epidémiologie et Statistique (CRESS)
+- name: Elise Maigné
+  url: https://miat.inrae.fr/site/Elise_Maign%C3%A9
+  city: Toulouse
+  lab: MIAT
+- name: Gaëlle Leroux
+  url: https://cv.hal.science/gaelle-leroux
+  city: Lyon
+  lab: Centre de Recherche en Neurosciences de Lyon (CRNL)
+- name: Thomas Moreau
+  url: https://tommoral.github.io
+  city: Saclay
+  lab: MIND
+- name: Fay Betsou
+  url: https://research.pasteur.fr/en/member/fay-betsou/
+  city: Paris
+  lab: CRBIP
+- name: Etienne Kornobis
+  url: https://research.pasteur.fr/en/member/etienne-kornobis/
+  city: Paris
+  lab: Biomics
+- name: Miguel Colom
+  url: http://mcolom.perso.math.cnrs.fr/
+  city: Gif-Sur-Yvette
+  lab: Centre Borelli
+- name: Florian Naudet
+  url: https://www.reither.org/
+  city: Rennes
+  lab: IRSET
+- name: Frédéric Santos
+  url: 
+  city: Bordeaux
+  lab: UMR 5199 PACEA
+- name: Violaine Louvet
+  url: 
+  city: Grenoble
+  lab: Laboratoire Jean Kuntzmann
+- name: Claude Gronfier
+  url: https://www.crnl.fr/fr/user/165
+  city: Bron
+  lab: Centre de recherche en neurosciences de Lyon (CRNL)
+- name: Nicolas Roelandt
+  url: 
+  city: Bron
+  lab: Département Aménagement Mobilités Environnement
+- name: Mathurin Massias
+  url: https://mathurinm.github.io/
+  city: Lyon
+  lab: LIP
+- name: Julien Chiquet
+  url: https://jchiquet.github.io/
+  city: Palaiseau
+  lab: UMR MIA Paris-Saclay
+- name: Yves Rozenholc
+  url: 
+  city: Paris
+  lab: UR 7537 BioSTM 7537 BioSTM
+- name: Sergiu Ivanov
+  url: https://www.ibisc.univ-evry.fr/~sivanov/
+  city: Évry
+  lab: IBISC
+- name: Tru Huynh
+  url: 
+  city: Paris
+  lab: unité de bioinformatique structurale (Nilges)
+- name: Christophe Hurlin
+  url: https://sites.google.com/view/christophe-hurlin/home?authuser=0
+  city: Orléans
+  lab: LEO
+- name: Nicolas Ferey
+  url: 
+  city: Orsay
+  lab: Laboratoire Interdisciplinaire des Sciences du Numérique
+- name: Pascal Irz
+  url: https://github.com/PascalIrz
+  city: Rennes
+  lab: 
+- name: Aubin Thomas
+  url: 
+  city: Montpellier
+  lab: Institut de Génétique Humaine
+- name: Yvan Peter
+  url: https://pro.univ-lille.fr/yvan-peter/
+  city: 
+  lab: CRIStAL
+- name: Ghislain Durif
+  url: https://gdurif.perso.math.cnrs.fr/
+  city: Lyon
+  lab: Laboratoire de Biologie et Modélisation de la Cellule
+- name: Joan Hérisson
+  url: 
+  city: Évry
+  lab: Génomique Métabolique
+- name: David Hill
+  url: https://perso.isima.fr/~dahill/
+  city: Clermont-Ferrand
+  lab: LIMOS UMR CNRS 6158
+- name: Pierre Neuvial
+  url: https://www.math.univ-toulouse.fr/~pneuvial/
+  city: Toulouse
+  lab: Institut de Mathématiques de Toulouse
+- name: Loïc Paulevé
+  url: https://loicpauleve.name
+  city: Bordeaux
+  lab: LaBRI
+- name: Olivier Richard
+  url: https://team.inria.fr/datamove/team-members/olivier-richard/
+  city: Grenoble
+  lab: LIG
+- name: Sylvain Soliman
+  url: http://lifeware.inria.fr/~soliman/
+  city: Palaiseau
+  lab: Équipe LIFEWARE, Centre Inria Saclay
+- name: Pierre-François Roux
+  url: http://pierre-francois-roux.com
+  city: Montpellier
+  lab: Ontogenèse moléculaire
+- name: Laurent Oudre
+  url: http://www.laurentoudre.fr/index.html
+  city: Gif-Sur-Yvette
+  lab: Centre Borelli
+- name: Nathalie Lehmann
+  url: https://www.linkedin.com/in/nathalie-lehmann-90a7b693/
+  city: Rungis
+  lab: 
+- name: Nelle Varoquaux
+  url: nellev.github.io/
+  city: Grenoble
+  lab: TIMC
+- name: Emmanuelle Becker
+  url: https://www-dyliss.irisa.fr/team-members/emmanuelle-becker/
+  city: Rennes
+  lab: IRISA
+- name: Amira Barhoumi
+  url: 
+  city: Grenoble
+  lab: Laboratoire d'Informatique de Grenoble
+- name: Sorina Pop
+  url: https://www.creatis.insa-lyon.fr/site7/en/users/camarasu
+  city: Villeurbanne
+  lab: CREATIS
+- name: Roselyne Vallo
+  url: 
+  city: Montpellier
+  lab: Unité INSERM1058
+- name: Alice Brenon
+  url: https://perso.liris.cnrs.fr/abrenon/
+  city: Lyon
+  lab: LIRIS
+- name: Kim-An Nguyen
+  url: https://orcid.org/0000-0001-7594-504X
+  city: Lyon
+  lab: 
+- name: Franck Torre
+  url: 
+  city: Marseille
+  lab: IMBE
+- name: Olivier Pantalé
+  url: https://www.lgp.enit.fr/fr/page-presentation/p/a/n/uduser-opantale-fr.html
+  city: Tarbes
+  lab: Laboratoire Génie de Production
+- name: Teresa Gomez-Diaz
+  url: http://igm.univ-mlv.fr/~teresa/
+  city: 
+  lab: LIGM
+- name: Arthur Batel
+  url: https://liris.cnrs.fr/page-membre/arthur-batel
+  city: Lyon
+  lab: LIRIS
+- name: Marion Aguirrebengoa
+  url: 
+  city: Toulouse
+  lab: CBI
+- name: Sébastien Li-Thiao-Té
+  url: https://slithiaote.github.io/
+  city: Villetaneuse
+  lab: LAGA
+- name: Arnaud Legrand
+  url: https://polaris.imag.fr/arnaud.legrand/
+  city: Grenoble
+  lab: LIG
+- name: Maha Said
+  url: https://nanobubbles.hypotheses.org/team-members
+  city: Bobigny
+  lab: LVTS
+- name: Nathanne Rost
+  url: 
+  city: Chelles
+  lab: LVTS
+- name: François-Xavier Lyonnet-Du-Moutier
+  url: 
+  city: Paris
+  lab: CiTCoM
+- name: Sabrina Granger
+  url: 
+  city: Lyon
+  lab: Software Heritage
+- name: François-David Collin
+  url: 
+  city: Montpellier
+  lab: IMAG/UMR5149
+- name: Facundo Muñoz
+  url: https://www.uv.es/famarmu/
+  city: Montpellier
+  lab: UMR ASTRE
+- name: Josselin Noirel
+  url: 
+  city: Paris
+  lab: GBCM
+- name: Nicolas Vayatis
+  url: https://nvayatis.perso.math.cnrs.fr/
+  city: Gif-Sur-Yvette
+  lab: Centre Borelli
+- name: David Trémouilles
+  url: 
+  city: Toulouse
+  lab: LAAS
+- name: Valérie Orozco
+  url: https://www.tse-fr.eu/fr/people/valerie-orozco
+  city: Toulouse
+  lab: TSE-R
+- name: Benoist Laurent
+  url: 
+  city: Paris
+  lab: Laboratoire de Biochimie Théorique
+- name: Silvia Bottini
+  url: 
+  city: Nice
+  lab: MDLab
+- name: Myriam Carrere
+  url: https://orcid.org/0000-0001-6026-8656
+  city: Montpellier
+  lab: UMR MoISA
+- name: François Ric
+  url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
+  city: Bordeaux
+  lab: Laboratoire de psychologie UR 4139
+- name: Paul-Antoine Bisgambiglia
+  url: https://pa-bisgambiglia.universita.corsica/
+  city: Corte
+  lab: UMR SPE
+- name: Clément Foucher
+  url: https://homepages.laas.fr/cfoucher/
+  city: Toulouse
+  lab: LAAS
+- name: Fabien Chauveau
+  url: https://www.rd-alliance.org/user/32154
+  city: Lyon
+  lab: Centre de Recherche en Neurosciences de Lyon
+- name: Thomas Vuillaume
+  url: https://vuillaut.github.io/
+  city: Annecy
+  lab: LAPP
+- name: Alexandre Dehne-Garcia
+  url: 
+  city: Montpellier
+  lab: DIpSO
+- name: Roberto Toro
+  url: https://research.pasteur.fr/en/member/roberto-toro/
+  city: Paris
+  lab: Neuroanatomie appliquée et théorique
+- name: Khalid Belkhir
+  url: 
+  city: Montpellier
+  lab: ISEM
+- name: Lydia Yahia-Cherif
+  url: 
+  city: Paris
+  lab: ICM
+- name: Laurent Jourdren
+  url: 
+  city: Paris
+  lab: IBENS (ENS - CNRS UMR8197 - Inserm U1024)
+- name: Konrad Hinsen
+  url: http://dirac.cnrs-orleans.fr/~hinsen/
+  city: Orléans
+  lab: Centre de Biophysique Moléculaire
+- name: Carine Lucas
+  url: https://www.idpoisson.fr/lucas/
+  city: Orléans
+  lab: Institut Denis Poisson
+- name: Aurélien Allard
+  url: https://scholar.google.com/citations?user=zfabxjkAAAAJ
+  city: Paris
+  lab: Sciences, Normes, Démocratie (SND)
+- name: Céline Acary-Robert
+  url: https://team.inria.fr/airsea/celine-acary-robert/
+  city: Grenoble
+  lab: LJK
+- name: Fabrice Leclerc
+  url: 
+  city: Gif-Sur-Yvette
+  lab: I2BC
+- name: Pierre Poulain
+  url: https://cupnet.net/
+  city: Paris
+  lab: Institut Jacques Monod
+- name: Christophe Heligon
+  url: https://igdr.univ-rennes.fr/christophe-heligon
+  city: Rennes
+  lab: Institut de Génétique et Développement de Rennes (IGDR)
+- name: Aurélien Cottin
+  url: 
+  city: Dijon
+  lab: UMR Agroécologie - pôle Biome - équipe BioCom
+- name: Yoann Lafon
+  url: 
+  city: Bron
+  lab: Laboratoire de Biomécanique et Mécanique des Chocs, LBMC, UMR_T 9406
+- name: Thomas Denecker
+  url: http://thomas.denecker.free.fr/
+  city: Paris
+  lab: CNRS
+- name: Magali Hennion
+  url: 
+  city: Paris
+  lab: Epigénétique et Destin Cellulaire
+- name: Aurelie Siberchicot
+  url: https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/siberchicot-aurelie
+  city: Villeurbanne
+  lab: LABORATOIRE DE BIOMETRIE ET BIOLOGIE EVOLUTIVE
+- name: Boris Hejblum
+  url: https://borishejblum.science
+  city: Bordeaux
+  lab: Bordeaux Population Health U1219
+- name: Timothée Giraud
+  url: https://rgeomatic.hypotheses.org/
+  city: Paris
+  lab: UAR 2414 RIATE
+- name: Martin Amouzou
+  url: https://linkedin.com/in/martin-k-amouzou
+  city: Rennes
+  lab: 
+- name: Frédéric Lemoine
+  url: https://research.pasteur.fr/en/member/frederic-lemoine/
+  city: Paris
+  lab: Hub bioinformatique / biostatistique -
+- name: Stephane Dray
+  url: https://github.com/sdray
+  city: Villeurbanne
+  lab: Laboratoire de Biométrie et Biologie Evolutive
+- name: Vincent Lefort
+  url: https://orcid.org/0000-0003-2864-4783
+  city: Montpellier
+  lab: LIRMM
+- name: Raphaël Lévy
+  url: https://nanobubbles.hypotheses.org/
+  city: Bobigny
+  lab: Laboratory for Vascular Translational Research (UMRS 1148)
+- name: Simon Tournier
+  url: simon.tournier.info
+  city: Paris
+  lab: Plateforme Saint Louis
+- name: Alexandre Hocquet
+  url: https://www.wikidata.org/wiki/Q25975812
+  city: Paris
+  lab: Archives Poincaré (UMR 7117)
+- name: Philippe Hupé
+  url: https://institut-curie.org/personne/philippe-hupe
+  city: Paris
+  lab: Bioinformatics Core Facility
+- name: Nicolas Servant
+  url: 
+  city: Paris
+  lab: Plate-forme de bioinformatique
+- name: Jose-Armando Hernandez-Gonzalez
+  url: https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/jose-armando-hernandez-gonzalez
+  city: Gif-Sur-Yvette
+  lab: Centre Borelli
