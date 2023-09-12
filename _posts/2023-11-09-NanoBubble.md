@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The role of replication in scientific controversies"
-date:   2023-09-08 9:00 +0100
+date:   2023-11-09 9:00 +0100
 categories: event
 ---
 
