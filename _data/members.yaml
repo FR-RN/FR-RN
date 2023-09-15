@@ -43,7 +43,7 @@
   lab: Laboratoire d'Informatique de Grenoble
   city: Grenoble
 - name: Frédéric Lemoine
-  url: https://research.pasteur.fr/fr/member/frederic-lemoine/
+  url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
   city: Paris
 - name: Violaine Louvet
@@ -418,10 +418,6 @@
   url: https://linkedin.com/in/martin-k-amouzou
   city: Rennes
   lab: 
-- name: Frédéric Lemoine
-  url: https://research.pasteur.fr/en/member/frederic-lemoine/
-  city: Paris
-  lab: Hub bioinformatique / biostatistique -
 - name: Stephane Dray
   url: https://github.com/sdray
   city: Villeurbanne
