@@ -50,10 +50,6 @@
   url: https://louvet.perso.math.cnrs.fr/
   lab: GRICAD - Infrastructure de Calcul Intensif et de Données
   city: Grenoble
-- name: Valérie Orozco
-  url: https://www.tse-fr.eu/fr/people/valerie-orozco
-  lab: Toulouse School of Economics (TSE-R)
-  city: Toulouse
 - name: Pierre Poulain
   url: https://cupnet.net/
   lab: Institut Jacques Monod
@@ -64,7 +60,7 @@
   city: Strasbourg
 - name: François Ric
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
-  lab: Laboratoire de Psychologie
+  lab: Laboratoire de Psychologie  UR 4139
   city: Bordeaux
 - name: Nicolas P. Rougier
   url: https://www.labri.fr/perso/nrougier/
@@ -118,10 +114,6 @@
   url: 
   city: Bordeaux
   lab: UMR 5199 PACEA
-- name: Violaine Louvet
-  url: 
-  city: Grenoble
-  lab: Laboratoire Jean Kuntzmann
 - name: Claude Gronfier
   url: https://www.crnl.fr/fr/user/165
   city: Bron
@@ -308,8 +300,8 @@
   lab: LAAS
 - name: Valérie Orozco
   url: https://www.tse-fr.eu/fr/people/valerie-orozco
+  lab: Toulouse School of Economics (TSE-R)
   city: Toulouse
-  lab: TSE-R
 - name: Benoist Laurent
   url: 
   city: Paris
@@ -322,10 +314,6 @@
   url: https://orcid.org/0000-0001-6026-8656
   city: Montpellier
   lab: UMR MoISA
-- name: François Ric
-  url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
-  city: Bordeaux
-  lab: Laboratoire de psychologie UR 4139
 - name: Paul-Antoine Bisgambiglia
   url: https://pa-bisgambiglia.universita.corsica/
   city: Corte
@@ -362,10 +350,6 @@
   url: 
   city: Paris
   lab: IBENS (ENS - CNRS UMR8197 - Inserm U1024)
-- name: Konrad Hinsen
-  url: http://dirac.cnrs-orleans.fr/~hinsen/
-  city: Orléans
-  lab: Centre de Biophysique Moléculaire
 - name: Carine Lucas
   url: https://www.idpoisson.fr/lucas/
   city: Orléans
@@ -409,7 +393,7 @@
 - name: Aurelie Siberchicot
   url: https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/siberchicot-aurelie
   city: Villeurbanne
-  lab: LABORATOIRE DE BIOMETRIE ET BIOLOGIE EVOLUTIVE
+  lab: Laboratoire de Biométrie et Biologie Evolutive
 - name: Boris Hejblum
   url: https://borishejblum.science
   city: Bordeaux
