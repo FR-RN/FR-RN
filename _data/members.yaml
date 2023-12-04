@@ -439,10 +439,14 @@
   city: Gif-Sur-Yvette
   lab: Centre Borelli
 - name: Emmanuel Medernach
-  url: 
+  url: https://iphc.cnrs.fr/annuaire/fiche/?nom=Emmanuel-MEDERNACH
   city: Strasbourg
-  lab: IPHC IN2P3
+  lab: IPHC
 - name: Guillaume Sescousse
   url: https://guillaumesescousse.wordpress.com/
   lab: Centre de Recherche en Neurosciences de Lyon (CRNL) 
   city: Lyon
+- name: Jérôme Pansanel
+  url: https://iphc.cnrs.fr/annuaire/fiche/?nom=J%C3%A9r%C3%B4me-PANSANEL
+  city: Strasbourg
+  lab: IPHC
