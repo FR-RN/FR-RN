@@ -4,13 +4,13 @@ permalink: /rr-days-2024/
 ---
 
 
-# Journées du réseau recherche reproductible: état des lieux
+# Journées du réseau Recherche Reproductible: état des lieux
 ## Les 26, 27 et 28 mars 2024 à Grenoble
 
 Les inscriptions sont ouvertes ! 
 
 
-Le programme préliminaire et l'inscription sont sur le site :
+Le programme préliminaire et l'inscription sont à retrouver sur le site :
 [sciencesconf](https://jrfrr-2024.sciencesconf.org/).
 
 [![](../assets/images/recherche-reproductible.png){: style="border: 1px solid black; width: 41%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible.pdf)
@@ -42,6 +42,7 @@ des enjeux de ce workshop est donc de réfléchir à la définition et à
 la gouvernance d’un tel réseau, à son positionnement vis à vis
 d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
 (par exemple).
+
 **Organisateurs**:  
 Céline Acary-Robert (LJK/GRICAD/MaiMoSiNE, Université de Grenoble Alpes)
 Pierre-Antoine Bouttier (GRICAD, CNRS, Grenoble)
@@ -61,6 +62,6 @@ de toute la diversité des pratiques et le but des ces journées (et
 des discusions que l'on espère fructueuses) est de partager et faire
 découvrir nos différentes problématiques, définitions et mises en pratique.
 
-Le programme est à retrouver **[ici](https://jrfrr-2024.sciencesconf.org/resource/page/id/1)**
+Le programme est à retrouver [ici](https://jrfrr-2024.sciencesconf.org/resource/page/id/1).
 
 ---
