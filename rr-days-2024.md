@@ -13,6 +13,7 @@ Les inscriptions sont ouvertes !
 Le programme préliminaire et l'inscription sont à retrouver sur le site :
 [sciencesconf](https://jrfrr-2024.sciencesconf.org/).
 
+
 [![](../assets/images/recherche-reproductible-affiche-2024.png){: style="border: 1px solid black; width: 41%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible-affiche-2024.pdf)
 
 Un nombre croissant de chercheurs s’intéresse à la problématique de la
@@ -44,9 +45,9 @@ d’instances comme le [COSO](https://www.ouvrirlascience.fr/comite-fr/)
 (par exemple).
 
 **Organisateurs**:  
-Céline Acary-Robert (LJK/GRICAD/MaiMoSiNE, Université de Grenoble Alpes)
-Pierre-Antoine Bouttier (GRICAD, CNRS, Grenoble)
-Violaine Louvet (LJK, CNRS, Grenoble)
+* Céline Acary-Robert (LJK/GRICAD/MaiMoSiNE, Université de Grenoble Alpes)
+* Pierre-Antoine Bouttier (GRICAD, CNRS, Grenoble)
+* Violaine Louvet (LJK, CNRS, Grenoble)
 
 **Comité de pilotage du réseau**:  
 * Céline Acary-Robert (LJK/GRICAD/MaiMoSiNE, Université de Grenoble Alpes)
@@ -57,9 +58,9 @@ Violaine Louvet (LJK, CNRS, Grenoble)
 
 ### Programme préliminaire
 
-Le programme a été mis en place en essayant de mettre l'accent sur la reproductibilité expériementale de toutes idsciplines d'une part et sur la formation d'autres part. Les différentes sessions ne seront certainement pas représentatives
+Le programme a été mis en place en essayant de mettre l'accent sur la reproductibilité expérimentale de toutes disciplines d'une part et sur la formation d'autre part. Les différentes sessions ne seront certainement pas représentatives
 de toute la diversité des pratiques et le but des ces journées (et
-des discusions que l'on espère fructueuses) est de partager et faire
+des discussions que l'on espère fructueuses) est de partager et faire
 découvrir nos différentes problématiques, définitions et mises en pratique.
 
 Le programme est à retrouver [ici](https://jrfrr-2024.sciencesconf.org/resource/page/id/1).
