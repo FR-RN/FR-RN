@@ -13,7 +13,7 @@ Les inscriptions sont ouvertes !
 Le programme préliminaire et l'inscription sont à retrouver sur le site :
 [sciencesconf](https://jrfrr-2024.sciencesconf.org/).
 
-[![](../assets/images/recherche-reproductible.png){: style="border: 1px solid black; width: 41%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible.pdf)
+[![](../assets/images/recherche-reproductible-affiche-2024.png){: style="border: 1px solid black; width: 41%; float: left; margin-right: 1em;" }](../assets/images/recherche-reproductible-affiche-2024.pdf)
 
 Un nombre croissant de chercheurs s’intéresse à la problématique de la
 reproductibilité, dont la définition même peut grandement varier d’une
