@@ -17,7 +17,7 @@ Ce réseau a trois principaux objectifs :
 
 Afin d’aider à la croissance de ce réseau et à l'implémentation de ses objectifs, nous recherchons un.e chargé.e de projet, dont la mission principale sera d'approfondir la structuration, d'animer et de coordonner les différentes activité du réseau, notamment avec les autres structures nationales (réseaux, GDR, labos) et européennes (EOSC, réseaux européens de la recherche reproductible, projets européens). 
 
-Le fiche de poste est téléchargeable [ici](/assets/pdfs/2024_01_Fiche_de_poste_chargee_de_projet.pdf).
+Pour plus d'informations et pour candidater, veuiller vous rendre sur la page [suivante](https://recrutement.inria.fr/public/classic/fr/offres/2024-07107).
 
 Contact :
 
