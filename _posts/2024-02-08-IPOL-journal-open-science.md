@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The IPOL journal and its approach to open science"
+title:  "Webinaire : IPOL journal and its approach to open science"
 date:   2024-02-08 14:00 +0100
 categories: news
 ---
