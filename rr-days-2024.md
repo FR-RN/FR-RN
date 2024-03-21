@@ -4,10 +4,10 @@ permalink: /rr-days-2024/
 ---
 
 
-# Journées du réseau Recherche Reproductible: état des lieux
+# Journées du réseau Recherche Reproductible
 ## Les 26, 27 et 28 mars 2024 à Grenoble
 
-Les inscriptions sont mainetnant fermées mais ces journées seront diffusées ne direct et enregistrées !
+Les inscriptions sont maintenant fermées mais ces journées seront diffusées en direct et enregistrées !
 
 Pour suivre le direct : 
 
