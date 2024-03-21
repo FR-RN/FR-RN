@@ -7,10 +7,17 @@ permalink: /rr-days-2024/
 # Journées du réseau Recherche Reproductible: état des lieux
 ## Les 26, 27 et 28 mars 2024 à Grenoble
 
-Les inscriptions sont ouvertes ! 
+Les inscriptions sont mainetnant fermées mais ces journées seront diffusées ne direct et enregistrées !
 
+Pour suivre le direct : 
 
-Le programme préliminaire et l'inscription sont à retrouver sur le site :
+[https://videos.univ-grenoble-alpes.fr/live/my_events/](https://videos.univ-grenoble-alpes.fr/live/my_events/)
+
+Vous pouvez également poser vos questions et noter toutes vos remarques et contributions sur le pad :
+
+[https://semestriel.framapad.org/p/jrfrr2024-a6iy](https://semestriel.framapad.org/p/jrfrr2024-a6iy)
+
+Le programme est à retrouver sur le site :
 [sciencesconf](https://jrfrr-2024.sciencesconf.org/).
 
 
