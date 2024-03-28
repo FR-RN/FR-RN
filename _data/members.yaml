@@ -68,7 +68,7 @@
   city: Bordeaux
 - name: Simon Tournier
   url: https://simon.tournier.info
-  lab: Institut de Recherche Saint Louis
+  lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030 
   city: Paris
 - name: Pierre-Antoine Bouttier
   url: 
@@ -418,10 +418,6 @@
   url: https://nanobubbles.hypotheses.org/
   city: Bobigny
   lab: Laboratory for Vascular Translational Research (UMRS 1148)
-- name: Simon Tournier
-  url: simon.tournier.info
-  city: Paris
-  lab: Plateforme Saint Louis
 - name: Alexandre Hocquet
   url: https://www.wikidata.org/wiki/Q25975812
   city: Paris
