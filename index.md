@@ -10,13 +10,13 @@ n_posts: 3
 
 
 Le réseau français de la recherche reproductible est un réseau
-national composé d'universitaires intéressés par l'étude des facteurs
+national composé de scientifiques intéressés par l'étude des facteurs
 qui contribuent à la robustesse de la recherche, la promotion des
 activités de formation et la diffusion des bonnes pratiques ainsi que
 des recommandations. Les questions de reproductibilité touchent toutes
 les disciplines et le réseau vise une large représentation
 disciplinaire. Si vous êtes intéressé, envoyez-nous un
-[courriel](mailto:{{site.contact}}) et rejoignez le réseau !
+[courriel](mailto:{{site.contact}}) ou rejoignez la [mailing list](https://groupes.renater.fr/sympa/info/recherche-reproductible) !
 
 ## Prochains évenements
 
