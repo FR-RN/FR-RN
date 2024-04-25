@@ -1,22 +1,25 @@
 ---
 layout: page
-title: Communauté
-permalink: /community/
+title: Structure du réseau 
+permalink: /steering/
 cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand", "Corte", "Dijon", "Évry",  "Gif-Sur-Yvette", "Grenoble", "Limoges", "Lyon", "Marseille", "Montpellier", "Nantes", "Nice", "Orléans", "Orsay", "Palaiseau", "Paris", "Rennes", "Rungis", "Saclay", "Strasbourg", "Tarbes", "Toulouse", "Villetaneuse", "Villeurbanne"]
-siteNav: true
-childPages: ["Structure du réseau", "Réseaux internationaux", "Initiatives nationales"]
 ---
 
-# Membres du réseau
+# Organisation actuelle
 
-Liste des scientifiques ayant exprimé un intérêt ou étant actifs autour des thématiques de la recherche reproductible.
+![Structure réseau](../assets/images/frrn-structure.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
-{% for city in page.cities %}
-## {{ city }}
-  <ul>
+# Comité de pilotage
+
+Le comité de pilotage actuel est composé des membres suivants:
+
+  <ul style="list-style-type: none;">
   {% for person in site.data.members %}
-    {%if person.city == city %}
+       {%if person.steering == true %}
        <li>
+       {%if person.image %}
+       <img alt="{{ person.name }} image" src="{{ person.image }}" style="width: 100px; display:block;"/>
+       {%endif%}
        {%if person.url %}
           <b><a href="{{ person.url }}"> {{ person.name }}</a></b>
        {% else %}
@@ -24,7 +27,11 @@ Liste des scientifiques ayant exprimé un intérêt ou étant actifs autour des 
        {% endif %}  
        — {{ person.lab }}
        </li>
-    {% endif %}  
+       {% endif %}
   {% endfor %}
   </ul>
-{% endfor %}  
+
+# Collèges
+
+
+# Groupes de travail

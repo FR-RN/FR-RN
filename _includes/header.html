@@ -21,7 +21,19 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
+            {%- if my_page.siteNav == true -%}
+            <div style="float:left;">
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <div class="subpage-menu">
+            {%- for subtitle in my_page.childPages -%}
+              {%- assign my_subpage = site.pages | where: "title", subtitle | first -%}
+              {%- if my_subpage.title -%}
+              <a class="subpage-link" href="{{ my_subpage.url | relative_url }}">{{ my_subpage.title | escape }}</a>
+              {%- endif -%}  
+            {%- endfor -%}
+            </div>
+            </div>
+            {%- endif -%}
             {%- endif -%}
             {%- endfor -%}
           <a class="page-link" href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon orange">
