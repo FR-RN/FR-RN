@@ -2,6 +2,7 @@
 layout: page
 title: Ressources
 permalink: /resources/
+siteNav: true
 ---
 
 # Communication

@@ -2,10 +2,14 @@
   url: https://team.inria.fr/airsea/en/celine-acary-robert/
   lab: Laboratoire Jean Kuntzmann
   city: Grenoble
+  steering: true
+  image: https://team.inria.fr/airsea/files/2021/09/Celine_2021-150x150.png
 - name: Sarah Cohen-Boulakia
   url: https://sarah.cohen-boulakia.eu/
   lab: Laboratoire Interdisciplinaire des Sciences du Numérique
   city: Orsay
+  steering: true
+  image: https://www.lisn.upsaclay.fr/app/uploads/2024/02/CohenBoulakia_Sarah-20240220-2147-200x188.jpg
 - name: Benoit Combemale
   url: https://people.irisa.fr/Benoit.Combemale/
   lab: Institut de Recherche en Informatique et Systèmes Aléatoires
@@ -46,6 +50,8 @@
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
   city: Paris
+  steering: true
+  image: https://research.pasteur.fr/wp-content/uploads/2015/11/research_pasteur-frederic-lemoine-lemoine-frederic-26-small-crop-150x150.jpg
 - name: Violaine Louvet
   url: https://louvet.perso.math.cnrs.fr/
   lab: GRICAD - Infrastructure de Calcul Intensif et de Données
@@ -66,6 +72,8 @@
   url: https://www.labri.fr/perso/nrougier/
   lab: Institute of Neurodegenerative Diseases
   city: Bordeaux
+  steering: true
+  image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
 - name: Simon Tournier
   url: https://simon.tournier.info
   lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030 
@@ -262,6 +270,8 @@
   url: https://polaris.imag.fr/arnaud.legrand/
   city: Grenoble
   lab: LIG
+  steering: true
+  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
 - name: Maha Said
   url: https://nanobubbles.hypotheses.org/team-members
   city: Bobigny

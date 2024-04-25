@@ -86,6 +86,32 @@
     margin-left: 20px;
   }
 
+  .subpage-menu {
+    display:none;
+    margin-top:-15px;
+  }
+
+  a.page-link:hover + .subpage-menu {
+    display:block;
+  }
+
+  .subpage-menu:hover{
+    display:block;
+  }
+
+  .subpage-link {
+    color: $text-color;
+    line-height: $base-line-height;
+    display: block;
+    padding: 0px 10px;
+    margin-top:0px;
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 0;
+    }
+    margin-left: 0px;
+  }
+
   @media screen and (min-width: $on-medium) {
     position: static;
     float: right;
