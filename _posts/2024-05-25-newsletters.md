@@ -38,20 +38,6 @@ categories: newsletter
 
 ## Archives
 
-Vous pouvez retrouver les lettres plus anciennes sur la page Archive.
-
-<ul class="post-list">
- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for newsl in site.categories.newsletter -%}
-    <li>
-      <span class="post-meta">{{ newsletter.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ newsletter.url | relative_url }}">
-          {{ newsletter.title | escape }}
-        </a>
-      </h3>
-    </li>
- {%- endfor -%}
-</ul>
+Vous pouvez retrouver les lettres plus anciennes sur la page <a href="/newsletters">Archive</a>.
 
 ---

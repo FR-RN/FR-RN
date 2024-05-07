@@ -3,6 +3,7 @@ layout: page
 title: Ressources
 permalink: /resources/
 siteNav: true
+n_posts: 5
 ---
 
 # Communication
@@ -27,7 +28,7 @@ Le **[forum](https://forum.recherche-reproductible.fr/)** de la recherche reprod
 
 Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières nouvelles du réseau ainsi que des événements à venir en relation avec la rechercher reproductible en France et dans le monde.
 
-## Newsletters
+## <a href="/newsletters">Newsletters</a>
 
 Le réseau publie une newsletter tous les deux mois environ afin de partager les dernières actualités avec les membres du réseau.
 
