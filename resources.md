@@ -27,6 +27,26 @@ Le **[forum](https://forum.recherche-reproductible.fr/)** de la recherche reprod
 
 Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières nouvelles du réseau ainsi que des événements à venir en relation avec la rechercher reproductible en France et dans le monde.
 
+## Newsletters
+
+Le réseau publie une newsletter tous les deux mois environ afin de partager les dernières actualités avec les membres du réseau.
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.newsletter limit:page.n_posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+
+
 # Education
 
 ## Recherche reproductible : principes méthodologiques pour une science transparente
@@ -36,7 +56,7 @@ Ce **[mooc](https://www.fun-mooc.fr/en/courses/reproducible-research-methodologi
 
 ## Vers une recherche reproductible
 
-Pour un chercheur, il n’y a rien de plus frustrant que l’impossibilité de reproduire des résultats majeurs obtenus quelques mois auparavant. Les causes de ce type de déconvenues sont multiples et parfois pernicieuses. Ce phénomène participe à ce que certains identifient comme une “crise de la reproductibilité de la recherche”. Cet ouvrage {%cite book:2019 %} considère un ensemble de situations et de pratiques potentiellement dangereuses afin d’illustrer et de mettre en évidence les symptômes de la non-reproductibilité dans la recherche. À chaque fois, il propose un éventail de solutions allant de bonnes pratiques faciles et rapides à implémenter jusqu’à des outils plus techniques, tous gratuits et mis à l’épreuve par les auteurs eux-mêmes. Dans ce **[livre](https://rr-france.github.io/bookrr/)** rédigé lors d’un book sprint, étudiants, ingénieurs et chercheurs devraient trouver des moyens efficaces et à leur portée pour améliorer leurs pratiques de la recherche reproductible. 
+Pour un chercheur, il n’y a rien de plus frustrant que l’impossibilité de reproduire des résultats majeurs obtenus quelques mois auparavant. Les causes de ce type de déconvenues sont multiples et parfois pernicieuses. Ce phénomène participe à ce que certains identifient comme une “crise de la reproductibilité de la recherche”. Cet ouvrage {%cite book:2019 %} considère un ensemble de situations et de pratiques potentiellement dangereuses afin d’illustrer et de mettre en évidence les symptômes de la non-reproductibilité dans la recherche. À chaque fois, il propose un éventail de solutions allant de bonnes pratiques faciles et rapides à implémenter jusqu’à des outils plus techniques, tous gratuits et mis à l’épreuve par les auteurs eux-mêmes. Dans ce **[livre](https://rr-france.github.io/bookrr/)** rédigé lors d’un book sprint, étudiants, ingénieurs et chercheurs devraient trouver des moyens efficaces et à leur portée pour améliorer leurs pratiques de la recherche reproductible.
 
 # Publications des membres du réseau
 
