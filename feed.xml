@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2024-05-22T08:53:10+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>Un réseau national de chercheurs pour la promotion de la recherche reproductible.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">GT Notebook Webinaire #6 NepHal+ Episciences</title><link href="https://www.recherche-reproductible.fr//news/2024/05/29/GT-Notebook-May-Webinaire.html" rel="alternate" type="text/html" title="GT Notebook Webinaire #6 NepHal+ Episciences" /><published>2024-05-29T13:00:00+00:00</published><updated>2024-05-29T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2024/05/29/GT-Notebook-May-Webinaire</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2024/05/29/GT-Notebook-May-Webinaire.html"><![CDATA[<p>Cette sixième édition du webinaire du GT Notebook, verra <strong>l’équipe éditoriale de la plateforme Episciences présenter ses dernières évolution pour l’évaluation et la publication des jeux de données et des logiciels, avec l’exemple de la revue hébergée JTCAM</strong>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2024-05-22T09:20:12+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>Un réseau national de chercheurs pour la promotion de la recherche reproductible.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">GT Notebook Webinaire #6 NepHal+ Episciences</title><link href="https://www.recherche-reproductible.fr//news/2024/05/29/GT-Notebook-May-Webinaire.html" rel="alternate" type="text/html" title="GT Notebook Webinaire #6 NepHal+ Episciences" /><published>2024-05-29T13:00:00+00:00</published><updated>2024-05-29T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2024/05/29/GT-Notebook-May-Webinaire</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2024/05/29/GT-Notebook-May-Webinaire.html"><![CDATA[<p>Cette sixième édition du webinaire du GT Notebook, verra <strong>l’équipe éditoriale de la plateforme Episciences présenter ses dernières évolution pour l’évaluation et la publication des jeux de données et des logiciels, avec l’exemple de la revue hébergée JTCAM</strong>.</p>
 
 <p>Episciences est une plateforme de publication de revues en accès ouvert de type “diamant” (sans frais d’accès, sans frais de publication). Une des particularités de la plateforme est le modèle de publication dit <em>overlay</em> qui lui permet de publier des contenus avec des services construits au-dessus des archives ouvertes et entrepôts de données. Le projet nepHAL+ d’Episciences a pour objectifs de moderniser l’infrastructure technique d’Episciences, créer une solution modulaire  de <em>peer review</em> permettant de prendre en charge les prépublications, jeux de données et logiciels de la recherche. Le projet est adossé à l’infrastructure de recherche HAL+ qui repose sur la complémentarité des trois plateformes du CCSD. Cette solution sera ainsi liée à HAL, réutilisable par Sciencesconf.org et disponible sous une licence libre - comme tous les développements issus d’Episciences. Les partenaires du projet sont DARIAH, Inria et Software Heritage.</p>
 
@@ -24,18 +24,18 @@
 
 <h2 id="manifestations">Manifestations</h2>
 
-<h3 id="a-venir-">A venir :</h3>
+<p><strong>A venir :</strong></p>
 
 <ul>
-  <li>(META-REP 2024)[https://www.conference2024.meta-rep.uni-muenchen.de/index.html] – the Conference on Meta-Science and Replicability in the social, behavioral, and cognitive sciences. 28-31 Octobre, Munich.</li>
-  <li>(ACM-REP)[https://acm-rep.github.io/2024/], conference on Replicability and Reproducibility, 18-20 Juin 2024, Rennes.</li>
+  <li><a href="https://www.conference2024.meta-rep.uni-muenchen.de/index.html">META-REP 2024</a> – the Conference on Meta-Science and Replicability in the social, behavioral, and cognitive sciences. 28-31 Octobre, Munich.</li>
+  <li><a href="https://acm-rep.github.io/2024/">ACM-REP</a>, conference on Replicability and Reproducibility, 18-20 Juin 2024, Rennes.</li>
 </ul>
 
-<h3 id="manifestations-passées-">Manifestations passées :</h3>
+<h4 id="manifestations-passées-">Manifestations passées :</h4>
 
 <ul>
-  <li>(2e journées)[https://jrfrr-2024.sciencesconf.org/] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble. News : les vidéos sont en ligne !</li>
-  <li>(52e forum ORAP)[https://orap52.sciencesconf.org/] : “HPC et reproductibilité”, 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce (lien)[http://orap.irisa.fr/52ieme-forum-reproductibilite/].</li>
+  <li>[2e journées][https://jrfrr-2024.sciencesconf.org/] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble. News : les vidéos sont en ligne !</li>
+  <li><a href="https://orap52.sciencesconf.org/">52e forum ORAP</a> : “HPC et reproductibilité”, 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce (lien)[http://orap.irisa.fr/52ieme-forum-reproductibilite/].</li>
 </ul>
 
 <h2 id="formations">Formations</h2>
