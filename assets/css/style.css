@@ -236,6 +236,16 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-nav .page-link:not(:last-child) { margin-right: 0; }
 
+.site-nav .subpage-menu { display: none; margin-top: -15px; }
+
+.site-nav a.page-link:hover + .subpage-menu { display: block; }
+
+.site-nav .subpage-menu:hover { display: block; }
+
+.site-nav .subpage-link { color: #111111; line-height: 1.5; display: block; padding: 0px 10px; margin-top: 0px; margin-left: 0px; }
+
+.site-nav .subpage-link:not(:last-child) { margin-right: 0; }
+
 @media screen and (min-width: 600px) { .site-nav { position: static; float: right; border: none; background-color: inherit; } .site-nav label[for="nav-trigger"] { display: none; } .site-nav .menu-icon { display: none; } .site-nav input ~ .trigger { display: block; } .site-nav .page-link { display: inline; padding: 0; margin-left: auto; } .site-nav .page-link:not(:last-child) { margin-right: 20px; } }
 
 /** Site footer */
