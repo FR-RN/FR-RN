@@ -16,7 +16,7 @@ categories: newsletter
 
 ### Manifestations passées :
 
-* (2e journées)[href="https://jrfrr-2024.sciencesconf.org/"] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble : #DF0174" News : les vidéos sont en ligne !
+* (2e journées)[https://jrfrr-2024.sciencesconf.org/] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble. News : les vidéos sont en ligne !
 * (52e forum ORAP)[https://orap52.sciencesconf.org/] : "HPC et reproductibilité", 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce (lien)[http://orap.irisa.fr/52ieme-forum-reproductibilite/].
 
 
