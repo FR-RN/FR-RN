@@ -9,15 +9,15 @@ categories: newsletter
 
 ## Manifestations
 
-### A venir :
+ **A venir :**
 
-* (META-REP 2024)[https://www.conference2024.meta-rep.uni-muenchen.de/index.html] – the Conference on Meta-Science and Replicability in the social, behavioral, and cognitive sciences. 28-31 Octobre, Munich.
-* (ACM-REP)[https://acm-rep.github.io/2024/], conference on Replicability and Reproducibility, 18-20 Juin 2024, Rennes.
+* [META-REP 2024](https://www.conference2024.meta-rep.uni-muenchen.de/index.html) – the Conference on Meta-Science and Replicability in the social, behavioral, and cognitive sciences. 28-31 Octobre, Munich.
+* [ACM-REP](https://acm-rep.github.io/2024/), conference on Replicability and Reproducibility, 18-20 Juin 2024, Rennes.
 
-### Manifestations passées :
+#### Manifestations passées :
 
-* (2e journées)[https://jrfrr-2024.sciencesconf.org/] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble. News : les vidéos sont en ligne !
-* (52e forum ORAP)[https://orap52.sciencesconf.org/] : "HPC et reproductibilité", 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce (lien)[http://orap.irisa.fr/52ieme-forum-reproductibilite/].
+* [2e journées][https://jrfrr-2024.sciencesconf.org/] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble. News : les vidéos sont en ligne !
+* [52e forum ORAP](https://orap52.sciencesconf.org/) : "HPC et reproductibilité", 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce (lien)[http://orap.irisa.fr/52ieme-forum-reproductibilite/].
 
 
 
