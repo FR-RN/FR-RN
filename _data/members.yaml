@@ -1,6 +1,6 @@
 - name: Céline Acary-Robert
-  url: https://team.inria.fr/airsea/en/celine-acary-robert/
-  lab: Laboratoire Jean Kuntzmann
+  url: https://membres-ljk.imag.fr/Celine.Acary-Robert/
+  lab: Laboratoire Jean Kuntzmann / GRICAD
   city: Grenoble
   steering: true
   image: https://team.inria.fr/airsea/files/2021/09/Celine_2021-150x150.png
@@ -82,6 +82,18 @@
   city: Bordeaux
   steering: true
   image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
+- name: Sébastien Rey-Coyrehourcq
+  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
+  lab: Laboratoire IDEES UMR6266
+  city: Rouen
+  steering: true
+  image: https://covprehension.org/img/about/sebrey.jpg
+- name: Raphaëlle Krummeich
+  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
+  lab: Laboratoire IDEES UMR6266
+  city: Rouen
+  steering: true
+  image: https://umr-idees.fr/media/users/b9d23a51/2362194cf6-1719093791/profile.jpg
 - name: Simon Tournier
   url: https://simon.tournier.info
   lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
