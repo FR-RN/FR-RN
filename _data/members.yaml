@@ -68,6 +68,12 @@
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
   lab: Laboratoire de Psychologie  UR 4139
   city: Bordeaux
+  steering: true
+- name: Dominique Muller
+  url: https://www.dominique.muller.lippc2s.fr/
+  lab: Laboratoire Interuniversitaire de Psychologie
+  city: Grenoble
+  steering: true
 - name: Nicolas P. Rougier
   url: https://www.labri.fr/perso/nrougier/
   lab: Institute of Neurodegenerative Diseases
@@ -76,10 +82,10 @@
   image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
 - name: Simon Tournier
   url: https://simon.tournier.info
-  lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030 
+  lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
   city: Paris
 - name: Pierre-Antoine Bouttier
-  url: 
+  url:
   city: Grenoble
   lab: UAR GRICAD
 - name: Camille Maumet
@@ -87,7 +93,7 @@
   city: Rennes
   lab: IRISA / Inria Rennes
 - name: Isabelle Boutron
-  url: 
+  url:
   city: Paris
   lab: Centre de Recherche en Epidémiologie et Statistique (CRESS)
 - name: Elise Maigné
@@ -119,7 +125,7 @@
   city: Rennes
   lab: IRSET
 - name: Frédéric Santos
-  url: 
+  url:
   city: Bordeaux
   lab: UMR 5199 PACEA
 - name: Claude Gronfier
@@ -127,7 +133,7 @@
   city: Bron
   lab: Centre de recherche en neurosciences de Lyon (CRNL)
 - name: Nicolas Roelandt
-  url: 
+  url:
   city: Bron
   lab: Département Aménagement Mobilités Environnement
 - name: Henri Massias
@@ -143,7 +149,7 @@
   city: Palaiseau
   lab: UMR MIA Paris-Saclay
 - name: Yves Rozenholc
-  url: 
+  url:
   city: Paris
   lab: UR 7537 BioSTM 7537 BioSTM
 - name: Sergiu Ivanov
@@ -151,7 +157,7 @@
   city: Évry
   lab: IBISC
 - name: Tru Huynh
-  url: 
+  url:
   city: Paris
   lab: unité de bioinformatique structurale (Nilges)
 - name: Christophe Hurlin
@@ -159,27 +165,27 @@
   city: Orléans
   lab: LEO
 - name: Nicolas Ferey
-  url: 
+  url:
   city: Orsay
   lab: Laboratoire Interdisciplinaire des Sciences du Numérique
 - name: Pascal Irz
   url: https://github.com/PascalIrz
   city: Rennes
-  lab: 
+  lab:
 - name: Aubin Thomas
-  url: 
+  url:
   city: Montpellier
   lab: Institut de Génétique Humaine
 - name: Yvan Peter
   url: https://pro.univ-lille.fr/yvan-peter/
-  city: 
+  city:
   lab: CRIStAL
 - name: Ghislain Durif
   url: https://gdurif.perso.math.cnrs.fr/
   city: Lyon
   lab: Laboratoire de Biologie et Modélisation de la Cellule
 - name: Joan Hérisson
-  url: 
+  url:
   city: Évry
   lab: Génomique Métabolique
 - name: David Hill
@@ -213,7 +219,7 @@
 - name: Nathalie Lehmann
   url: https://www.linkedin.com/in/nathalie-lehmann-90a7b693/
   city: Rungis
-  lab: 
+  lab:
 - name: Nelle Varoquaux
   url: nellev.github.io/
   city: Grenoble
@@ -223,7 +229,7 @@
   city: Rennes
   lab: IRISA
 - name: Amira Barhoumi
-  url: 
+  url:
   city: Grenoble
   lab: Laboratoire d'Informatique de Grenoble
 - name: Sorina Pop
@@ -231,7 +237,7 @@
   city: Villeurbanne
   lab: CREATIS
 - name: Roselyne Vallo
-  url: 
+  url:
   city: Montpellier
   lab: Unité INSERM1058
 - name: Alice Brenon
@@ -241,9 +247,9 @@
 - name: Kim-An Nguyen
   url: https://orcid.org/0000-0001-7594-504X
   city: Lyon
-  lab: 
+  lab:
 - name: Franck Torre
-  url: 
+  url:
   city: Marseille
   lab: IMBE
 - name: Olivier Pantalé
@@ -252,14 +258,14 @@
   lab: Laboratoire Génie de Production
 - name: Teresa Gomez-Diaz
   url: http://igm.univ-mlv.fr/~teresa/
-  city: 
+  city:
   lab: LIGM
 - name: Arthur Batel
   url: https://liris.cnrs.fr/page-membre/arthur-batel
   city: Lyon
   lab: LIRIS
 - name: Marion Aguirrebengoa
-  url: 
+  url:
   city: Toulouse
   lab: CBI
 - name: Sébastien Li-Thiao-Té
@@ -277,19 +283,19 @@
   city: Bobigny
   lab: LVTS
 - name: Nathanne Rost
-  url: 
+  url:
   city: Chelles
   lab: LVTS
 - name: François-Xavier Lyonnet-Du-Moutier
-  url: 
+  url:
   city: Paris
   lab: CiTCoM
 - name: Sabrina Granger
-  url: 
+  url:
   city: Lyon
   lab: Software Heritage
 - name: François-David Collin
-  url: 
+  url:
   city: Montpellier
   lab: IMAG/UMR5149
 - name: Facundo Muñoz
@@ -297,7 +303,7 @@
   city: Montpellier
   lab: UMR ASTRE
 - name: Josselin Noirel
-  url: 
+  url:
   city: Paris
   lab: GBCM
 - name: Nicolas Vayatis
@@ -305,7 +311,7 @@
   city: Gif-Sur-Yvette
   lab: Centre Borelli
 - name: David Trémouilles
-  url: 
+  url:
   city: Toulouse
   lab: LAAS
 - name: Valérie Orozco
@@ -313,11 +319,11 @@
   lab: Toulouse School of Economics (TSE-R)
   city: Toulouse
 - name: Benoist Laurent
-  url: 
+  url:
   city: Paris
   lab: Laboratoire de Biochimie Théorique
 - name: Silvia Bottini
-  url: 
+  url:
   city: Nice
   lab: MDLab
 - name: Myriam Carrere
@@ -341,7 +347,7 @@
   city: Annecy
   lab: LAPP
 - name: Alexandre Dehne-Garcia
-  url: 
+  url:
   city: Montpellier
   lab: DIpSO
 - name: Roberto Toro
@@ -349,15 +355,15 @@
   city: Paris
   lab: Neuroanatomie appliquée et théorique
 - name: Khalid Belkhir
-  url: 
+  url:
   city: Montpellier
   lab: ISEM
 - name: Lydia Yahia-Cherif
-  url: 
+  url:
   city: Paris
   lab: ICM
 - name: Laurent Jourdren
-  url: 
+  url:
   city: Paris
   lab: IBENS (ENS - CNRS UMR8197 - Inserm U1024)
 - name: Carine Lucas
@@ -373,7 +379,7 @@
   city: Grenoble
   lab: LJK
 - name: Fabrice Leclerc
-  url: 
+  url:
   city: Gif-Sur-Yvette
   lab: I2BC
 - name: Pierre Poulain
@@ -385,11 +391,11 @@
   city: Rennes
   lab: Institut de Génétique et Développement de Rennes (IGDR)
 - name: Aurélien Cottin
-  url: 
+  url:
   city: Dijon
   lab: UMR Agroécologie - pôle Biome - équipe BioCom
 - name: Yoann Lafon
-  url: 
+  url:
   city: Bron
   lab: Laboratoire de Biomécanique et Mécanique des Chocs, LBMC, UMR_T 9406
 - name: Thomas Denecker
@@ -397,7 +403,7 @@
   city: Paris
   lab: CNRS
 - name: Magali Hennion
-  url: 
+  url:
   city: Paris
   lab: Epigénétique et Destin Cellulaire
 - name: Aurelie Siberchicot
@@ -415,7 +421,7 @@
 - name: Martin Amouzou
   url: https://linkedin.com/in/martin-k-amouzou
   city: Rennes
-  lab: 
+  lab:
 - name: Stephane Dray
   url: https://github.com/sdray
   city: Villeurbanne
@@ -437,7 +443,7 @@
   city: Paris
   lab: Bioinformatics Core Facility
 - name: Nicolas Servant
-  url: 
+  url:
   city: Paris
   lab: Plate-forme de bioinformatique
 - name: Jose-Armando Hernandez-Gonzalez
@@ -450,14 +456,14 @@
   lab: IPHC
 - name: Guillaume Sescousse
   url: https://guillaumesescousse.wordpress.com/
-  lab: Centre de Recherche en Neurosciences de Lyon (CRNL) 
+  lab: Centre de Recherche en Neurosciences de Lyon (CRNL)
   city: Lyon
 - name: Jérôme Pansanel
   url: https://iphc.cnrs.fr/annuaire/fiche/?nom=J%C3%A9r%C3%B4me-PANSANEL
   city: Strasbourg
   lab: IPHC
 - name: Claire Vandiedonck
-  url: 
+  url:
   lab: Université Paris Cité
   city: Paris
 - name: Benoît Seignovert
