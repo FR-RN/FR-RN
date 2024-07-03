@@ -69,11 +69,13 @@
   lab: Laboratoire de Psychologie  UR 4139
   city: Bordeaux
   steering: true
+  image: https://labpsy.u-bordeaux.fr/application/files/cache/thumbnails/f93b29e8853140f7441fafbdc610ba94.png
 - name: Dominique Muller
   url: https://www.dominique.muller.lippc2s.fr/
   lab: Laboratoire Interuniversitaire de Psychologie
   city: Grenoble
   steering: true
+  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg
 - name: Nicolas P. Rougier
   url: https://www.labri.fr/perso/nrougier/
   lab: Institute of Neurodegenerative Diseases
