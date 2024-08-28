@@ -16,7 +16,8 @@ categories: newsletter
 
 ### Manifestations passées :
 
-* (2e journées)[https://jrfrr-2024.sciencesconf.org/] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble. News : les vidéos sont en ligne !
+* (2e journées)[href="https://jrfrr-2024.sciencesconf.org/"] du réseau (Recherche Reproductible)[https://www.recherche-reproductible.fr/], 26-28 Mars 2024, Grenoble : #DF0174" News : les vidéos sont en ligne !
+
 * (52e forum ORAP)[https://orap52.sciencesconf.org/] : "HPC et reproductibilité", 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce (lien)[http://orap.irisa.fr/52ieme-forum-reproductibilite/].
 
 
@@ -35,9 +36,7 @@ categories: newsletter
 * (Reproducibility and Research Integrity – Report Summary)[https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html], UK parliament.
 
 
-  Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. 
+  Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, envoyez-nous un courriel et rejoignez le réseau : mailto:contact@recherche-reproductible.fr.
+
 
 Vous trouverez plus d'information sur le site du réseau (Recherche Reproductible)[https://recherche-reproductible.fr/] et vous pouvez vous abonner à lal iste de diffusion : (recherche-reproductible)[https://groupes.renater.fr/sympa/info/recherche-reproductible].
-   
-  
-  Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre !Envoyez-nous un courriel et contribuez au réseau : mailto:contact@recherche-reproductible.fr.
