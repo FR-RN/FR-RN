@@ -36,7 +36,7 @@ Le comité de pilotage actuel est composé des membres suivants:
 Les collèges transverses sont articulés autour de 4 thématiques : 
 
 * Relations européennes : liens et organisations d'évènements communs avec les autres réseaux européens
-* <a href="/colleges/c_anim">Animation scientifique</a> : organisation de séminaires et wébinaires autour de la reproductibilité
+* <b><a href="/colleges/c_anim">Animation scientifique</a></b> : organisation de séminaires et wébinaires autour de la reproductibilité
 * Relations institutionnelles et administratives : lien avec les différentes institutions de recherche françaises 
 * Veille bibliographique et évènementielle : assurer la veille bibliographique mais également des conférences en lien avec la reproductibilité
 
