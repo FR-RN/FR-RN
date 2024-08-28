@@ -357,7 +357,9 @@ blockquote { color: #999999; font-family: 'Source Serif Pro', serif; font-weight
 
 a.site-title:hover { text-decoration: none; color: #000090; background-color: #f9f9f9; margin-left: -1.0em; padding-left: +1.0em; margin-right: -1.0em; padding-right: +1.0em; border-radius: 0.25em; transition: 0.5s; }
 
-a, a:visited { color: #000090; }
+a, a:visited { color: #000090; color: #538377; }
+
+a:hover { color: #E1B604; }
 
 h1 a, h1 a:visited, h2 a, h2 a:visited, h3 a, h3 a:visited { font-weight: 300; }
 
