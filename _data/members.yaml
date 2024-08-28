@@ -10,6 +10,12 @@
   city: Orsay
   steering: true
   image: https://www.lisn.upsaclay.fr/app/uploads/2024/02/CohenBoulakia_Sarah-20240220-2147-200x188.jpg
+- name: Raphaëlle Krummeich
+  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
+  lab: Laboratoire IDEES UMR6266
+  city: Rouen
+  steering: true
+  image: https://umr-idees.fr/media/users/b9d23a51/2362194cf6-1719093791/profile.jpg  
 - name: Benoit Combemale
   url: https://people.irisa.fr/Benoit.Combemale/
   lab: Institut de Recherche en Informatique et Systèmes Aléatoires
@@ -43,9 +49,11 @@
   lab: Computational Systems Biomedicine
   city: Paris
 - name: Arnaud Legrand
-  url: http://polaris.imag.fr/arnaud.legrand/
-  lab: Laboratoire d'Informatique de Grenoble
+  url: https://polaris.imag.fr/arnaud.legrand/
   city: Grenoble
+  lab: LIG
+  steering: true
+  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg  
 - name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
@@ -60,40 +68,34 @@
   url: https://cupnet.net/
   lab: Institut Jacques Monod
   city: Paris
+- name: Dominique Muller
+  url: https://www.dominique.muller.lippc2s.fr/
+  lab: Laboratoire Interuniversitaire de Psychologie
+  city: Grenoble
+  steering: true
+  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg  
 - name: Christophe Pouzat
   url: http://xtof.perso.math.cnrs.fr/
   lab: Institut de Recherche Mathématique Avancée
   city: Strasbourg
+- name: Sébastien Rey-Coyrehourcq
+  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
+  lab: Laboratoire IDEES UMR6266
+  city: Rouen
+  steering: true
+  image: https://covprehension.org/img/about/sebrey.jpg  
 - name: François Ric
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
   lab: Laboratoire de Psychologie  UR 4139
   city: Bordeaux
   steering: true
   image: https://labpsy.u-bordeaux.fr/application/files/cache/thumbnails/f93b29e8853140f7441fafbdc610ba94.png
-- name: Dominique Muller
-  url: https://www.dominique.muller.lippc2s.fr/
-  lab: Laboratoire Interuniversitaire de Psychologie
-  city: Grenoble
-  steering: true
-  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg
 - name: Nicolas P. Rougier
   url: https://www.labri.fr/perso/nrougier/
   lab: Institute of Neurodegenerative Diseases
   city: Bordeaux
   steering: true
   image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
-- name: Sébastien Rey-Coyrehourcq
-  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
-  lab: Laboratoire IDEES UMR6266
-  city: Rouen
-  steering: true
-  image: https://covprehension.org/img/about/sebrey.jpg
-- name: Raphaëlle Krummeich
-  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
-  lab: Laboratoire IDEES UMR6266
-  city: Rouen
-  steering: true
-  image: https://umr-idees.fr/media/users/b9d23a51/2362194cf6-1719093791/profile.jpg
 - name: Simon Tournier
   url: https://simon.tournier.info
   lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
@@ -286,12 +288,6 @@
   url: https://slithiaote.github.io/
   city: Villetaneuse
   lab: LAGA
-- name: Arnaud Legrand
-  url: https://polaris.imag.fr/arnaud.legrand/
-  city: Grenoble
-  lab: LIG
-  steering: true
-  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
 - name: Maha Said
   url: https://nanobubbles.hypotheses.org/team-members
   city: Bobigny
