@@ -16,7 +16,7 @@ sur "Add file". Vous pouvez regarder les
 déjà postées pour copier le format (nommage du fichier et entête).
 
 
-## Prochains évènements
+## Conférences
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

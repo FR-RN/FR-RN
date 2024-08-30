@@ -2,7 +2,7 @@
 layout: post
 title:  "Workshop on Reproducible Software Environments for Research and High-Performance Computing"
 date:   2023-11-08 13:00 +0100
-categories: event
+categories: past-event
 ---
 
 The first [Workshop on Reproducible Software Environments for Research
