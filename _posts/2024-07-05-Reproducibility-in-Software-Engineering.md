@@ -15,5 +15,4 @@ To provide a comprehensive assessment of reproducibility in software engineering
 
 This study contributes to academic knowledge and offers practical insights that could influence future software development protocols and standards.
 
-["Reproducibility in Software Engineering", *Master’s Thesis in Computer Science*, Dellaiera, Pol, https://zenodo.org/records/12666899]
-(https://zenodo.org/records/12666899)
+["Reproducibility in Software Engineering", *Master’s Thesis in Computer Science*, Dellaiera, Pol, https://zenodo.org/records/12666899](https://zenodo.org/records/12666899)
