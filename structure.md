@@ -48,5 +48,5 @@ Les groupes de travail, sont organisés autour d'une thématique précise et ont
 
 * GT Formation
 * GT Notebooks
-* GT Reproductibilité des environnements logiciels : vous puovez rejoindre ce groupe en vous abonnant à la liste de diffusion [mailing list](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
+* GT Reproductibilité des environnements logiciels : n'hésitez pas à rejoindre en vous abonnant à la [**liste de diffusion**](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
 * GT Contrôle qualité des échantillons biologiques
