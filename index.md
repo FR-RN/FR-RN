@@ -15,8 +15,12 @@ qui contribuent à la robustesse de la recherche, la promotion des
 activités de formation et la diffusion des bonnes pratiques ainsi que
 des recommandations. Les questions de reproductibilité touchent toutes
 les disciplines et le réseau vise une large représentation
-disciplinaire. Si vous êtes intéressé, envoyez-nous un
-[courriel](mailto:{{site.contact}}) ou rejoignez la [mailing list](https://groupes.renater.fr/sympa/info/recherche-reproductible) !
+disciplinaire.
+
+Si vous êtes intéressé :
+- envoyez-nous un [courriel](mailto:{{contact@recherche-reproductible.fr}})
+
+- rejoignez la [mailing list](https://groupes.renater.fr/sympa/info/recherche-reproductible) !
 
 ## Prochains évenements
 
@@ -78,6 +82,3 @@ disciplinaire. Si vous êtes intéressé, envoyez-nous un
     </li>
  {%- endfor -%}
 </ul>
-
-
-
