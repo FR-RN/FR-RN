@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Structure du réseau 
+title: Structure du réseau
 permalink: /steering/
 cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand", "Corte", "Dijon", "Évry",  "Gif-Sur-Yvette", "Grenoble", "Limoges", "Lyon", "Marseille", "Montpellier", "Nantes", "Nice", "Orléans", "Orsay", "Palaiseau", "Paris", "Rennes", "Rungis", "Saclay", "Strasbourg", "Tarbes", "Toulouse", "Villetaneuse", "Villeurbanne"]
 ---
@@ -34,11 +34,11 @@ Le comité de pilotage actuel est composé des membres suivants:
 
 # Collèges
 
-Les collèges transverses sont articulés autour de 4 thématiques : 
+Les collèges transverses sont articulés autour de 4 thématiques :
 
 * Relations européennes : liens et organisations d'évènements communs avec les autres réseaux européens
 * <b><a href="/colleges/c_anim">Animation scientifique</a></b> : organisation de séminaires et wébinaires autour de la reproductibilité
-* Relations institutionnelles et administratives : lien avec les différentes institutions de recherche françaises 
+* Relations institutionnelles et administratives : lien avec les différentes institutions de recherche françaises
 * Veille bibliographique et évènementielle : assurer la veille bibliographique mais également des conférences en lien avec la reproductibilité
 
 
@@ -46,7 +46,7 @@ Les collèges transverses sont articulés autour de 4 thématiques :
 
 Les groupes de travail, sont organisés autour d'une thématique précise et ont pour but de définir et diffuser les bonnes pratiques pour une science reproductible dans leur périmètre :
 
-* GT Formation 
+* GT Formation
 * GT Notebooks
-* GT Reproductibilité des environnements logiciels 
-* GT Contrôle qualité des échantillons biologiques 
+* GT Reproductibilité des environnements logiciels : vous puovez rejoindre ce groupe en vous abonnant à la liste de diffusion [mailing list](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
+* GT Contrôle qualité des échantillons biologiques
