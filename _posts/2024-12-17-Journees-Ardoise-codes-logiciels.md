@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journées Ardoise codes et logiciels"
+title:  "Journées Ardoise : ouverture des codes sources et logiciels de la recherche"
 date:   2024-12-17 08:00 +0100
 categories: event
 tags: computational science
