@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2024-10-04T10:50:15+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>Un réseau national de chercheurs pour la promotion de la recherche reproductible.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="francais"><title type="html">Journées Ardoise : ouverture des codes sources et logiciels de la recherche</title><link href="https://www.recherche-reproductible.fr//event/2024/12/17/Journees-Ardoise-codes-logiciels.html" rel="alternate" type="text/html" title="Journées Ardoise : ouverture des codes sources et logiciels de la recherche" /><published>2024-12-17T07:00:00+00:00</published><updated>2024-12-17T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event/2024/12/17/Journees-Ardoise-codes-logiciels</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event/2024/12/17/Journees-Ardoise-codes-logiciels.html"><![CDATA[<p>L’atelier de la données rennais ARDoISE organise sa deuxième journée d’étude mardi 17 décembre.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2024-10-04T10:59:03+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>Un réseau national de chercheurs pour la promotion de la recherche reproductible.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="francais"><title type="html">Présentation de la réunon des membres du réseau</title><link href="https://www.recherche-reproductible.fr//news/2024/12/17/Visio-membres-r%C3%A9seau.html" rel="alternate" type="text/html" title="Présentation de la réunon des membres du réseau" /><published>2024-12-17T07:00:00+00:00</published><updated>2024-12-17T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2024/12/17/Visio-membres-r%C3%A9seau</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2024/12/17/Visio-membres-r%C3%A9seau.html"><![CDATA[<p>La réunion des membres du réseau a eu lieu le 01/10/2024 à 14h. Elle a permis de faire le point sur</p>
+<ul>
+  <li>les évolutions du réseau</li>
+  <li>les différentes actions qui ont été initiées</li>
+  <li>les projets à venir</li>
+</ul>
+
+<p>Merci à tous les participants !</p>
+
+<p>Vous pouvez télécharger la présentation <a href="/assets/pdfs/Visio_01_10_2024.pdf">sur ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="slides" /><summary type="html"><![CDATA[La réunion des membres du réseau a eu lieu le 01/10/2024 à 14h. Elle a permis de faire le point sur les évolutions du réseau les différentes actions qui ont été initiées les projets à venir]]></summary></entry><entry xml:lang="francais"><title type="html">Journées Ardoise : ouverture des codes sources et logiciels de la recherche</title><link href="https://www.recherche-reproductible.fr//event/2024/12/17/Journees-Ardoise-codes-logiciels.html" rel="alternate" type="text/html" title="Journées Ardoise : ouverture des codes sources et logiciels de la recherche" /><published>2024-12-17T07:00:00+00:00</published><updated>2024-12-17T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event/2024/12/17/Journees-Ardoise-codes-logiciels</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event/2024/12/17/Journees-Ardoise-codes-logiciels.html"><![CDATA[<p>L’atelier de la données rennais ARDoISE organise sa deuxième journée d’étude mardi 17 décembre.
 Cette année, le thème choisi est celui de l’ouverture des codes sources et logiciels de la recherche, comme enjeu de reproductibilité scientifique.</p>
 
 <p>Cette journée d’étude sera l’occasion de donner la parole à des intervenant.e.s ayant un rapport diversifié aux logiciels et aux codes sources de recherche, que ceux-ci soient le produit de recherche principal ou un artefact permettant de traiter les données, et qu’il s’agisse :</p>
@@ -111,41 +120,4 @@ Cette année, le thème choisi est celui de l’ouverture des codes sources et l
 
 <p>Pour prendre connaissance des activités et des futurs du gt notebook, c’est ici (<a href="https://gt-notebook.gitpages.huma-num.fr/site_quarto/">humanum gitlab page work in progress</a>) ou là (<a href="https://gitlab.huma-num.fr/gt-notebook">groupe humanum gitlab</a>).</p>
 
-<p>Pour rappel, le gt Notebook à le plaisir de vous proposer une série de webinaires pour 2024, l’objectif est d’explorer cet objet complexe que sont les notebooks, et cela au travers de ces différentes facettes : histoire, épistémologie, écriture, reproductibilité, plateformes, avantages et limites pédagogiques, interactivité, etc. Les vidéos des précédentes sessions sont  disponibles au fil de l’eau sur  la <a href="https://www.canal-u.tv/chaines/gt-notebook/">chaîne Canal-U TV du GT notebook</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><summary type="html"><![CDATA[Cette sixième édition du webinaire du GT Notebook, verra l’équipe éditoriale de la plateforme Episciences présenter ses dernières évolution pour l’évaluation et la publication des jeux de données et des logiciels, avec l’exemple de la revue hébergée JTCAM.]]></summary></entry><entry><title type="html">Newsletter de Mai 2024</title><link href="https://www.recherche-reproductible.fr//newsletter/2024/05/25/newsletters.html" rel="alternate" type="text/html" title="Newsletter de Mai 2024" /><published>2024-05-25T12:00:00+00:00</published><updated>2024-05-25T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2024/05/25/newsletters</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2024/05/25/newsletters.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n1--mai-2024">Newsletter du réseau Recherche Reproductible N°1 : Mai 2024</h1>
-
-<h2 id="manifestations">Manifestations</h2>
-
-<p><strong>A venir :</strong></p>
-
-<ul>
-  <li><a href="https://www.conference2024.meta-rep.uni-muenchen.de/index.html">META-REP 2024</a> – Conference on Meta-Science and Replicability in the social, behavioral, and cognitive sciences. 28-31 Octobre, Munich.</li>
-  <li><a href="https://acm-rep.github.io/2024/">ACM-REP</a> – Conference on Replicability and Reproducibility, 18-20 Juin 2024, Rennes.</li>
-</ul>
-
-<p><strong>Manifestations récentes :</strong></p>
-
-<ul>
-  <li><a href="https://jrfrr-2024.sciencesconf.org/">2e journées</a> du réseau <a href="https://www.recherche-reproductible.fr/">Recherche Reproductible</a>, 26-28 Mars 2024, Grenoble.  <strong>News : les vidéos sont <a href="https://jrfrr-2024.sciencesconf.org/">en ligne</a> !</strong></li>
-  <li><a href="https://orap52.sciencesconf.org/">52e forum ORAP</a> : “HPC et reproductibilité”, 15 Mars 2024, siège du CNRS, 3 rue Michel Ange, Paris. Retrouvez les enregistrements sur ce <a href="http://orap.irisa.fr/52ieme-forum-reproductibilite/">lien</a>.</li>
-</ul>
-
-<h2 id="formations">Formations</h2>
-<ul>
-  <li><a href="https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/">MOOC “Reproducible Research II: Practices and tools for managing computations and data”</a>  : en ligne depuis le 16 Mai !!</li>
-  <li><a href="https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/">MOOC “Recherche reproductible : principes méthodologiques pour une science transparente”</a>, partie I : toujours d’actualité !</li>
-</ul>
-
-<h2 id="publications">Publications</h2>
-
-<ul>
-  <li><a href="https://www.nature.com/articles/s41562-023-01749-9">High replicability of newly discovered social-behavioural findings is achievable</a>, Protzko, J., Krosnick, J., Nelson, L. et al.</li>
-  <li><a href="https://aclanthology.org/2023.acl-long.568/">NLP Reproducibility For All: Understanding Experiences of Beginners</a>, Shane Storks, Keunwoo Yu, Ziqiao Ma, Joyce Chai.</li>
-  <li><a href="https://hpc.guix.info/blog/2023/06/a-guide-to-reproducible-research-papers/">A guide to reproducible research papers</a>, Ludovic Courtès, Marek Felšöci, Konrad Hinsen, Philippe Swartvagher.</li>
-  <li><a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html">Reproducibility and Research Integrity – Report Summary</a>, UK parliament.</li>
-</ul>
-
-<p>Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire.</p>
-
-<p>Vous trouverez plus d’information sur le site du réseau <a href="https://recherche-reproductible.fr/">Recherche Reproductible</a> et vous pouvez vous abonner à la liste de diffusion : <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible">recherche-reproductible</a>.</p>
-
-<p>Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre ! Envoyez-nous un courriel et contribuez au réseau : contact[@]recherche-reproductible.fr.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°1 : Mai 2024]]></summary></entry></feed>
+<p>Pour rappel, le gt Notebook à le plaisir de vous proposer une série de webinaires pour 2024, l’objectif est d’explorer cet objet complexe que sont les notebooks, et cela au travers de ces différentes facettes : histoire, épistémologie, écriture, reproductibilité, plateformes, avantages et limites pédagogiques, interactivité, etc. Les vidéos des précédentes sessions sont  disponibles au fil de l’eau sur  la <a href="https://www.canal-u.tv/chaines/gt-notebook/">chaîne Canal-U TV du GT notebook</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><summary type="html"><![CDATA[Cette sixième édition du webinaire du GT Notebook, verra l’équipe éditoriale de la plateforme Episciences présenter ses dernières évolution pour l’évaluation et la publication des jeux de données et des logiciels, avec l’exemple de la revue hébergée JTCAM.]]></summary></entry></feed>
