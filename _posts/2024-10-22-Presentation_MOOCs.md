@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinaire : Présentation des MOOCs sur la recherche reproductible"
 date:   2024-10-22 14:00 +0100
-categories: past-event
+categories: past-webinaires
 ---
 
 Konrad Hinsen et Arnaud Legrand, auteurs des deux MOOCs "Recherche Reproductible" hébergés sur la plateforme fun-mooc
