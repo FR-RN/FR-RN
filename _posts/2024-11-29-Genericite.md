@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Webinaire : Présentation des MOOCs sur la recherche reproductible"
+title:  "Webinaire : Quand la reproductibilité n'est pas envisageable : généricité et traçabilité dans des recherches avec et pour l’humain"
 date:   2024-10-22 14:00 +0100
 categories: webinaires
 ---
@@ -14,4 +14,4 @@ Cette situation se retrouve dans certaines recherches en informatique centrée s
 Le webinaire abordera la finalité et les contraintes de ces recherches systémiques, où la reproductibilité n’est pas envisageable car la reproduction des études est impossible dans des conditions identiques. Par la suite, les sciences de l’artificiel et le DBR seront exposés avec un accent particulier sur la nécessité de se choisir un cadre épistémologique. Enfin, les notions de traçabilité et de généricité seront détaillées et des outils seront proposés pour garantir la traçabilité du chemin de construction de la connaissance dans divers contextes.
 
 
-Ce webinaire, animé par **[Nadine Mandran](https://www.cnrs.fr/fr/personne/nadine-mandran)** est ingénieure d'etude au [LIG](https://www.liglab.fr/fr) à Grenoble. 
+Ce webinaire, animé par **[Nadine Mandran](https://www.cnrs.fr/fr/personne/nadine-mandran)** est ingénieure d'etude au [LIG](https://www.liglab.fr/fr) à Grenoble.
