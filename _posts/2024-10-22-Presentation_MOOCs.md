@@ -7,9 +7,9 @@ categories: past-webinaires
 
 Konrad Hinsen et Arnaud Legrand, auteurs des deux MOOCs "Recherche Reproductible" hébergés sur la plateforme fun-mooc
 
-https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/
+[https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/](https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/)
 
-https://www.fun-mooc.fr/fr/cours/reproducible-research-ii-practices-and-tools-for-managing-comput/
+[https://www.fun-mooc.fr/fr/cours/reproducible-research-ii-practices-and-tools-for-managing-comput/](https://www.fun-mooc.fr/fr/cours/reproducible-research-ii-practices-and-tools-for-managing-comput/)
 
 nous présenteront leur contenu, leur fonctionnement et les différences entre les deux !
 
