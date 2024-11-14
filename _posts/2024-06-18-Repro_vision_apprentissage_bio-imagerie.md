@@ -8,4 +8,5 @@ Des algorithmes, en passant par les données, leur annotation, les composants ma
 
 Ce webinaire a été par animé par **[David Rousseau](https://irhs.angers-nantes.hub.inrae.fr/recherche/imagerie-pour-l-horticulture-et-le-phenotypage/l-equipe/david-rousseau)**, professeur à l’université d’Angers, chef de l’équipe ImHorPhen.
 
-Le séminaire a eu lieu en distanciel. La vidéo de la présentation est disponible sur ce lien [Présentation]( https://youtu.be/4iOFhrr0mIo).
+Le séminaire a eu lieu en distanciel. La vidéo de la présentation est disponible sur ce lien [Vidéo]( https://youtu.be/4iOFhrr0mIo).
+La présentation est disponible : [Présentation](/assets/pdfs/Reproductibilite_IA_DavidRousseau_24_06_2024.pdf).
