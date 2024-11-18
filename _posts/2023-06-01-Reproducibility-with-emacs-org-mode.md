@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinaire : Cahier de labo, document computationnel, article reproductible. Emacs/Org-mode: One ring to rule them all? "
 date:   2023-06-01 14:00 +0100
-categories: news
+categories: past-webinaires 
 ---
 
 
