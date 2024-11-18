@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webinaire : Quand la reproductibilité n'est pas envisageable : généricité et traçabilité dans des recherches avec et pour l’humain"
-date:   2024-10-22 14:00 +0100
+date:   2024-11-29 14:00 +0100
 categories: webinaires
 ---
 
