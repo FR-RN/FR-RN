@@ -23,6 +23,3 @@ clusters representing different scientific disciplines (1). The research practic
 in both expectations and implementation. However, some features are all too common. Notably, the quest for significance
 is almost ubiquitous. Significance takes many [...]
 It is accessible in this [page](https://www.jci.org/articles/view/181923/pdf).
-
-
-[{% reference Marchment:2024 --file references.bib %}](https://doi.org/10.1172/JCI181923)
