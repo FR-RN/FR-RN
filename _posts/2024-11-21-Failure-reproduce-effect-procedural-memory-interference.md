@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  " Transparency, bias, and reproducibility across science: a meta-research view "
+title:  "Failure to reproduce the effect of procedural memory interference on
+wakeful consolidation of episodic memory in younger and older adults"
 date:   2024-11-15 15:00 +0100
 categories: publication
 tags: meta-research
