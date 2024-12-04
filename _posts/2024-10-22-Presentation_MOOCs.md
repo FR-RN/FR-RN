@@ -14,4 +14,6 @@ Konrad Hinsen et Arnaud Legrand, auteurs des deux MOOCs "Recherche Reproductible
 nous présenteront leur contenu, leur fonctionnement et les différences entre les deux !
 
 
-Ce webinaire, animé par **[Konrad Hinsen](http://cbm.cnrs-orleans.fr/en/contact/hinsen-konrad-2/)**, et **[Arnaud Legrand](https://polaris.imag.fr/arnaud.legrand/)**, a été enregistré et vous pouvez retrouver la présentation sur cette [vidéo](https://videos.univ-grenoble-alpes.fr/video/31346-rr_22_10_2024_hinsen_legrand_moocmp4/).
+Ce webinaire, animé par **[Konrad Hinsen](http://cbm.cnrs-orleans.fr/en/contact/hinsen-konrad-2/)**, et **[Arnaud Legrand](https://polaris.imag.fr/arnaud.legrand/)**, a été enregistré et vous pouvez retrouver la présentation sur cette [**vidéo**](https://videos.univ-grenoble-alpes.fr/video/31346-rr_22_10_2024_hinsen_legrand_moocmp4/).
+
+Les transparents sont également disponibles sur [**ce lien**](/assets/pdfs/MOOCs_Hinsen_Legrand_10_2024_slides.pdf).
