@@ -13,7 +13,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;1,400&display=swap');
 
 body {
-    font-size: 100%;
+#    font-size: 100%;
+    font-size: 16px;
     font-family: Roboto;
     font-weight: 300;
     color: #333333;
@@ -87,11 +88,12 @@ a.site-title:hover {
 a, a:visited {
     color: #000090;
     color: #538377;
+    color: #E1B604;
     font-weight: 500;
 }
 
 a:hover {
-    color: #E1B604;
+    color: #538377;
 }
 
 h1 a, h1 a:visited,
