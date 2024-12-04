@@ -14,8 +14,8 @@
 
 body {
     font-size: 100%;
-    font-family: Roboto; 
-    font-weight: 300; 
+    font-family: Roboto;
+    font-weight: 300;
     color: #333333;
 }
 strong, strong a {
@@ -87,11 +87,11 @@ a.site-title:hover {
 a, a:visited {
     color: #000090;
     color: #538377;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 a:hover {
-    color: #E1B604;    
+    color: #E1B604;
 }
 
 h1 a, h1 a:visited,
@@ -99,7 +99,7 @@ h2 a, h2 a:visited,
 h3 a, h3 a:visited {
     font-weight: 300;
 }
-    
+
 .site-title, .site-title:visited {
     font-family: Roboto Condensed;
     font-weight: 500;
@@ -157,7 +157,7 @@ h2.post-list-heading {
     font-size: 1.0em;
     padding-top: 0em;
     padding-left: 0.5em;
-} 
+}
 
 .post-list > li {
     margin-bottom: 0px;
