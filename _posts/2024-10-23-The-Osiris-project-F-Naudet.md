@@ -13,5 +13,5 @@ Open Science to Increase Reproducibility in Science (OSIRIS, a project funded by
 
 Ce webinaire a été animé par **Florian Naudet**, psychiatre, professeur de thérapeutique à l'université et au CHU de Rennes, chercheur à l'Institut de recherche en santé, environnement et travail (Irset) et membre sénior à l'Institut universitaire de France.
 
-Vous pouvez consulter la vidéo de cet séminaire en suivant [ce lien](https://videos.univ-grenoble-alpes.fr/video/31360-florian-naudet-the-osiris-open-science-to-increase-reproducibilty-in-science-consortium-20241023-0908-1mp4/)
+Vous pouvez consulter la vidéo de ce wébinaire en suivant [ce lien](https://videos.univ-grenoble-alpes.fr/video/31360-florian-naudet-the-osiris-open-science-to-increase-reproducibilty-in-science-consortium-20241023-0908-1mp4/)
 
