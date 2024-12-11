@@ -52,17 +52,3 @@ A paper by some of the biggest names in scientific integrity is retracted for is
   Vous trouverez plus d'information sur le site du réseau [Recherche Reproductible](https://recherche-reproductible.fr/) et vous pouvez vous abonner à la liste de diffusion : [recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible).
 
 Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre ! Envoyez-nous un courriel et contribuez au réseau : contact[@]recherche-reproductible.fr.
-
-</p>
-</td>
-</tr>
-    </table>
-<br>
- <br>
- <br>
-</div>
-
-
-
-</body>
-</html>
