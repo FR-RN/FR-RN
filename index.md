@@ -18,7 +18,7 @@ les disciplines et le réseau vise une large représentation
 disciplinaire.
 
 Si vous êtes intéressé :
-- envoyez-nous un [courriel](mailto:{{contact@recherche-reproductible.fr}})
+- envoyez-nous un [courriel](mailto:contact@recherche-reproductible.fr)
 
 - rejoignez la [mailing list](https://groupes.renater.fr/sympa/info/recherche-reproductible) !
 
