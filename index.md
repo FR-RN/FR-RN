@@ -14,11 +14,11 @@ Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abo
 
 ## Objectifs du réseau
 
-![Objectifs réseau](../assets/images/objectifs_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Objectifs réseau](../assets/images/objectifs_recherche-repro.png){: style="width: 70%; display:block; margin-right: auto; margin-left:auto;" }
 
 ## Actions en cours
 
-![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 75%; display:block; margin-right: auto; margin-left:auto;" }
 
 ## Structure
 
@@ -66,4 +66,4 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une structure avec 3 type
 
 ## Comment participer ?
 
-![Actions reseau](../assets/images/participer_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/Flyer_contacts.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
