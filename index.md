@@ -1,7 +1,7 @@
 ---
 layout: page
 list_title: Dernières nouvelles
-n_posts: 10
+n_posts: 8
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
