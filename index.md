@@ -10,6 +10,8 @@ n_posts: 8
 
 Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
 
+![Actions reseau](../assets/images/Titre.png){: style="width: 70%; display:block; margin-right: auto; margin-left:auto;" }
+
 Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abonnement à celle-ci constituant actuellement le principal critère d’adhésion. Les membres occupent des fonctions variées et sont issus de nombreuses institutions réparties à travers le territoire français. Ainsi, au moins 30 disciplines différentes sont représentées. Cette diversité est un élément fondamental du réseau qui vise à promouvoir l'échange de bonnes pratiques et créer des discussions autour de procédures communes dans des disciplines différentes (voir la page [Membres](/community/) pour plus de détails).
 
 ## Objectifs du réseau
@@ -28,9 +30,9 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 ## Activités
 
 ### Journées annuelles
-* [Journées 2023](/rr-days/)
-* [Journées 2024](/rr-days-2024/)
-* [Journées 2025](https://jrfrr-2025.sciencesconf.org/)
+* [Journées 2023](/rr-days/), Paris
+* [Journées 2024](/rr-days-2024/), Grenoble
+* [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
 
 #### Wébinaires
 
@@ -42,7 +44,7 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news limit:page.n_posts -%}
+   {%- for post in site.categories.webinaires limit:page.n_posts -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
