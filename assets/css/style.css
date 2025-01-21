@@ -921,6 +921,12 @@ h4, h4 a {
   color: #E1B6047;
 }
 
+h4 {
+  font-weight: 200;
+  font-size: 0.8em;
+  color: #DB0073;
+}
+
 h1.page-heading {
   font-size: 2.5em;
 }
