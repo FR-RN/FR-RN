@@ -32,7 +32,7 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 * [Journées 2024](/rr-days-2024/)
 * [Journées 2025](https://jrfrr-2025.sciencesconf.org/)
 
-### Wébinaires
+#### Wébinaires
 
 {% if site.paginate %}
   {% assign posts = paginator.posts %}
@@ -56,7 +56,7 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 
 
-### Autres activités
+#### Autres activités
 
 * Participation aux réunions organisées avec les autres réseaux internationaux.
 * Mises en place d'actions de formation de type hackathon, replication games, ANF
@@ -65,5 +65,8 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 * ...
 
 ## Comment participer ?
+* Adhérer ou nous contacter ?
+![Actions reseau](../assets/images/Flyer_contacts-1.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
-![Actions reseau](../assets/images/Flyer_contacts.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+*Participer à un collège ou un groupe de travail ?
+![Actions reseau](../assets/images/Flyer_contacts-2.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
