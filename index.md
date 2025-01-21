@@ -29,7 +29,7 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 ## Activités
 
-### Journées annuelles
+#### Journées annuelles
 * [Journées 2023](/rr-days/), Paris
 * [Journées 2024](/rr-days-2024/), Grenoble
 * [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
@@ -66,9 +66,6 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 * Collaboration avec d'autres groupes de travail ayant des intérêts communs (GT notebooks par exemple)
 * ...
 
-## Comment participer ?
-* Adhérer ou nous contacter ?
-![Actions reseau](../assets/images/Flyer_contacts-1.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+## Comment adhérer ou nous contacter ?
 
-*Participer à un collège ou un groupe de travail ?
-![Actions reseau](../assets/images/Flyer_contacts-2.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/Flyer_contacts-1.png){: style="width: 75%; display:block; margin-right: auto; margin-left:auto;" }
