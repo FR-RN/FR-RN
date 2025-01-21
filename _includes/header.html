@@ -40,8 +40,12 @@
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
             </svg>
           </a>
-
-            
+          {%- assign name = page.name | replace: '-en','' | replace: '.md','' -%}
+          {%- if page.name contains "-en"  -%}
+              <a href="/{{name}}">FR</a> | EN
+          {%- elsif name =="index" -%}
+          FR | <a href="/{{name}}-en">EN</a>
+          {%- endif -%}
         </div>
       </nav>
     {%- endif -%}
