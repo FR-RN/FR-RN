@@ -15,17 +15,17 @@ jobs:
       with:
         ref: source
 
-    - name: Set up Ruby 3.0.0
+    - name: Set up Ruby 3.1.0
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.0.0
+        ruby-version: 3.1.0
         bundler-cache: true
 
     - name: Build Jekyll site
       run: |
         set -xo pipefail
         rm -rf _site/*
-        gem install bundler -v 2.5.10
+        gem install bundler -v 2.6.0
         bundle install
         bundle exec jekyll build
         cp CNAME _site/CNAME
