@@ -45,4 +45,4 @@ Le collège "Animation" organise des wébinaires réguliers sur des thèmes vari
 
 <br />
 
-https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 75%; display:block; margin-right: auto; margin-left:auto;" }</a>
+<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 75%; display:block; margin-right: auto; margin-left:auto;" }</a>
