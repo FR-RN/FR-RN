@@ -1,6 +1,7 @@
 ---
 layout: page
 list_title: Dernières nouvelles
+permalink: /index-v2/
 n_posts: 8
 ---
 
