@@ -15,13 +15,13 @@ The French Network for Reproducible Research is an informal national initiative 
 
 ## Network Objectives
 
-![Network Objectives](../assets/images/objectifs_recherche-repro.png){: style="width: 70%; display:block; margin-right: auto; margin-left:auto;" }
+![Network Objectives](../assets/images/aims.png){: style="width: 70%; display:block; margin-right: auto; margin-left:auto;" }
 
 With around 260 members on its mailing list, subscription is currently the main criterion for membership. The members occupy a variety of positions and come from numerous institutions across France. At least 30 different disciplines are represented within the network. This diversity is a fundamental element of the network, which aims to promote the exchange of good practice and create discussion around common procedures in different disciplines (see the [Members](/community/) page for more details).
 
 ## Ongoing Actions
 
-![Ongoing Actions](../assets/images/activites_recherche-repro.png){: style="width: 75%; display:block; margin-right: auto; margin-left:auto;" }
+![Ongoing Actions](../assets/images/actions.png){: style="width: 75%; display:block; margin-right: auto; margin-left:auto;" }
 
 ## Network Structure
 
