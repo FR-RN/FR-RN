@@ -799,6 +799,7 @@ blockquote {
   border-bottom: 0.5px solid #c0c0c0;
   padding-top: 1em;
   padding-bottom: 1em;
+  min-height: 150px;
 }
 
 .site-footer {
