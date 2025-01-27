@@ -19,6 +19,7 @@ body {
     font-weight: 300;
     color: #333333;
 }
+
 strong, strong a {
     font-weight: 400;
 }
@@ -36,18 +37,19 @@ blockquote {
 
 .site-header {
     font-variant: small-caps;
-    background-color: #f0f0f0;
+    background-color: #fcfcfc;
     border-bottom: 0.5px solid #c0c0c0;
     padding-top:    1.0em;
     padding-bottom: 1.0em;
     min-height: 110px;
  }
 .site-footer {
-    background-color: #f0f0f0;
+    background-color: #28295b;
     border-top: 0.5px solid #c0c0c0;
 }
 .footer-col {
     margin-bottom:0;
+    color: white;
 }
 
 .site-header a,
