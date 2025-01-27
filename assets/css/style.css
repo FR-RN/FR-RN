@@ -362,7 +362,7 @@ pre > code {
  * Wrapper
  */
 .wrapper {
-  max-width: calc(800px - (30px));
+  max-width: calc(1080px - (30px));
   margin-right: auto;
   margin-left: auto;
   padding-right: 15px;
@@ -370,7 +370,7 @@ pre > code {
 }
 @media screen and (min-width: 800px) {
   .wrapper {
-    max-width: calc(800px - 30px * 2);
+    max-width: calc(1080px - 30px * 2);
     padding-right: 30px;
     padding-left: 30px;
   }
@@ -795,7 +795,7 @@ blockquote {
 
 .site-header {
   font-variant: small-caps;
-  background-color: #f0f0f0;
+  background-color: #fcfcfc;
   border-bottom: 0.5px solid #c0c0c0;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -803,12 +803,13 @@ blockquote {
 }
 
 .site-footer {
-  background-color: #f0f0f0;
+  background-color: #28295b;
   border-top: 0.5px solid #c0c0c0;
 }
 
 .footer-col {
   margin-bottom: 0;
+  color: white;
 }
 
 .site-header a,
