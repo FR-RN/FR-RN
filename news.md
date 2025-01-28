@@ -34,7 +34,7 @@ déjà postées pour copier le format (nommage du fichier et entête).
 
 
 ## Wébinaires
-### A venir !
+* A venir !
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.webinaires limit:page.n_posts -%}
@@ -49,7 +49,8 @@ déjà postées pour copier le format (nommage du fichier et entête).
  {%- endfor -%}
 </ul>
 
-### Wébinaires passés
+* Wébinaires passés
+
 Vous pourrez retrouver les vidéos des wébinaires en cliquant sur le titre :
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

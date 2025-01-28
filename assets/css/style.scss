@@ -150,10 +150,13 @@ h4, h4 a { font-size: 1.05em;font-weight: 300;color: #E1B6047;
 
 h4 {
     font-weight: 300;
-    font-size: 1.05em;
+    font-size: $small-font-size;
     color: #DB0073;
 }
-
+h3 {
+    font-size: $small-font-size;
+    color: #d133ff;
+}
 
 h1.page-heading {
     font-size: 2.5em;
