@@ -17,6 +17,7 @@ reproductibilité, facilité d'utilisation, et portabilité entre
 plate-formes. Je vais tenter une visite guidée du dédale des outils de
 gestion de code, du point de vue de la reproductibilité.
 
+Ce wébinaire a été animé par [Konrad Hinsen](https://khinsen.net/) chercheur au [Centre de Biophysique Moléculaire d’Orléans](http://cbm.cnrs-orleans.fr/) et chercheur associé au [Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/fr).
 La vidéo est disponible [sur ce lien](https://videos.univ-grenoble-alpes.fr/video/26699-video_konrad_hinsen_reproductibilitedescalculsenpythonmp4/).
 
 La présentation est disponible [ici](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/web/medias/slides/23_11_04_Hinsen_Python_slides.pdf)
