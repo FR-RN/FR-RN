@@ -144,13 +144,13 @@ h1.post-title {
 }
 
 h2, .post-content h2, { font-size: 1.25em; font-weight: 400;}
-h3, h3 a { font-size: 1.20em;font-weight: 300; }
+h3, h3 a { font-size: $small-font-size;}
 h4, h4 a { font-size: 1.05em;font-weight: 300;color: #E1B6047;
 }
 
 h4 {
     font-weight: 300;
-    font-size: 2.05em;
+    font-size: 1.05em;
     color: #DB0073;
 }
 
