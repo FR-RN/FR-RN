@@ -145,17 +145,7 @@ h1.post-title {
 
 h2, .post-content h2, { font-size: 1.25em; font-weight: 400;}
 h3, h3 a { font-size: $small-font-size;}
-h4, h4 a { font-size: 1.05em;font-weight: 300;color: #E1B6047;
-}
-
-h4 {
-    font-weight: 300;
-    font-size: $small-font-size;
-    color: #DB0073;
-}
-h3 {
-    font-size: $small-font-size;
-    color: #d133ff;
+h4, h4 a { font-size: 1.05em;font-weight: 300;
 }
 
 h1.page-heading {
@@ -216,4 +206,14 @@ a.tag:hover {
     font-size: 80%;
     font-weight: 500;
     transition: 0.5s;
+}
+
+
+h4 {
+    font-weight: 300;
+    font-size: $small-font-size;
+    color: #DB0073;
+}
+h3 {
+    color: #d133ff;
 }
