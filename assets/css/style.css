@@ -933,7 +933,7 @@ h2.post-list-heading {
 
 .post-list h3, .post-list h3 a {
   display: inline;
-  font-size: 0.8em;
+  font-size: 0.9em;
   padding-top: 0em;
   padding-left: 0.5em;
 }
@@ -943,9 +943,21 @@ h2.post-list-heading {
 }
 
 .post-content h1,
-.post-content h2,
-.post-content h3 {
+.post-content h2 {
   margin-top: 0px;
+}
+
+.post-content h3 {
+  font-size: 1.1em;
+  margin-top: 0px;
+  color: #8a449f;
+}
+
+.post-content h4 {
+  font-weight: 300;
+  font-size: 1.01em;
+  padding-left: 0.8em;
+  color: #8a449f;
 }
 
 .post-meta {
@@ -980,12 +992,6 @@ a.tag:hover {
   font-size: 80%;
   font-weight: 500;
   transition: 0.5s;
-}
-
-h4 {
-  font-weight: 300;
-  font-size: 14px;
-  color: #DB0073;
 }
 
 /*# sourceMappingURL=style.css.map */
