@@ -3,6 +3,7 @@
   lab: Laboratoire Jean Kuntzmann / GRICAD
   city: Grenoble
   steering: true
+  coord: true
   image: https://team.inria.fr/airsea/files/2021/09/Celine_2021-150x150.png
 - name: Sarah Cohen-Boulakia
   url: https://sarah.cohen-boulakia.eu/
@@ -15,7 +16,7 @@
   lab: Laboratoire IDEES UMR6266
   city: Rouen
   steering: true
-  image: https://umr-idees.fr/media/users/b9d23a51/2362194cf6-1719093791/profile.jpg  
+  image: https://umr-idees.fr/media/users/b9d23a51/2362194cf6-1719093791/profile.jpg
 - name: Benoit Combemale
   url: https://people.irisa.fr/Benoit.Combemale/
   lab: Institut de Recherche en Informatique et Systèmes Aléatoires
@@ -32,6 +33,12 @@
   url: https://neuropsi.cnrs.fr/annuaire/andrew-davison/
   lab: Institut des Neurosciences Paris-Saclay (NeuroPSI)
   city: Saclay
+- name: Gloria Gonzalez Curto
+  url: http://gloriagcurto.info/
+  lab: Chargée de projet pour le réseau, Inria Paris
+  city: Paris
+  steering: true
+  coord: true
 - name: Konrad Hinsen
   url: http://dirac.cnrs-orleans.fr/~hinsen
   lab: Centre de Biophysique Moléculaire
@@ -53,12 +60,13 @@
   city: Grenoble
   lab: LIG
   steering: true
-  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg  
+  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
 - name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
   city: Paris
   steering: true
+  coord: true
   image: https://research.pasteur.fr/wp-content/uploads/2015/11/research_pasteur-frederic-lemoine-lemoine-frederic-26-small-crop-150x150.jpg
 - name: Violaine Louvet
   url: https://louvet.perso.math.cnrs.fr/
@@ -66,8 +74,8 @@
   city: Grenoble
 - name: Franck Pérignon
   url: https://www-ljk.imag.fr/spip.php?article68&idpersonne=5122
-  lab: LJK - Laboratoire Jean Kuntzmann 
-  city: Grenoble  
+  lab: LJK - Laboratoire Jean Kuntzmann
+  city: Grenoble
 - name: Pierre Poulain
   url: https://cupnet.net/
   lab: Institut Jacques Monod
@@ -77,7 +85,7 @@
   lab: Laboratoire Interuniversitaire de Psychologie
   city: Grenoble
   steering: true
-  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg  
+  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg
 - name: Christophe Pouzat
   url: http://xtof.perso.math.cnrs.fr/
   lab: Institut de Recherche Mathématique Avancée
@@ -87,7 +95,7 @@
   lab: Laboratoire IDEES UMR6266
   city: Rouen
   steering: true
-  image: https://covprehension.org/img/about/sebrey.jpg  
+  image: https://covprehension.org/img/about/sebrey.jpg
 - name: François Ric
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
   lab: Laboratoire de Psychologie  UR 4139
