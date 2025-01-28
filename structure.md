@@ -7,7 +7,7 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 
 # Organisation actuelle
 
-![Structure réseau](../assets/images/frrn-structure_v2.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Structure réseau](../assets/images/RFRR_structure_01_2025_blue_FR.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
 
 # Comité de pilotage
