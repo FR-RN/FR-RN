@@ -159,7 +159,7 @@ h2.post-list-heading {
 
 .post-list h3, .post-list h3 a {
     display: inline;
-    font-size: 1.0em;
+    font-size: 0.8em;
     padding-top: 0em;
     padding-left: 0.5em;
 }
@@ -215,8 +215,9 @@ h4 {
     font-size: $small-font-size;
     color: #DB0073;
 }
-h3 {
-    color: #d133ff;
-    font-style: italic;
-    font-size: 0.8em;
+
+@media screen and (min-width: 800px) {
+  .post-content h3 {
+    font-size: 1.05rem;
+  }
 }
