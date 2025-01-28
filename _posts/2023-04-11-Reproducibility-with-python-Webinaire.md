@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinaire : La reproductibilité des calculs en Python"
 date:   2023-04-11 15:00 +0100
-categories: past-webinaires 
+categories: past-webinaires
 ---
 
 
@@ -17,7 +17,6 @@ reproductibilité, facilité d'utilisation, et portabilité entre
 plate-formes. Je vais tenter une visite guidée du dédale des outils de
 gestion de code, du point de vue de la reproductibilité.
 
+La vidéo est disponible [sur ce lien](https://videos.univ-grenoble-alpes.fr/video/26699-video_konrad_hinsen_reproductibilitedescalculsenpythonmp4/).
 
-Les informations de connexion (zoom) seront diffusés sur la page web :
-https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/web/programme_060423.html
-
+La présentation est disponible [ici](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/web/medias/slides/23_11_04_Hinsen_Python_slides.pdf)

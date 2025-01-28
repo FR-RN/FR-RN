@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinaire : IPOL journal and its approach to open science"
 date:   2024-02-08 14:00 +0100
-categories: past-webinaires 
+categories: past-webinaires
 ---
 
 
@@ -10,8 +10,8 @@ David Donoho and many others pointed out in 2009 what is known nowadays as the r
 
 In this short talk I will present the IPOL journal, how it is indexed as a publisher, how the submitted research (paper, software, and data) is evaluated, the impact of IPOL publications. I will finally draw some personal conclusions on why we should all perform reproducible research, but still it is hard to convince everybody to follow this path.
 
-Ce webinaire sera animé par **Miguel Colom-Barco**, enseignant chercheur à l’ENS Paris Saclay.
+Ce webinaire a été animé par **Miguel Colom-Barco**, enseignant chercheur à l’ENS Paris Saclay.
 
-Les informations de connexion (zoom) seront diffusés sur le site web :
-https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/web/
+La vidéo est disponible [sur ce lien](https://videos.univ-grenoble-alpes.fr/video/29004-the-ipol-journal-and-its-approach-to-open-science/).
 
+La présentation est disponible [ici](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/web/medias/slides/M_Colom_08_02_2024_IPOL_Webinar.pdf)

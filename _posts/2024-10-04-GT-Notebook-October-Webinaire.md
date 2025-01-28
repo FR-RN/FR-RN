@@ -2,7 +2,7 @@
 layout: post
 title:  "GT Notebook Webinaire #7 Jupyter Notebook dans un environnement HPC"
 date:   2024-10-04 12:30 +0100
-categories: news
+categories: past-webinaires
 ---
 
 Pour cette **septième édition du webinaire du GT Notebook (Vendredi 04 octobre 12h30-14h00)**, nous avons décidé de faire un focus sur **l'execution des Notebooks dans un environnement HPC**.
