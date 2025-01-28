@@ -29,13 +29,12 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 ## Activités
 
-#### Journées annuelles
-* [Journées 2023](/rr-days/), Paris
-* [Journées 2024](/rr-days-2024/), Grenoble
-* [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
+* Journées annuelles
+  * [Journées 2023](/rr-days/), Paris
+  * [Journées 2024](/rr-days-2024/), Grenoble
+  * [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
 
-#### Wébinaires
-
+* Wébinaires
 
 Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver [la liste des wébinaires sur cette page](/activities/).
 
