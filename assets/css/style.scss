@@ -172,6 +172,7 @@ h2.post-list-heading {
 .post-content h2,
 .post-content h3 {
     margin-top: 0px;
+    font-size: 0.8em;
 }
 
 .post-meta {
@@ -214,10 +215,4 @@ h4 {
     font-weight: 300;
     font-size: $small-font-size;
     color: #DB0073;
-}
-
-@media screen and (min-width: 800px) {
-  .post-content h3 {
-    font-size: 1.05rem;
-  }
 }
