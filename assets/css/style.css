@@ -924,8 +924,13 @@ h4, h4 a {
 
 h4 {
   font-weight: 300;
-  font-size: 1.05em;
+  font-size: 14px;
   color: #DB0073;
+}
+
+h3 {
+  font-size: 14px;
+  color: #d133ff;
 }
 
 h1.page-heading {
