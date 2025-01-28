@@ -2,7 +2,6 @@
   url: https://membres-ljk.imag.fr/Celine.Acary-Robert/
   lab: Laboratoire Jean Kuntzmann / GRICAD
   city: Grenoble
-  steering: true
   coord: true
   image: https://team.inria.fr/airsea/files/2021/09/Celine_2021-150x150.png
 - name: Sarah Cohen-Boulakia
@@ -37,8 +36,8 @@
   url: http://gloriagcurto.info/
   lab: Chargée de projet pour le réseau, Inria Paris
   city: Paris
-  steering: true
   coord: true
+  image: http://gloriagcurto.info/images/GGC3.jpg
 - name: Konrad Hinsen
   url: http://dirac.cnrs-orleans.fr/~hinsen
   lab: Centre de Biophysique Moléculaire
@@ -65,7 +64,6 @@
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
   city: Paris
-  steering: true
   coord: true
   image: https://research.pasteur.fr/wp-content/uploads/2015/11/research_pasteur-frederic-lemoine-lemoine-frederic-26-small-crop-150x150.jpg
 - name: Violaine Louvet
