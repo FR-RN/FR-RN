@@ -919,18 +919,6 @@ h3, h3 a {
 h4, h4 a {
   font-size: 1.05em;
   font-weight: 300;
-  color: #E1B6047;
-}
-
-h4 {
-  font-weight: 300;
-  font-size: 14px;
-  color: #DB0073;
-}
-
-h3 {
-  font-size: 14px;
-  color: #d133ff;
 }
 
 h1.page-heading {
@@ -991,6 +979,16 @@ a.tag:hover {
   font-size: 80%;
   font-weight: 500;
   transition: 0.5s;
+}
+
+h4 {
+  font-weight: 300;
+  font-size: 14px;
+  color: #DB0073;
+}
+
+h3 {
+  color: #d133ff;
 }
 
 /*# sourceMappingURL=style.css.map */
