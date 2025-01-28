@@ -946,7 +946,10 @@ h2.post-list-heading {
 .post-content h2,
 .post-content h3 {
   margin-top: 0px;
-  font-size: 0.8em;
+}
+
+.post-content h3 {
+  font-size: 1.1em;
 }
 
 .post-meta {
