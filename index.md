@@ -14,7 +14,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
 
 ## Objectifs du réseau
 
-![Objectifs réseau](../assets/images/objectifs_recherche-repro-fr.png){: style="width: 45%; display:block; margin-right: auto; margin-left:auto;" }
+![Objectifs réseau](../assets/images/objectifs_recherche-repro-fr.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
 
 Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abonnement à celle-ci constituant actuellement le principal critère d’adhésion. Les membres occupent des fonctions variées et sont issus de nombreuses institutions réparties à travers le territoire français. Ainsi, au moins 30 disciplines différentes sont représentées. Cette diversité est un élément fondamental du réseau qui vise à promouvoir l'échange de bonnes pratiques et créer des discussions autour de procédures communes dans des disciplines différentes (voir la page [Membres](/community/) pour plus de détails).
 
