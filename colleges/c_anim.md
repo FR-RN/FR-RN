@@ -8,11 +8,6 @@ title: Collège Animation scientifique
 Les membres du collège organisent des wébinaires en lien avec la reproductibilité.
 
 ## Wébinaires organisés par le réseau
-#### Programme des prochains séminaires
-* **28 Mars 2025, 14h** : Reproductibilité et géomatique, *Thimotée Giraud, Nicolas Roelandt*
-* **6 Mai 2025, 14h** : Présentation du réseau anglais de reproducbilité (UKRN), organisation, fonctionnement et initiatives, *Etienne Roesch*
-* **23 Mai 2025, 14h** : Reproductibilité en calcul scientifique, *Pol Dellaiera* (date à confirmer)
-* **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
 
 
 <ul class="post-list">
@@ -29,6 +24,12 @@ Les membres du collège organisent des wébinaires en lien avec la reproductibil
     </li>
  {%- endfor -%}
 </ul>
+
+#### Programme des séminaires à venir
+* **28 Mars 2025, 14h** : Reproductibilité et géomatique, *Thimotée Giraud, Nicolas Roelandt*
+* **6 Mai 2025, 14h** : Présentation du réseau anglais de reproducbilité (UKRN), organisation, fonctionnement et initiatives, *Etienne Roesch*
+* **23 Mai 2025, 14h** : Reproductibilité en calcul scientifique, *Pol Dellaiera* (date à confirmer)
+* **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
 
 
 #### Séminaires passés
