@@ -34,7 +34,7 @@ déjà postées pour copier le format (nommage du fichier et entête).
 
 
 ## Wébinaires
-l class="post-list">
+<ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.webinaires limit:page.n_posts -%}
    #### Prochains wébinaires
@@ -56,7 +56,8 @@ l class="post-list">
 * **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
 
 
-* Wébinaires passés : vous pourrez retrouver les vidéos des wébinaires en cliquant sur le titre :
+#### Wébinaires passés
+Vous pourrez retrouver les vidéos des wébinaires en cliquant sur le titre.
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.past-webinaires limit:page.n_posts -%}
