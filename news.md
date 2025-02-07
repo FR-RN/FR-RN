@@ -34,6 +34,12 @@ déjà postées pour copier le format (nommage du fichier et entête).
 
 
 ## Wébinaires
+* Prochains wébinaires
+  * **28 Mars 2025, 14h** : Reproductibilité et géomatique, *Thimoté Giraud, Nicolas Roelandt*
+  * **6 Mai 2025, 14h** : Présentation du réseau anglais de reproducbilité (UKRN), organisation, fonctionnement et initiatives, *Etienne Roesch*
+  * **23 Mai 2025, 14h** : Reproductibilité en calcul scientifique, *Pol Dellaiera* (date à confirmer)
+  * **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
+
 * A venir !
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
