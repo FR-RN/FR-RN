@@ -15,10 +15,10 @@ jobs:
       with:
         ref: source
 
-    - name: Set up Ruby 3.1.0
+    - name: Set up Ruby 3.4.1
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1.0
+        ruby-version: 3.4.1
         bundler-cache: true
 
     - name: Build Jekyll site
