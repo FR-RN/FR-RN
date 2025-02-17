@@ -13,14 +13,13 @@ n_news: 1
 
 Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
 
-<!--
 ## News !
 
 <div class="news">
 <h6>  Wébinaire </h6>
   <ul class="post-list">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-     {%- for post in site.categories.webinaires limit:page.n_news -%}
+     {%- for post in site.categories.past-webinaires limit:page.n_news -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -74,7 +73,6 @@ La prochaine newsletter est en préparation, n'hésitez pas à nous faire part d
 <div class="news2"> Retrouvez l'intégralité des actualités <a href="{{activities | relative_url}}/activities/">sur cette page</a> !</div>
 </div>
 
--->
 
 
 
