@@ -8,9 +8,79 @@ n_posts: 8
 
 > Pour un chercheur, il n’y a rien de plus frustrant que l’impossibilité de reproduire des résultats majeurs obtenus quelques mois auparavant. Les causes de ce type de déconvenues sont multiples et parfois pernicieuses. Ce phénomène participe à ce que certains identifient comme une “crise de la reproductibilité de la recherche”. --- Vers une recherche reproductible, Desquilbet et al., 2019.
 
-![Actions reseau](../assets/images/Titre.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/banniere_web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
 
 Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
+
+
+## News !
+
+<div class="news">
+<h6>  Wébinaire </h6>
+  <ul class="post-list">
+   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+     {%- for post in site.categories.webinaires limit:page.n_news -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+   {%- endfor -%}
+  </ul>
+<h6>Conférence </h6>
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.event limit:page.n_news -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+<h6>Actualités</h6>
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.news limit:page.n_news -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+<h6>Divers</h6>
+La prochaine newsletter est en préparation, n'hésitez pas à nous faire part des contenus que vous voudriez partager avec la communauté : ou consulter les <a href="{{activities | relative_url}}/activities/"">archives  
+
+
+
+<div class="news2"> Retrouvez l'intégralité des actualités <a href="{{activities | relative_url}}/activities/"">sur cette page</a> !</div>
+</div>
+
+
+
+
+
+
+
 
 ## Objectifs du réseau
 
