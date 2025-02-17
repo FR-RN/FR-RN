@@ -2,6 +2,7 @@
 layout: page
 list_title: Dernières nouvelles
 n_posts: 8
+n_news: 1
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
