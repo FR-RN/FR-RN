@@ -835,6 +835,11 @@ blockquote {
   transition: 0.5s;
 }
 
+.site-logo {
+  color: #000090;
+  margin-left: 1em;
+}
+
 .site-title {
   color: #000090;
 }
@@ -967,6 +972,25 @@ h2.post-list-heading {
 
 p.feed-subscribe {
   margin-bottom: 0;
+}
+
+.news2 {
+  text-align: right;
+  font-size: 0.9em;
+}
+
+.news {
+  border: 5px solid #673794;
+  background-color: #ff;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+h6.news {
+  font-size: 80%;
+  font-weight: 500;
+  color: #110090;
 }
 
 a.tag, .tag {
