@@ -71,7 +71,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
 <h6>Divers</h6>
 La prochaine newsletter est en préparation, n'hésitez pas à nous faire part des contenus que vous voudriez partager avec la communauté !
 
-<div class="news2"> Retrouvez l'intégralité des actualités <a href="{{activities | relative_url}}/activities/"">sur cette page</a> !</div>
+<div class="news2"> Retrouvez l'intégralité des actualités <a href="{{activities | relative_url}}/activities/">sur cette page</a> !</div>
 </div>
 
 
