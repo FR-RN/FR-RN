@@ -982,9 +982,9 @@ p.feed-subscribe {
 .news {
   border: 5px solid #673794;
   background-color: #ff;
-  padding: 0.5rem;
-  display: flex;
-  flex-direction: column;
+  padding: 0.2rem;
+  #  display: flex;
+  #  flex-direction: column;
 }
 
 h6.news {
