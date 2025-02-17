@@ -994,6 +994,12 @@ h6.news {
   color: #110090;
 }
 
+.post-content h6 {
+  font-size: 80%;
+  font-weight: 500;
+  color: #110090;
+}
+
 a.tag, .tag {
   color: #000090;
   border: 1px solid #000090;
