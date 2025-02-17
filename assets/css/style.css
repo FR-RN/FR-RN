@@ -998,7 +998,10 @@ h6.news {
   font-size: 100%;
   font-weight: 500;
   color: #be076d;
+  margin-top: 1px;
   margin-bottom: 1px;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 a.tag, .tag {
