@@ -136,7 +136,8 @@ h1, .post-content h1  {
 }
 h4 {
     font-weight: 300;
-        padding-bottom: 1em;
+    padding-bottom: 2px;
+    padding-bottom: 2px;
 }
 
 .post-content h1  {
@@ -186,7 +187,9 @@ h2.post-list-heading {
     font-weight: 300;
     font-size: 1.01em;
     padding-left: 0.8em;
-    color: #8a449f;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    color: #be076d;
 }
 
 .post-meta {
@@ -208,7 +211,7 @@ p.feed-subscribe {
     padding: 0.2rem;
     width: 80%;
     align: center;
-    margin-left: 80px;    
+    margin-left: 80px;
 }
 
 h6.news  {
