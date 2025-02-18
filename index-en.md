@@ -9,9 +9,69 @@ n_posts: 8
 > "For a researcher, there is nothing more frustrating than the inability to reproduce major results obtained just a few months earlier. The causes of such setbacks are numerous and sometimes insidious. This phenomenon contributes to what some describe as a "reproducibility crisis in research.". --- Vers une recherche reproductible, Desquilbet et al., 2019.
 
 
-![Actions reseau](../assets/images/Titre.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/bandeau-web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
 
 The French Network for Reproducible Research is an informal national initiative bringing together scientists involved in the study of factors that promote the reproducibility of research. Although the challenges of reproducibility vary from one discipline to another, they concern all scientific fields. The network is committed to broad and balanced disciplinary diversity.
+
+## Last news !
+
+<div class="news">
+<h6>  Webinar </h6>
+  <ul class="post-list">
+   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+     {%- for post in site.categories.past-webinaires limit:page.n_news -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+   {%- endfor -%}
+  </ul>
+<h6>Conference </h6>
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.event limit:page.n_news -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+<h6>News</h6>
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.news limit:page.n_news -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+<h6>Further information</h6>
+The next newsletter is in preparation, so don't hesitate to let us know what content you'd like to share with the community!
+
+<div class="news2"> Read all the news <a href="{{activities | relative_url}}/activities/">on this page</a> !</div>
+</div>
 
 ## Network Objectives
 

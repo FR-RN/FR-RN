@@ -203,11 +203,10 @@ p.feed-subscribe {
 }
 
 .news {
-  border: 5px solid #673794;
-  background-color: #ff;
-  padding: 0.2rem;
-#  display: flex;
-#  flex-direction: column;
+    border: 5px solid #673794;
+    background-color: #ff;
+    padding: 0.2rem;
+    width: 80%;    
 }
 h6.news  {
     font-size: 80%;
@@ -215,13 +214,13 @@ h6.news  {
     color: #110090;
 }
 .post-content h6 {
-  font-size: 100%;
-  font-weight: 500;
-  color: #be076d;
-      margin-top:1px;
-    margin-bottom:1px;
-    padding-top:1px;
-  padding-bottom:1px;
+    font-size: 100%;
+    font-weight: 500;
+    color: #be076d;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 
