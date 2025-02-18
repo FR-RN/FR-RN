@@ -3,7 +3,7 @@ layout: page
 list_title: Dernières nouvelles
 n_posts: 8
 n_news: 1
-n_news2: 4
+n_actus: 2
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
@@ -56,7 +56,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news limit:page.n_news2 -%}
+   {%- for post in site.categories.news limit:page.n_actus -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>

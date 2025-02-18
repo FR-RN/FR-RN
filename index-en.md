@@ -3,7 +3,7 @@ layout: page
 list_title: Dernières nouvelles
 n_posts: 8
 n_news: 1
-n_news2: 2
+n_actus: 2
 ---
 
 # Welcome to the French Network for Reproducible Research
@@ -57,7 +57,7 @@ The French Network for Reproducible Research is an informal national initiative 
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news limit:page.n_news -%}
+   {%- for post in site.categories.news limit:page.n_actus -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
