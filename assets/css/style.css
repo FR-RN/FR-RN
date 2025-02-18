@@ -987,6 +987,8 @@ p.feed-subscribe {
   padding: 0.2rem;
   width: 80%;
   align: center;
+  display: flex;
+  justify-content: center;
 }
 
 h6.news {
