@@ -4,7 +4,7 @@ title: Credits
 permalink: /credits/
 list_title: Dernières nouvelles
 n_posts: 500
-siteNav: true
+siteNav: false
 ---
 
 
@@ -52,4 +52,5 @@ You have a right of access, rectification, erasure, limitation and portability w
 All content on this website is licensed under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed.
 
 This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.
+
 ![CC BY-NC-ND](../assets/images/by-nc-nd.png){: style="width: 10%; display:block; margin-right: auto; margin-left:auto;" }
