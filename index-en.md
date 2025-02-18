@@ -3,6 +3,7 @@ layout: page
 list_title: Dernières nouvelles
 n_posts: 8
 n_news: 1
+n_news2: 2
 ---
 
 # Welcome to the French Network for Reproducible Research
