@@ -105,7 +105,7 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 #### Wébinaires
 
-Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège](/colleges/c_anim/).
+Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège](/colleges/c_anim).
 
 <br />
 
