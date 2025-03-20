@@ -1,6 +1,6 @@
 ---
 layout: page
-list_title: Dernières nouvelles
+list_title: Last news
 n_posts: 8
 n_news: 1
 n_actus: 2

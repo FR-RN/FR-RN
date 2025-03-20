@@ -9,6 +9,9 @@ siteNav: false
 
 
 ## Credits
+#### Website template
+This website was generated using [Jekyll](https://jekyllrb.com/) (under the terms of the MIT License).
+
 
 #### Website design
 
