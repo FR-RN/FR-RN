@@ -20,7 +20,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
 <h6>  Wébinaire </h6>
   <ul class="post-list">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-     {%- for post in site.categories.past-webinaires limit:page.n_news -%}
+     {%- for post in site.categories.webinaires limit:page.n_news -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
