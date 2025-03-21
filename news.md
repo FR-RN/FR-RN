@@ -37,7 +37,6 @@ déjà postées pour copier le format (nommage du fichier et entête).
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.webinaires limit:page.n_posts -%}
-   #### Prochains wébinaires
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
