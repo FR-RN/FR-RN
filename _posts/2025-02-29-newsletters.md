@@ -36,9 +36,9 @@ categories: newsletter
     **Spangenberg, P., Bessler, S., Widera, L. et al.** , *Nature Communications 16, 1065 (2025)*.
 
 
+---------------------------------------------------------------------------------------------------------
+Le réseau français de recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire.
 
-  Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire.
-
-  Vous trouverez plus d'information sur le site du réseau [Recherche Reproductible](https://recherche-reproductible.fr/) et vous pouvez vous abonner à la liste de diffusion : [recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible).
+Vous trouverez plus d'information sur le site du réseau [Recherche Reproductible](https://recherche-reproductible.fr/) et vous pouvez vous abonner à la liste de diffusion : [recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible).
 
 Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre ! Envoyez-nous un courriel et contribuez au réseau : contact[@]recherche-reproductible.fr.
