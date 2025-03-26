@@ -46,7 +46,13 @@ Le réseau publie une newsletter tous les deux mois environ afin de partager les
  {%- endfor -%}
 </ul>
 
+# Ressources bibliographiques
 
+Les membres du réseau sont invités à ajouter à la base de données bibliographique zotero :
+
+[base zotero du réseau](https://www.zotero.org/groups/5860361/french_reproducible_research_network/)
+
+toute publication en lien avec la reproductibilité qu'ils jugent d'intérêt pour la communauté.
 
 # Education
 
