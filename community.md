@@ -10,15 +10,10 @@ childPages: ["Structure du réseau", "Réseaux internationaux", "Initiatives nat
 
 Suite à l'envoi d'une enquête aux abonnés de la liste, l'analyse de la centaine de réponses reçues nous a permis d'établir les documents ci-dessous.
 L'ensemble des informations peut être consultés sur [ce rapport](../assets/pdf/composition_et_distribution_du_RFRR.pdf).
-## Répartition géographique des Membres
+## Répartition géographique et thématique des Membres
 
-![répartition géographique](../assets/images/carte_france.png){: style="border: 1px solid black; width: 30%; fl
+![répartition géographique](../assets/images/Carto1.png){: style="border: 1px solid black; width: 60%; fl
 oat: center; margin-right: 1em;" }
-
-## Répartition par thématiques
-![répartition géographique](../assets/images/heatmap_region_discipline_FR.png){: style="border: 1px solid black; width: 30%; fl
-oat: center; margin-right: 1em;" }
-
 
 
 # Membres du réseau
