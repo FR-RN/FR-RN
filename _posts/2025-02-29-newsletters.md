@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Newsletter de Décembre 2024"
+title:  "Newsletter de Février 2025"
 date:   2025-02-29 13:00 +0100
 categories: newsletter
 ---
