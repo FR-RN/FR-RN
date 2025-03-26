@@ -6,6 +6,16 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 siteNav: true
 childPages: ["Structure du réseau", "Réseaux internationaux", "Initiatives nationales", "Initiatives internationales"]
 ---
+# Cartographie des membres
+
+Suite à l'envoi d'une enquête aux abonnés de la liste, l'analyse de la centaine de réponses reçues nous as permis d'établir les documents ci-dessous.
+
+## Répartition géographique des Membres
+
+![répartition géographique](../assets/carte_france.png){: style="border: 1px solid black; width: 30%; fl
+oat: center; margin-right: 1em;" }
+
+
 
 # Membres du réseau
 
