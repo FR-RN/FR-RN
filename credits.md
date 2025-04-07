@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credits
+title: Legal notices
 permalink: /credits/
 list_title: Dernières nouvelles
 n_posts: 500
@@ -52,7 +52,7 @@ This website was created by the French Reproducible Research Network and the inf
 You have a right of access, rectification, erasure, limitation and portability with regard to your personal data, which you may exercise by contacting: contact@recherche-reproductible.fr
 
 ## License
-All content on this website is licensed under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) licensed.
+All content on this website is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licensed.
 
 This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.
 
