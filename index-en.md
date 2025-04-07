@@ -14,6 +14,7 @@ n_actus: 2
 ![Actions reseau](../assets/images/banniere_web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
 
 The French Network for Reproducible Research is an informal national initiative bringing together scientists involved in the study of factors that promote the reproducibility of research. Although the challenges of reproducibility vary from one discipline to another, they concern all scientific fields. The network is committed to broad and balanced disciplinary diversity.
+[More information in this document !](assets/pdfs/presentation_en.pdf).
 
 ## Last news !
 
