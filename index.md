@@ -93,7 +93,7 @@ Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abo
 
 ## Structure
 
-Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses (animation, relations européennes, relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques (formation, notebooks, gestion des environnements logiciels).
+Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), relations européennes, relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques (formation, notebooks, [développement logiciels](/gtravail/gt_logiciel)).
 
 
 ## Activités
@@ -106,7 +106,7 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 #### Wébinaires
 
-Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège](/colleges/c_anim).
+Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège animation](/colleges/c_anim).
 
 <br />
 
