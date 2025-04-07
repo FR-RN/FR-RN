@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Groupe de travail "logiciel"
+title: Groupe de travail "développement logiciel"
 ---
 
 ## Cadre et objectifs du groupe
