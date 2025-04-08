@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formations et ateliers
+title: Formations
 permalink: /training/
 list_title: Formations
 n_posts: 500
