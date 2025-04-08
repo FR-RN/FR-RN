@@ -5,7 +5,7 @@ permalink: /activities/
 list_title: Dernières nouvelles
 n_posts: 500
 siteNav: true
-childPages: ["Wébinaires"]
+childPages: ["Wébinaires", "Publications"]
 ---
 
 Voilà les dernières nouvelles ainsi que les événements à venir en lien
@@ -33,46 +33,6 @@ déjà postées pour copier le format (nommage du fichier et entête).
  {%- endfor -%}
 </ul>
 
-
-## Wébinaires
-<ul class="post-list">
- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.webinaires limit:page.n_posts -%}
-    <li>
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-    </li>
- {%- endfor -%}
-</ul>
-
-#### Programme des séminaires à venir
-* **28 Mars 2025, 14h** : Reproductibilité et géomatique, *Thimotée Giraud, Nicolas Roelandt*
-* **6 Mai 2025, 14h** : Présentation du réseau anglais (UKRN), organisation, fonctionnement et initiatives, *Etienne Roesch*
-* **23 Mai 2025, 14h** : Reproductibilité en calcul scientifique, *Pol Dellaiera* (date à confirmer)
-* **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
-
-
-#### Wébinaires passés
-Vous pourrez retrouver les vidéos des wébinaires en cliquant sur le titre.
-<ul class="post-list">
- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.past-webinaires limit:page.n_posts -%}
-    <li>
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-    </li>
- {%- endfor -%}
-</ul>
-
-
 ## Dernières nouvelles
 
 {% if site.paginate %}
@@ -96,24 +56,7 @@ Vous pourrez retrouver les vidéos des wébinaires en cliquant sur le titre.
 </ul>
 
 
-## Publications
 
-<ul class="post-list">
- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.publication limit:10 -%}
-    <li>
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-          {% if post.lang == "english" %}
-          [en]
-          {% endif %}
-        </a>
-      </h3>
-    </li>
- {%- endfor -%}
-</ul>
 
 ## Évènements passés
 
