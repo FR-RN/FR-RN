@@ -5,7 +5,7 @@ permalink: /activities/
 list_title: Dernières nouvelles
 n_posts: 500
 siteNav: true
-childPages: ["Wébinaires", "Publications"]
+childPages: ["Wébinaires", "Publications", "Formations"]
 ---
 
 Voilà les dernières nouvelles ainsi que les événements à venir en lien

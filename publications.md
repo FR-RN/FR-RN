@@ -6,7 +6,7 @@ list_title: Publications
 n_posts: 500
 siteNav: false
 ---
-Voici une liste de publications identifiées autour de la recherche reproductible. Vous pouvez trouver plus de référenes sur l'archive de publication du réseau : [zotero](https://www.zotero.org/groups/5860361/french_reproducible_research_network/), qui contient beaucoup de références !
+Voici une liste de publications identifiées autour de la recherche reproductible. Vous pouvez trouver plus de références sur l'archive de publication du réseau : [zotero](https://www.zotero.org/groups/5860361/french_reproducible_research_network/), qui contient beaucoup de références !
 
 ## Publications
 
