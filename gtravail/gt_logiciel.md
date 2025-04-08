@@ -16,5 +16,6 @@ Quelques objectifs :
 
 Pour répondre à cela, nous avons déployé un site web sur lequel on pourra trouver des fiches pratiques, définitions, conseils, guide vers des tutoriels ...
 
+Consulter les ressources : [site web avec les cartes](https://gt-env-logiciels.gricad-pages.univ-grenoble-alpes.fr/sandbox-notecards/index.html)
+
 Pour rejoindre le groupe, vous pouvez vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
-Vous pouvez également consulter les ressources : [site web avec les cartes](https://gt-env-logiciels.gricad-pages.univ-grenoble-alpes.fr/sandbox-notecards/index.html)

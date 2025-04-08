@@ -88,7 +88,7 @@ With around 260 members on its mailing list, subscription is currently the main 
 
 ## Network Structure
 
-To achieve these goals, the network has adopted a [structure](/steering/) with three types of components: a steering committee that defines priority areas and coordinates the various actions, cross-functional groups ([animation](/colleges/c_anim), european relations, institutional relations, communication), and finally, working groups on specific topics (training, notebooks, software environment management).
+To achieve these goals, the network has adopted a [structure](/steering/) with three types of components: a steering committee that defines priority areas and coordinates the various actions, cross-functional groups ([animation](/colleges/c_anim), european relations, institutional relations, communication), and finally, working groups on specific topics (training, notebooks, [software developement](/gtravail/gt_logiciel)).
 
 
 ## Activities

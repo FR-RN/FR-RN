@@ -70,6 +70,6 @@ Les collèges transverses sont articulés autour de 4 thématiques :
 Les groupes de travail, sont organisés autour d'une thématique précise et ont pour but de définir et diffuser les bonnes pratiques pour une science reproductible dans leur périmètre :
 
 * GT Formation
-* GT Notebooks
-* GT Reproductibilité des environnements logiciels : n'hésitez pas à rejoindre en vous abonnant à la [**liste de diffusion**](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
+* [GT développement logiciel](/gtravail/gt_logiciel) : n'hésitez pas à rejoindre en vous abonnant à la [**liste de diffusion**](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
 * GT Contrôle qualité des échantillons biologiques
+Le [GT notebook](https://gt-notebook.gitpages.huma-num.fr/site_quarto/) est un GT autour les enjeux et problématiques du Notebook, pris comme un objet complexe au sein du cycle des données de la recherche. Il n'est pas directement un GT du réseau mais nous entretenons des collaborations étroites. 
