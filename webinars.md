@@ -4,7 +4,6 @@ title: Wébinaires
 permalink: /webinars/
 list_title: Wébinaires
 n_posts: 500
-siteNav: true
 ---
 Voici les wébinairs organisés par le réseau. Si vous souhaitez voir aborder un sujet, n'hésitez pas à nous contacter par [mail](contact@recherche-reproductible.fr) !
 
