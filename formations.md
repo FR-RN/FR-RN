@@ -10,7 +10,7 @@ siteNav: false
 
 
 ## Ateliers
-### Atelier "Science ouverte et reproductibilité"
+### Atelier "Science ouverte et reproductibilité", 13 Février 2025.
 Cet atelier a été organisé au laboratoire Jean Kuntzmann à Grenoble, à destination
 des doctorants et permanents du laboratoire. Cela a été l'occasion de rappeler
 les principes de science ouverte qui doivent régir les pratiques de recherche,
