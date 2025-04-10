@@ -17,7 +17,7 @@ Le collège a pour ambition de :
 
 Au cours des derniers mois, plusieurs actions concrètes ont été menées :
 
-* Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Réproductibilité, avec l’implication de Miguel Colom et Nicolas Rougier.
+* Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Reproductibilité, avec l’implication de Miguel Colom et Nicolas Rougier.
 * Organisation d’un webinaire consacré aux réseaux européens, avec une intervention d’Étienne Roesch (UKRN) le 6 mai.
 * Implication dans le projet TRUSTparency, porté par Florian Naudet, autour de la transparence scientifique.
 * Représentation du réseau dans des événements internationaux majeurs :

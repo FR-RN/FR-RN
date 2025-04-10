@@ -93,15 +93,21 @@ To achieve these goals, the network has adopted a [structure](/steering/) with t
 
 ## Activities
 
-#### Annual Meetings
+### Annual Meetings
 * [2023](/rr-days/), Paris
 * [2024](/rr-days-2024/), Grenoble
 * [2025](https://jrfrr-2025.sciencesconf.org/), Lyon
 
-#### Webinars
+### Webinars
 The network organises regular webinars on a variety of topics relating to reproducible research. You can find [the list of seminars on this page](/activities/).
 
 
 <br />
 
 <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts-en.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
+
+### European collaborations
+* Active involvement in the working group on sustaining the Global Federation of Reproducibility Networks
+* Organization of a webinar on European networks
+* Participation in the TRUSTparency project
+* Representation at major international events

@@ -59,7 +59,7 @@ Le comité de pilotage actuel est composé des membres suivants:
 
 Les collèges transverses sont articulés autour de 4 thématiques :
 
-* Relations européennes : liens et organisations d'évènements communs avec les autres réseaux européens
+* [Relations européennes](/colleges/c_europe) : liens et organisations d'évènements communs avec les autres réseaux européens
 * <b><a href="/colleges/c_anim">Animation scientifique</a></b> : organisation de séminaires et wébinaires autour de la reproductibilité
 * Relations institutionnelles et administratives : lien avec les différentes institutions de recherche françaises
 * Veille bibliographique et évènementielle : assurer la veille bibliographique mais également des conférences en lien avec la reproductibilité
@@ -72,4 +72,4 @@ Les groupes de travail, sont organisés autour d'une thématique précise et ont
 * GT Formation
 * [GT développement logiciel](/gtravail/gt_logiciel) : n'hésitez pas à rejoindre en vous abonnant à la [**liste de diffusion**](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
 * GT Contrôle qualité des échantillons biologiques
-Le [GT notebook](https://gt-notebook.gitpages.huma-num.fr/site_quarto/) est un GT autour les enjeux et problématiques du Notebook, pris comme un objet complexe au sein du cycle des données de la recherche. Il n'est pas directement un GT du réseau mais nous entretenons des collaborations étroites. 
+Le [GT notebook](https://gt-notebook.gitpages.huma-num.fr/site_quarto/) est un GT autour les enjeux et problématiques du Notebook, pris comme un objet complexe au sein du cycle des données de la recherche. Il n'est pas directement un GT du réseau mais nous entretenons des collaborations étroites.

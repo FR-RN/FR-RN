@@ -13,7 +13,7 @@ n_actus: 2
 ![Actions reseau](../assets/images/banniere_web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
 
 Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
-[Plus d'information dans ce document !](assets/pdfs/presentation.pdf).
+[Plus d'information dans ce document !](assets/pdfs/presentation.pdf)
 
 ## News !
 
@@ -93,21 +93,27 @@ Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abo
 
 ## Structure
 
-Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), relations européennes, relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques (formation, notebooks, [développement logiciel](/gtravail/gt_logiciel)).
+Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), [relations européennes](/colleges/c_europe), relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques (formation, [notebooks](https://gt-notebook.gitpages.huma-num.fr/site_quarto/), [développement logiciel](/gtravail/gt_logiciel)).
 
 
 ## Activités
 
-#### Journées annuelles
+### Journées annuelles
 
   * [Journées 2023](/rr-days/), Paris
   * [Journées 2024](/rr-days-2024/), Grenoble
   * [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
 
-#### Wébinaires
+### Wébinaires
 
 Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège animation](/colleges/c_anim).
 
 <br />
 
 <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
+
+### Implication au niveau européen
+* Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Reproductibilité
+* Organisation de webinaires consacré aux réseaux européens
+* Implication dans le projet TRUSTparency
+* Représentation du réseau dans des événements internationaux
