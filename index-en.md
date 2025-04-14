@@ -19,7 +19,20 @@ The French Network for Reproducible Research is an informal national initiative 
 ## Last news !
 
 <div class="news">
-<h6>  Webinar </h6>
+<h6>  Webinars </h6>
+  <ul class="post-list">
+   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+     {%- for post in site.categories.webinaires limit:page.n_news -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+   {%- endfor -%}
+  </ul>
   <ul class="post-list">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
      {%- for post in site.categories.past-webinaires limit:page.n_news -%}
@@ -33,7 +46,7 @@ The French Network for Reproducible Research is an informal national initiative 
       </li>
    {%- endfor -%}
   </ul>
-<h6>Conference </h6>
+<h6>Conferences </h6>
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.event limit:page.n_news -%}
@@ -101,13 +114,13 @@ To achieve these goals, the network has adopted a [structure](/steering/) with t
 ### Webinars
 The network organises regular webinars on a variety of topics relating to reproducible research. You can find [the list of seminars on this page](/activities/).
 
-
-<br />
-
-<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts-en.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
-
 ### European collaborations
 * Active involvement in the working group on sustaining the Global Federation of Reproducibility Networks
 * Organization of a webinar on European networks
 * Participation in the TRUSTparency project
 * Representation at major international events
+
+
+<br />
+
+<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts-en.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
