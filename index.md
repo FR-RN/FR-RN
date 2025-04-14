@@ -123,12 +123,13 @@ Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering
 
 Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège animation](/colleges/c_anim).
 
-<br />
-
-<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
 
 ### Implication au niveau européen
 * Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Reproductibilité
 * Organisation de webinaires consacré aux réseaux européens
 * Implication dans le projet TRUSTparency
 * Représentation du réseau dans des événements internationaux
+
+<br />
+
+<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
