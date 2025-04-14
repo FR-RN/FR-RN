@@ -18,7 +18,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
 ## News !
 
 <div class="news">
-<h6>  Wébinaire </h6>
+<h6>  Wébinaires </h6>
   <ul class="post-list">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
      {%- for post in site.categories.webinaires limit:page.n_news -%}
@@ -47,7 +47,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
   </ul>
 
 
-<h6>Conférence </h6>
+<h6>Conférences </h6>
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.event limit:page.n_news -%}

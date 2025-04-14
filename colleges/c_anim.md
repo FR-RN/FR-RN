@@ -4,8 +4,12 @@ title: Collège Animation scientifique
 ---
 
 # Organisation actuelle
+Le collège animation se réunit une fois par mois avec pour objectifs de proposer des wébinaires et des animations
+en lien avec la reproductibilité.
+Les thèmes traités se veulent variés afin de représenter aux mieux les préoccupations des membres du réseau.
 
-Les membres du collège organisent des wébinaires en lien avec la reproductibilité.
+Si vous souhaitez participer à ce collège, il vous suffit de nous rejoindre en vous abonnant à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible-animation)
+Pour voir un thème particulier abordé, n'hésitez pas à nous contacter :  [recherche-reproductible-animation](mailto:recherche-reproductible-animation@groupes.renater.fr).
 
 ## Wébinaires organisés par le réseau
 
@@ -25,9 +29,8 @@ Les membres du collège organisent des wébinaires en lien avec la reproductibil
 </ul>
 
 #### Programme des séminaires à venir
-* **28 Mars 2025, 14h** : Reproductibilité et géomatique, *Thimotée Giraud, Nicolas Roelandt*
 * **6 Mai 2025, 14h** : Présentation du réseau anglais (UKRN), organisation, fonctionnement et initiatives, *Etienne Roesch*
-* **23 Mai 2025, 14h** : Reproductibilité en calcul scientifique, *Pol Dellaiera*
+* **23 Mai 2025, 14h** : Reproductibilité et environnements de développement, *Pol Dellaiera*
 * **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
 
 
