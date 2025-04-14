@@ -16,6 +16,9 @@ sur "Add file". Vous pouvez regarder les
 [nouvelles](https://raw.githubusercontent.com/FR-RN/FR-RN/source/_posts/2022-01-08-french-reproducibility-network-creation.md)
 déjà postées pour copier le format (nommage du fichier et entête).
 
+## Activités du réseau
+
+Les membres réseau organise des [wébinaires](/webinars/) via le [collège animation](/colleges/c_anim/), participent à des [formations](/formations/) autour de la reproductibilité via le gt formation et recensent des [publications](/publications/) en lien avec le sujet.
 
 ## Conférences
 
