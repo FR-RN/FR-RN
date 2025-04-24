@@ -7,7 +7,7 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 
 # Organisation actuelle
 
-![Structure réseau](../assets/images/Structure_fr_nologo_links.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Structure réseau](../assets/images/Structure_fr_nologo_links.pdf){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
 
 # Comité de pilotage {#steering}
