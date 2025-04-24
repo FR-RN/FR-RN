@@ -5,7 +5,7 @@ date:   2025-04-25 13:00 +0100
 categories: newsletter
 ---
 
-# Newsletter du réseau Recherche Reproductible N°6 : Avril 2025
+# Newsletter du réseau Recherche Reproductible N°6
 
 ## Manifestations
 
