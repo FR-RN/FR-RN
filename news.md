@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activités
+title: Activités ↓
 permalink: /activities/
 list_title: Dernières nouvelles
 n_posts: 500
