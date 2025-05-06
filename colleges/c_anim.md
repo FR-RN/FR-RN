@@ -17,8 +17,7 @@ Pour voir un thème particulier abordé, n'hésitez pas à nous contacter :  [re
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.webinaires limit:page.n_posts -%}
-   #### Prochains wébinaires
-    <li>
+    <li> A venir ➔
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
