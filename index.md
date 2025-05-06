@@ -10,8 +10,9 @@ n_actus: 2
 
 > Pour un chercheur, il n’y a rien de plus frustrant que l’impossibilité de reproduire des résultats majeurs obtenus quelques mois auparavant. Les causes de ce type de déconvenues sont multiples et parfois pernicieuses. Ce phénomène participe à ce que certains identifient comme une “crise de la reproductibilité de la recherche”. --- Vers une recherche reproductible, Desquilbet et al., 2019.
 
+<!--
 ![Actions reseau](../assets/images/banniere_web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
-
+-->
 Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
 [Plus d'information dans ce document !](assets/pdfs/presentation.pdf)
 
@@ -91,6 +92,9 @@ La prochaine newsletter est en préparation, n'hésitez pas à nous faire part d
 </div>
 
 
+<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
+
+
 
 
 
@@ -129,7 +133,3 @@ Le collège "Animation" organise des wébinaires réguliers sur des thèmes vari
 * Organisation de webinaires consacré aux réseaux européens
 * Implication dans le projet TRUSTparency
 * Représentation du réseau dans des événements internationaux
-
-<br />
-
-<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
