@@ -18,7 +18,7 @@ déjà postées pour copier le format (nommage du fichier et entête).
 
 ## Activités du réseau
 
-Les membres réseau organise des [wébinaires](/webinars/) via le [collège animation](/colleges/c_anim/), participent à des [formations](/training/) autour de la reproductibilité via le gt formation et recensent des [publications](/publications/) en lien avec le sujet.
+Les membres du réseau organise des [wébinaires](/webinars/) via le [collège Animation](/colleges/c_anim), participent à des [formations](/training/) autour de la reproductibilité via le groupe de travail "Formation" et recensent des [publications](/publications/) en lien avec le sujet.
 
 ## Conférences
 

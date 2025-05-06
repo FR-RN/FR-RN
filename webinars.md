@@ -31,7 +31,7 @@ Voici le programme des wébinaires organisés par le réseau dans le cadre des a
 
 
 #### Wébinaires passés
-Vous pourrez retrouver les vidéos des wébinaires en cliquant sur le titre.
+Vous pourrez retrouver les vidéos et les présentations associées aux wébinaires en cliquant sur le titre.
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.past-webinaires limit:page.n_posts -%}
