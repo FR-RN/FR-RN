@@ -92,10 +92,6 @@ La prochaine newsletter est en préparation, n'hésitez pas à nous faire part d
 </div>
 
 
-<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
-
-
-
 
 
 
@@ -133,3 +129,7 @@ Le collège "Animation" organise des wébinaires réguliers sur des thèmes vari
 * Organisation de webinaires consacré aux réseaux européens
 * Implication dans le projet TRUSTparency
 * Représentation du réseau dans des événements internationaux
+
+
+<br/>
+<a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
