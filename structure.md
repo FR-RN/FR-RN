@@ -6,8 +6,16 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 ---
 
 # Organisation actuelle
-
+<!--
 ![Structure réseau](../assets/images/Structure_fr_nologo_links.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+-->
+ <img src="../assets/images/Structure_fr_nologo_links.png" alt="Structure" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
 
 
 # Comité de pilotage {#steering}
