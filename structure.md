@@ -13,8 +13,9 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 
 <map name="workmap">
   <area shape="rect" coords="50,50,120,120" alt="animation" href="/colleges/c_anim">
-  <area shape="rect" coords="50,290,200,390" alt="animation" href="/publications/">
-  <area shape="rect" coords="350,210,400,350" alt="animation" href="/gtravail/gt_logiciel">
+  <area shape="rect" coords="50,290,200,390" alt="publications" href="/publications/">
+  <area shape="rect" coords="350,210,400,350" alt="logiciel" href="/gtravail/gt_logiciel">
+  <area shape="rect" coords="10,50,30,250" alt="formation" href="/gtravail/gt_formation">
   <area shape="rect" coords="10,250,30,350" alt="animation" href="https://gt-notebook.gitpages.huma-num.fr/site_quarto/">
   <area shape="rect" coords="150,150,250,250" alt="Steering" href="#steering">
 </map>
