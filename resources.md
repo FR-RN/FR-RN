@@ -24,10 +24,6 @@ peuvent émerger autour notamment du concept de publication exécutable.
 
 Le **[forum](https://forum.recherche-reproductible.fr/)** de la recherche reproductible est le lieu pour discuter librement de la reproductibilité afin d'améliorer notre méthodologie de recherche en échangeant des expériences, des informations et des conseils. Aidez-nous à faire de ce site un lieu de discussion privilégié en essayant toujours d'améliorer la discussion d'une manière ou d'une autre, aussi minime soit-elle.
 
-## Syndication
-
-Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières nouvelles du réseau ainsi que des événements à venir en relation avec la rechercher reproductible en France et dans le monde.
-
 ## Newsletters
 
 Le réseau publie une newsletter tous les deux mois environ afin de partager les dernières actualités avec les membres du réseau.
@@ -46,6 +42,17 @@ Le réseau publie une newsletter tous les deux mois environ afin de partager les
  {%- endfor -%}
 </ul>
 
+## Syndication
+
+Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières nouvelles du réseau ainsi que des événements à venir en relation avec la rechercher reproductible en France et dans le monde.
+
+# Documents de présentation
+
+Afin de communiquer sur les objectifs et la actions du réseaux, nous avons rédigés plusieurs documents :
+
+* un document de présentation générale : [quelques pages !](assets/pdfs/presentation.pdf)  qui donnent des informations essentielles sur le réseau.
+* un [poster qui peut être librement téléchargé !](assets/pdfs/FRRN_Poster.pdf) et utilisé dans des conférences
+* un [flyer au format a4 !](assets/pdfs/FRRN_Flyer.pdf) pour être affiché dans les lieux de convivialité de votre laboratoire ou sur la porte de votre bureau. 
 # Ressources bibliographiques
 
 Les membres du réseau sont invités à ajouter à la base de données bibliographique zotero :
