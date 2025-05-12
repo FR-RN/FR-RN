@@ -19,4 +19,4 @@ Le groupe de travail Formations est également impliqué dans l'organisation des
 
 En parallèle, il est important de mentionner l’importance des MOOCS, qui constituent un mode de formation à grande échelle, complémentaire des formations en présentiel type écoles et formations doctorales. Dans ce contexte, deux MOOCS RR ont été conçus par des membres du réseau, avec le support du COSO/Ministère de l’Enseignement Supérieur et de la Recherche et de l'Innovation: Le premier (Recherche reproductible: principes méthodologiques pour une science transparente) est ouvert en continu depuis mars 2020 et a attiré plus de 23 000 participant·es à ce jour. Le second (Reproducible Research II: Practices and tools for managing computations and data) s’est joué en deux sessions, la première en septembre 2024 (environ 2 000 participant·es) et la suivante début mai 2025.
 
-Si vous souhaitez participer à ces activités, n'hésitez pas à nous contacter à cette [adresse](mailto:) !
+Si vous souhaitez participer à ces activités, n'hésitez pas à nous contacter à cette [adresse](mailto:recherche-reproductible-formation@groupes.renater.fr) !

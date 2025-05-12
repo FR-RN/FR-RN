@@ -24,7 +24,7 @@ peuvent émerger autour notamment du concept de publication exécutable.
 
 Le **[forum](https://forum.recherche-reproductible.fr/)** de la recherche reproductible est le lieu pour discuter librement de la reproductibilité afin d'améliorer notre méthodologie de recherche en échangeant des expériences, des informations et des conseils. Aidez-nous à faire de ce site un lieu de discussion privilégié en essayant toujours d'améliorer la discussion d'une manière ou d'une autre, aussi minime soit-elle.
 
-## Newsletters
+## Newsletters {#newsletters}
 
 Le réseau publie une newsletter tous les deux mois environ afin de partager les dernières actualités avec les membres du réseau.
 
