@@ -46,13 +46,13 @@ Le réseau publie une newsletter tous les deux mois environ afin de partager les
 
 Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières nouvelles du réseau ainsi que des événements à venir en relation avec la rechercher reproductible en France et dans le monde.
 
-# Documents de présentation
+# Documents de présentation {#documents}
 
 Afin de communiquer sur les objectifs et la actions du réseaux, nous avons rédigés plusieurs documents :
 
 * un document de présentation générale : [quelques pages !](assets/pdfs/presentation.pdf)  qui donnent des informations essentielles sur le réseau.
 * un [poster qui peut être librement téléchargé !](assets/pdfs/FRRN_Poster.pdf) et utilisé dans des conférences
-* un [flyer au format a4 !](assets/pdfs/FRRN_Flyer.pdf) pour être affiché dans les lieux de convivialité de votre laboratoire ou sur la porte de votre bureau. 
+* un [flyer au format a4 !](assets/pdfs/FRRN_Flyer.pdf) pour être affiché dans les lieux de convivialité de votre laboratoire ou sur la porte de votre bureau.
 # Ressources bibliographiques
 
 Les membres du réseau sont invités à ajouter à la base de données bibliographique zotero :
