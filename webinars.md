@@ -24,9 +24,6 @@ Voici le programme des wébinaires organisés par le réseau dans le cadre des a
  {%- endfor -%}
 </ul>
 
-#### Programme des séminaires à venir pour l'année 2024 - 2025
-* **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix, *Bruno Rodriguez*.
-
 
 #### Wébinaires passés
 Vous pourrez retrouver les vidéos et les présentations associées aux wébinaires en cliquant sur le titre.
