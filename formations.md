@@ -38,11 +38,3 @@ Plus d'informations et inscriptions sur le [site de la conférence](https://repl
 (Une priorité sera donnée aux membres des laboratoires de mathématiques.)
 
 ### ANF "Workflows et reproductibilité en bioinformatique", Paris, 25 au 27 novembre 2025.
-
-
-### MOOCS
-Deux MOOCS sur la recherche reproductible ont été conçus par des membres du réseau, avec le support du COSO/Ministère de l’Enseignement Supérieur et de la Recherche et de l'Innovation:
-* [Recherche reproductible: principes méthodologiques pour une science transparente](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) est ouvert en continu depuis mars 2020 et a attiré plus de 23 000 participant·es à ce jour.
-* [Reproducible Research II: Practices and tools for managing computations and data](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/) s’est joué en deux sessions, la première en septembre 2024 (environ 2 000 participant·es) et la suivante début mai 2025.
-
-Ces MOOCS constituent un mode de formation à grande échelle, complémentaire des formations en présentiel type écoles et formations doctorales.
