@@ -7,8 +7,19 @@ n_posts: 500
 siteNav: false
 
 ---
+Le [groupe de travail "Formations"](/gtravail/gt_formation) du réseau a pour mission principale de recenser et d'organiser des formations autour de la reproductibilité.
+En parallèle, des membres du réseau sont également impliqués dans plusieurs formations et ateliers autour de la reproductibilité :
 
-Les membres du réseau sont impliqués dans plusieurs formations et ateliers autour de la reproductibilité :
+## MOOCS
+
+Deux MOOCS sur la recherche reproductible ont été conçus par des membres du réseau, avec le support du COSO/Ministère de l’Enseignement Supérieur et de la Recherche et de l'Innovation:
+* [Recherche reproductible: principes méthodologiques pour une science transparente](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) est ouvert en continu depuis mars 2020 et a attiré plus de 23 000 participant·es à ce jour.
+* [Reproducible Research II: Practices and tools for managing computations and data](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/) s’est joué en deux sessions, la première en septembre 2024 (environ 2 000 participant·es) et la suivante début mai 2025.
+
+Ces MOOCS constituent un mode de formation à grande échelle, complémentaire des formations en présentiel type écoles et formations doctorales.
+
+
+
 
 ## Ateliers
 ### Atelier "Science ouverte et reproductibilité", 13 Février 2025.
