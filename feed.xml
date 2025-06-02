@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-06-02T06:53:33+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="english"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//event/2025/10/03/replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event/2025/10/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event/2025/10/03/replication-games.html"><![CDATA[<p>The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the <a href="https://i4replication.org/blog%20Games.html">dedicated page</a>). Each year, numerous Replication Games take place worldwide.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-06-02T07:13:07+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="english"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//event/2025/10/03/replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event/2025/10/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event/2025/10/03/replication-games.html"><![CDATA[<p>The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the <a href="https://i4replication.org/blog%20Games.html">dedicated page</a>). Each year, numerous Replication Games take place worldwide.</p>
 
 <p>In fall 2025, the French Reproducibility Network will co-organize a replication game in Paris on October 3rd.</p>
 
-<p>While registration is not yet open, further details are available on the dedicated <a href="https://i4replication.org/games.html">Institute for Replication page</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event" /><summary type="html"><![CDATA[The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the dedicated page). Each year, numerous Replication Games take place worldwide.]]></summary></entry><entry><title type="html">Reproductibilité et environnements de développement</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2025/05/23/Env_Logiciels.html" rel="alternate" type="text/html" title="Reproductibilité et environnements de développement" /><published>2025-05-23T13:00:00+00:00</published><updated>2025-05-23T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2025/05/23/Env_Logiciels</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2025/05/23/Env_Logiciels.html"><![CDATA[<p>Dans cette présentation, nous discuterons de reproductibilité dans le contexte d’environnements de développement modernes, en nous appuyant sur une expérience concrète au sein de la Commission Européenne. Pol partagera son parcours, les leçons tirées de son mémoire de master, et comment des outils comme Nix peuvent radicalement transformer les pratiques de développement, en rendant les environnements plus fiables, plus transparents et plus collaboratifs. Une présentation à la croisée de l’open source et de l’ingénierie logicielle.</p>
+<p>While registration is not yet open, further details are available on the dedicated <a href="https://i4replication.org/games.html">Institute for Replication page</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event" /><summary type="html"><![CDATA[The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the dedicated page). Each year, numerous Replication Games take place worldwide.]]></summary></entry><entry xml:lang="francais"><title type="html">Rapport d’activités 2024</title><link href="https://www.recherche-reproductible.fr//news/2025/06/02/rapport-2024.html" rel="alternate" type="text/html" title="Rapport d’activités 2024" /><published>2025-06-02T07:00:00+00:00</published><updated>2025-06-02T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2025/06/02/rapport-2024</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2025/06/02/rapport-2024.html"><![CDATA[<p>Des membres du réseau ont rédigé un rapport d’activité pour l’année 2024. Cela a tout d’abord permis de faire un bilan des activités menées tout au long de l’année et mettre en avant les évènements marquants : structuration interne et recrutement de notre chargée de projet d’une part et d’autre part les évènements et formation organisées par des membres du réseau, les collaborations internationales, etc …<br />
+Cela nous a également permis de réfléchir aux objectifs pour l’année à venir même si ceux-ci vont continuer à évoluer.</p>
+
+<p>Vous pouvez retrouver l’intégralité du document en <a href="/assets/pdfs/Rapport_RNRR_2024.pdf">téléchargement ici</a></p>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="rapport" /><summary type="html"><![CDATA[Des membres du réseau ont rédigé un rapport d’activité pour l’année 2024. Cela a tout d’abord permis de faire un bilan des activités menées tout au long de l’année et mettre en avant les évènements marquants : structuration interne et recrutement de notre chargée de projet d’une part et d’autre part les évènements et formation organisées par des membres du réseau, les collaborations internationales, etc … Cela nous a également permis de réfléchir aux objectifs pour l’année à venir même si ceux-ci vont continuer à évoluer.]]></summary></entry><entry><title type="html">Reproductibilité et environnements de développement</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2025/05/23/Env_Logiciels.html" rel="alternate" type="text/html" title="Reproductibilité et environnements de développement" /><published>2025-05-23T13:00:00+00:00</published><updated>2025-05-23T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2025/05/23/Env_Logiciels</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2025/05/23/Env_Logiciels.html"><![CDATA[<p>Dans cette présentation, nous discuterons de reproductibilité dans le contexte d’environnements de développement modernes, en nous appuyant sur une expérience concrète au sein de la Commission Européenne. Pol partagera son parcours, les leçons tirées de son mémoire de master, et comment des outils comme Nix peuvent radicalement transformer les pratiques de développement, en rendant les environnements plus fiables, plus transparents et plus collaboratifs. Une présentation à la croisée de l’open source et de l’ingénierie logicielle.</p>
 
 <p>Ce webinaire a été animé le 23 Mai 2025 par <a href="https://not-a-number.io">Pol Dellaiera</a>. La présentation est disponible <a href="/assets/pdfs/2025-05-23-wrr_Pol_Dellaiera.pdf">présentation</a>. Cette présentation a été générée avec <code class="language-plaintext highlighter-rouge">Presenterm</code> : vous pouvez télécharger les sources <a href="/assets/pdfs/Pol_Dellaiera.zip">ici</a>.</p>
 
@@ -55,58 +58,7 @@ Costa, L., Barbosa, S., &amp; Cunha, J., <i>arXiv</i>, https://arxiv.org/abs/250
 
 <p>Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, <a href="mailto:contact@recherche-reproductible.fr">envoyez-nous un courriel</a> !</p>
 
-<p>Vous trouverez plus d’information sur le site du réseau (Recherche Reproductible)[https://recherche-reproductible.fr/] et vous pouvez vous abonner à la liste de diffusion : (recherche-reproductible)[https://groupes.renater.fr/sympa/info/recherche-reproductible].</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°6]]></summary></entry><entry xml:lang="francais"><title type="html">Journées du Réseau Français de Recherche Reproductible</title><link href="https://www.recherche-reproductible.fr//news/2025/04/03/jrfrr-2025-2.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible" /><published>2025-04-03T07:00:00+00:00</published><updated>2025-04-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2025/04/03/jrfrr-2025-2</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2025/04/03/jrfrr-2025-2.html"><![CDATA[<p>Les journées ont eu lieu au <strong>Centre de Recherche en Neurosciences de Lyon</strong> (CRNL), au sein du <a href="https://www.google.com/maps/place/CRNL+-+Center+for+Research+in+Neuroscience+in+Lyon/@45.7437709,4.8998373,17z/data=!3m2!4b1!5s0x47f4c1a2dd286e19:0xe1cd16741c9e917e!4m6!3m5!1s0x47f4c1a2d1b67a6b:0x1f9ef926821090f9!8m2!3d45.7437672!4d4.9024122!16s%2Fg%2F12331xnmm?entry=tts&amp;g_ep=EgoyMDI0MTAwNS4wIPu8ASoASAFQAw%3D%3D">Centre Hospitalier Le Vinatier</a> du <strong>jeudi 3 avril à 10h au vendredi 4 avril 16h</strong>.</p>
-
-<p>Vous retrouverez le <strong>programme détaillé</strong>, le <strong>formulaire d’inscription</strong> ainsi que toutes les <strong>informations pratiques</strong> sur le site de l’événement : <a href="https://jrfrr-2025.sciencesconf.org/">https://jrfrr-2025.sciencesconf.org/</a></p>
-
-<p>Le programme riche et varié a permis d’aborder la thématique de la reproductibilité à travers une grande diversité de thématique. Les vidéos ainsi que les présentations sont toutes disponibles sur le <a href="https://www.canal-u.tv/chaines/rfrr/journees-de-la-recherche-reproductible">canal U du réseau</a>.</p>
-
-<h2 id="session-1--reproductibilité-et-pratiques-éditoriales">Session 1 : Reproductibilité et pratiques éditoriales</h2>
-
-<ul>
-  <li>Quentin Petitjean (INRAE Avignon) : <em>Partager les données et le code : Pourquoi et comment répondre aux attentes des revues ?</em></li>
-  <li>Denis Bourguet (INRAE Montpellier) &amp; Thomas Guillemaud (INRAE Sophia-Antipolis) : <em>Peer Community In (PCI) et Peer Community In Registered Report (PCI RR) : deux initiatives de science ouverte au service de la reproductibilité scientifique</em></li>
-  <li>Sandra Guigonis (Marseille) : <em>Science ouverte et reproductibilité. Enjeux, pratiques et usages en sciences humaines et sociales</em></li>
-</ul>
-
-<h2 id="session-2--reproductibilité-et-santé-humaine">Session 2 : Reproductibilité et santé humaine</h2>
-
-<ul>
-  <li>Camille Maumet (INRIA Rennes) : <em>Variabilité des résultats en imagerie cérébrale au travers de différentes analyses</em></li>
-  <li>Tristan Glatard (Centre for Addiction and Mental Health, Toronto) :* Reproductibilité des analyses IRM pour la maladie de Parkinson*</li>
-  <li>Florian Naudet (CHU Rennes) : <em>Intégrité et reproductibilité en recherche thérapeutique</em></li>
-</ul>
-
-<h2 id="session-3--reproductibilité-et-recherche-préclinique">Session 3 : Reproductibilité et recherche préclinique</h2>
-
-<ul>
-  <li>Christophe Soulage (Université Lyon 1) : <em>La recherche préclinique en crise de reproductibilité : état des lieux, causes… et solutions ?</em></li>
-  <li>Marlène Wiart (CNRS Lyon) : <em>Comment la communauté de l’AVC a façonné la méthodologie de recherche préclinique : une perspective historique</em></li>
-  <li>Laura Barrot (INSERM Lyon) : <em>Aide au design des projets précliniques pour une bonne science et une bonne conscience</em></li>
-</ul>
-
-<h2 id="session-4--reproductibilité-sur-les-temps-et-les-espaces-lointains">Session 4 : Reproductibilité sur les temps et les espaces lointains</h2>
-
-<ul>
-  <li>Aurore Val (CNRS Aix Marseille Université) : <em>Un long chemin vers l’Open Science en archéologie préhistorique</em></li>
-  <li>Françoise Genova (CNRS Strasbourg) : <em>Étude de cas : Comment la reproductibilité est assurée dans le domaine de l’astronomie</em></li>
-</ul>
-
-<h2 id="session-5--reproductibilité-sur-le-monde-qui-nous-entoure">Session 5 : Reproductibilité sur le monde qui nous entoure</h2>
-
-<ul>
-  <li>Raphaël Royauté (INRAE Versailles) SORTEE : <em>Une société pour la science ouverte en écologie et biologie évolutive</em></li>
-  <li>Sylvie Joussaume (CNRS, Laboratoire des Sciences du Climat et de l’Environnement) : <em>Reproductibilité dans les sciences du climat : le cas de la modélisation du climat</em></li>
-  <li>Raphaël Lévy (Université Sorbonne Paris Nord):  <em>Répliquer pour éclaircir une controverse scientifique : quelques enseignements d’une expérience en cours…</em></li>
-</ul>
-
-<h2 id="session-6--bilan-et-perspectives-du-réseau">Session 6 : Bilan et perspectives du réseau</h2>
-
-<ul>
-  <li>Céline Acary-Robert, Gloria Gonzalez Curto, Frédéric Lemoine : <em>Organisation et évolution du réseau</em></li>
-  <li>Abel Brodeur (Université d’Ottawa, Institute for Replication, Canada) : <em>Reproducibility, Replication Games, and the Institute for Replication</em></li>
-  <li>Gilles Mathieu (MESR Paris) : <em>Bilan et clôture des journées : Science ouverte : de la transparence à la reproductibilité</em></li>
-</ul>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="journées" /><summary type="html"><![CDATA[Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.]]></summary></entry><entry xml:lang="francais"><title type="html">Journées du Réseau Français de Recherche Reproductible</title><link href="https://www.recherche-reproductible.fr//event/2025/04/03/jrfrr-2025.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible" /><published>2025-04-03T07:00:00+00:00</published><updated>2025-04-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event/2025/04/03/jrfrr-2025</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event/2025/04/03/jrfrr-2025.html"><![CDATA[<p>Les journées du Réseau Français de la Recherche Reproductible auront lieu du 3 au 4 avril 2025 à Lyon. Il s’agit d’un moment important pour la consolidation du réseau et le dynamisme des collaborations émergentes. Ce colloque fait suite aux journées organisées à Paris en 2023 et à Grenoble en 2024.</p>
+<p>Vous trouverez plus d’information sur le site du réseau (Recherche Reproductible)[https://recherche-reproductible.fr/] et vous pouvez vous abonner à la liste de diffusion : (recherche-reproductible)[https://groupes.renater.fr/sympa/info/recherche-reproductible].</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°6]]></summary></entry><entry xml:lang="francais"><title type="html">Journées du Réseau Français de Recherche Reproductible</title><link href="https://www.recherche-reproductible.fr//event/2025/04/03/jrfrr-2025.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible" /><published>2025-04-03T07:00:00+00:00</published><updated>2025-04-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event/2025/04/03/jrfrr-2025</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event/2025/04/03/jrfrr-2025.html"><![CDATA[<p>Les journées du Réseau Français de la Recherche Reproductible auront lieu du 3 au 4 avril 2025 à Lyon. Il s’agit d’un moment important pour la consolidation du réseau et le dynamisme des collaborations émergentes. Ce colloque fait suite aux journées organisées à Paris en 2023 et à Grenoble en 2024.</p>
 
 <p>Les journées auront lieu au <strong>Centre de Recherche en Neurosciences de Lyon</strong> (CRNL), au sein du <a href="https://www.google.com/maps/place/CRNL+-+Center+for+Research+in+Neuroscience+in+Lyon/@45.7437709,4.8998373,17z/data=!3m2!4b1!5s0x47f4c1a2dd286e19:0xe1cd16741c9e917e!4m6!3m5!1s0x47f4c1a2d1b67a6b:0x1f9ef926821090f9!8m2!3d45.7437672!4d4.9024122!16s%2Fg%2F12331xnmm?entry=tts&amp;g_ep=EgoyMDI0MTAwNS4wIPu8ASoASAFQAw%3D%3D">Centre Hospitalier Le Vinatier</a> du <strong>jeudi 3 avril à 10h au vendredi 4 avril 16h</strong>.</p>
 
@@ -119,7 +71,58 @@ Vous retrouverez le <strong>programme détaillé</strong>, le <strong>formulaire
 
 <p>Ce webinaire a été animé le 28 Mars 2025 par <a href="https://pagespro.univ-gustave-eiffel.fr/nicolas-roelandt">Nicolas Roelandt</a> (Université Gustave Eiffel) et <a href="https://cv.hal.science/timothee-giraud">Timothée Giraud</a> (UMS RIATE).</p>
 
-<p>Vous pouvez retrouver la vidéo sur le <a href="http://videos.univ-grenoble-alpes.fr/video/32647-webinaire_rr_28_03_2025_geomatiquemp4/">lien suivant</a>  et la présentation sur <a href="https://nicolas-roelandt.github.io/2024-reproductibilite-et-geomatique">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><summary type="html"><![CDATA[Cette présentation s’attache à présenter le domaine de la géomatique, discipline entre géographie et informatique Elle présentera les spécificités de la discipline qui peuvent être un frein au développement de la culture de la reproductibilité et les outils qui existent pour celles et ceux qui voudraient passer le pas. Pour faire court, pourquoi Spatial is special et finalement peut-être pas tellement au regard de la reproductibilité.]]></summary></entry><entry><title type="html">Newsletter de Février 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters.html" rel="alternate" type="text/html" title="Newsletter de Février 2025" /><published>2025-03-01T12:00:00+00:00</published><updated>2025-03-01T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n5">Newsletter du réseau Recherche Reproductible N°5</h1>
+<p>Vous pouvez retrouver la vidéo sur le <a href="http://videos.univ-grenoble-alpes.fr/video/32647-webinaire_rr_28_03_2025_geomatiquemp4/">lien suivant</a>  et la présentation sur <a href="https://nicolas-roelandt.github.io/2024-reproductibilite-et-geomatique">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><summary type="html"><![CDATA[Cette présentation s’attache à présenter le domaine de la géomatique, discipline entre géographie et informatique Elle présentera les spécificités de la discipline qui peuvent être un frein au développement de la culture de la reproductibilité et les outils qui existent pour celles et ceux qui voudraient passer le pas. Pour faire court, pourquoi Spatial is special et finalement peut-être pas tellement au regard de la reproductibilité.]]></summary></entry><entry xml:lang="francais"><title type="html">Journées du Réseau Français de Recherche Reproductible</title><link href="https://www.recherche-reproductible.fr//news/2025/03/04/jrfrr-2025-2.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible" /><published>2025-03-04T07:00:00+00:00</published><updated>2025-03-04T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2025/03/04/jrfrr-2025-2</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2025/03/04/jrfrr-2025-2.html"><![CDATA[<p>Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.</p>
+
+<p>Vous retrouverez le programme détaillé, le formulaire d’inscription ainsi que toutes les informations pratiques sur le site de l’événement : <a href="https://jrfrr-2025.sciencesconf.org/">https://jrfrr-2025.sciencesconf.org/</a></p>
+
+<p>Le programme riche et varié a permis d’aborder la thématique de la reproductibilité à travers une grande diversité de thématique. Les vidéos ainsi que les présentations sont toutes disponibles sur le <a href="https://www.canal-u.tv/chaines/rfrr/journees-de-la-recherche-reproductible">canal U du réseau</a>.</p>
+
+<h3 id="session-1--reproductibilité-et-pratiques-éditoriales">Session 1 : Reproductibilité et pratiques éditoriales</h3>
+
+<ul>
+  <li>Quentin Petitjean (INRAE Avignon) : Partager les données et le code : Pourquoi et comment répondre aux attentes des revues ?</li>
+  <li>Denis Bourguet (INRAE Montpellier) &amp; Thomas Guillemaud (INRAE Sophia-Antipolis) : Peer Community In (PCI) et Peer Community In Registered Report (PCI RR) : deux initiatives de science ouverte au service de la reproductibilité scientifique</li>
+  <li>Sandra Guigonis (Marseille) : Science ouverte et reproductibilité. Enjeux, pratiques et usages en sciences humaines et sociales</li>
+</ul>
+
+<h3 id="session-2--reproductibilité-et-santé-humaine">Session 2 : Reproductibilité et santé humaine</h3>
+
+<ul>
+  <li>Camille Maumet (INRIA Rennes) : Variabilité des résultats en imagerie cérébrale au travers de différentes analyses</li>
+  <li>Tristan Glatard (Centre for Addiction and Mental Health, Toronto) :* Reproductibilité des analyses IRM pour la maladie de Parkinson*</li>
+  <li>Florian Naudet (CHU Rennes) : Intégrité et reproductibilité en recherche thérapeutique</li>
+</ul>
+
+<h3 id="session-3--reproductibilité-et-recherche-préclinique">Session 3 : Reproductibilité et recherche préclinique</h3>
+
+<ul>
+  <li>Christophe Soulage (Université Lyon 1) : La recherche préclinique en crise de reproductibilité : état des lieux, causes… et solutions ?</li>
+  <li>Marlène Wiart (CNRS Lyon) : Comment la communauté de l’AVC a façonné la méthodologie de recherche préclinique : une perspective historique</li>
+  <li>Laura Barrot (INSERM Lyon) : Aide au design des projets précliniques pour une bonne science et une bonne conscience</li>
+</ul>
+
+<h3 id="session-4--reproductibilité-sur-les-temps-et-les-espaces-lointains">Session 4 : Reproductibilité sur les temps et les espaces lointains</h3>
+
+<ul>
+  <li>Aurore Val (CNRS Aix Marseille Université) : Un long chemin vers l’Open Science en archéologie préhistorique</li>
+  <li>Françoise Genova (CNRS Strasbourg) : Étude de cas : Comment la reproductibilité est assurée dans le domaine de l’astronomie</li>
+</ul>
+
+<h3 id="session-5--reproductibilité-sur-le-monde-qui-nous-entoure">Session 5 : Reproductibilité sur le monde qui nous entoure</h3>
+
+<ul>
+  <li>Raphaël Royauté (INRAE Versailles) SORTEE : Une société pour la science ouverte en écologie et biologie évolutive</li>
+  <li>Sylvie Joussaume (CNRS, Laboratoire des Sciences du Climat et de l’Environnement) : Reproductibilité dans les sciences du climat : le cas de la modélisation du climat</li>
+  <li>Raphaël Lévy (Université Sorbonne Paris Nord): Répliquer pour éclaircir une controverse scientifique : quelques enseignements d’une expérience en cours…</li>
+</ul>
+
+<h3 id="session-6--bilan-et-perspectives-du-réseau">Session 6 : Bilan et perspectives du réseau</h3>
+
+<ul>
+  <li>Céline Acary-Robert, Gloria Gonzalez Curto, Frédéric Lemoine : Organisation et évolution du réseau</li>
+  <li>Abel Brodeur (Université d’Ottawa, Institute for Replication, Canada) : Reproducibility, Replication Games, and the Institute for Replication</li>
+  <li>Gilles Mathieu (MESR Paris) : Bilan et clôture des journées : Science ouverte : de la transparence à la reproductibilité</li>
+</ul>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="journées" /><summary type="html"><![CDATA[Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.]]></summary></entry><entry><title type="html">Newsletter de Février 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters.html" rel="alternate" type="text/html" title="Newsletter de Février 2025" /><published>2025-03-01T12:00:00+00:00</published><updated>2025-03-01T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n5">Newsletter du réseau Recherche Reproductible N°5</h1>
 
 <h2 id="manifestations">Manifestations</h2>
 
@@ -213,13 +216,4 @@ A paper by some of the biggest names in scientific integrity is retracted for is
   </li>
 </ul>
 
-<p>Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre ! Envoyez-nous un courriel et contribuez au réseau : contact[@]recherche-reproductible.fr.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°4]]></summary></entry><entry xml:lang="francais"><title type="html">Présentation de la réunion des membres du réseau</title><link href="https://www.recherche-reproductible.fr//news/2024/12/17/Visio-membres-r%C3%A9seau.html" rel="alternate" type="text/html" title="Présentation de la réunion des membres du réseau" /><published>2024-12-17T07:00:00+00:00</published><updated>2024-12-17T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2024/12/17/Visio-membres-r%C3%A9seau</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2024/12/17/Visio-membres-r%C3%A9seau.html"><![CDATA[<p>La réunion des membres du réseau a eu lieu le 01/10/2024 à 14h. Elle a permis de faire le point sur</p>
-<ul>
-  <li>les évolutions du réseau</li>
-  <li>les différentes actions qui ont été initiées</li>
-  <li>les projets à venir</li>
-</ul>
-
-<p>Merci à tous les participants !</p>
-
-<p>Vous pouvez télécharger la présentation <a href="/assets/pdfs/Visio_01_10_2024.pdf">sur ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="slides" /><summary type="html"><![CDATA[La réunion des membres du réseau a eu lieu le 01/10/2024 à 14h. Elle a permis de faire le point sur les évolutions du réseau les différentes actions qui ont été initiées les projets à venir]]></summary></entry></feed>
+<p>Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre ! Envoyez-nous un courriel et contribuez au réseau : contact[@]recherche-reproductible.fr.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°4]]></summary></entry></feed>

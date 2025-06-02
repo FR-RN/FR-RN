@@ -986,12 +986,13 @@ p.feed-subscribe {
 
 .news {
   font-family: Roboto;
-  border: 5px solid #673794;
+  border: 4px solid #673794;
   background-color: #ff;
   padding: 0.2rem;
-  width: 80%;
+  width: 90%;
   align: center;
-  margin-left: 80px;
+  margin-left: 70px;
+  padding-left: 10px;
 }
 
 h6.news {
