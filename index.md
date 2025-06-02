@@ -63,7 +63,7 @@ Le Réseau Français de la Recherche Reproductible est une initiative nationale 
  {%- endfor -%}
 </ul>
 
-<h6>Actualités</h6>
+<h6>Actualités du réseau</h6>
 
 {% if site.paginate %}
   {% assign posts = paginator.posts %}
