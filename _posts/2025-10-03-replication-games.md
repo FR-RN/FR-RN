@@ -10,4 +10,8 @@ The Institute for Replication has conceived the Replication Games as one-day eve
 
 In fall 2025, the French Reproducibility Network will co-organize a replication game in Paris on October 3rd.
 
-While registration is not yet open, further details are available on the dedicated [Institute for Replication page](https://i4replication.org/games.html).
+Further details are available on the dedicated [Institute for Replication page](https://i4replication.org/games.html).
+
+* **News** : registration are opened !
+
+Please follow [this link](https://www.surveymonkey.ca/r/Replication_Games_Paris_2025)  !
