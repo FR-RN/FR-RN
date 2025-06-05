@@ -12,6 +12,6 @@ In fall 2025, the French Reproducibility Network will co-organize a replication 
 
 Further details are available on the dedicated [Institute for Replication page](https://i4replication.org/games.html).
 
-* **News** : registration is now opened !
+* **News** : registration is now open !
 
 Please follow [this link](https://www.surveymonkey.ca/r/Replication_Games_Paris_2025)  !
