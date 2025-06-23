@@ -11,15 +11,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Résumé: La reproductibilité est un élément clé de la recherche, car elle garantit que les résultats peuvent être vérifiés et reproduits. Dans cette présentation, Bruno Rodrigues présentera Nix, un gestionnaire de paquets conçu pour créer des environnements entièrement reproductibles. Contrairement à d’autres outils, Nix gère non seulement les versions des paquets R, mais aussi celles de R lui-même ainsi que toutes les dépendances système. Nix peut remplacer des solutions comme Docker et {renv} et fonctionne sur tous les systèmes d’exploitation, y compris en CI/CD. Pour faciliter sa prise en main, Bruno a créé le package R {rix}, qu’il fera découvrir à travers des exercices pratiques." />
 <meta property="og:description" content="Résumé: La reproductibilité est un élément clé de la recherche, car elle garantit que les résultats peuvent être vérifiés et reproduits. Dans cette présentation, Bruno Rodrigues présentera Nix, un gestionnaire de paquets conçu pour créer des environnements entièrement reproductibles. Contrairement à d’autres outils, Nix gère non seulement les versions des paquets R, mais aussi celles de R lui-même ainsi que toutes les dépendances système. Nix peut remplacer des solutions comme Docker et {renv} et fonctionne sur tous les systèmes d’exploitation, y compris en CI/CD. Pour faciliter sa prise en main, Bruno a créé le package R {rix}, qu’il fera découvrir à travers des exercices pratiques." />
-<link rel="canonical" href="https://www.recherche-reproductible.fr//webinaires/2025/06/13/Nix-Rix.html" />
-<meta property="og:url" content="https://www.recherche-reproductible.fr//webinaires/2025/06/13/Nix-Rix.html" />
+<link rel="canonical" href="https://www.recherche-reproductible.fr//past-webinaires/2025/06/13/Nix-Rix.html" />
+<meta property="og:url" content="https://www.recherche-reproductible.fr//past-webinaires/2025/06/13/Nix-Rix.html" />
 <meta property="og:site_name" content="French Reproducible Research Network" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-06-13T15:00:00+00:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Environnements reproductibles avec Nix et {rix}" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Recherche Reproductible"},"dateModified":"2025-06-13T15:00:00+00:00","datePublished":"2025-06-13T15:00:00+00:00","description":"Résumé: La reproductibilité est un élément clé de la recherche, car elle garantit que les résultats peuvent être vérifiés et reproduits. Dans cette présentation, Bruno Rodrigues présentera Nix, un gestionnaire de paquets conçu pour créer des environnements entièrement reproductibles. Contrairement à d’autres outils, Nix gère non seulement les versions des paquets R, mais aussi celles de R lui-même ainsi que toutes les dépendances système. Nix peut remplacer des solutions comme Docker et {renv} et fonctionne sur tous les systèmes d’exploitation, y compris en CI/CD. Pour faciliter sa prise en main, Bruno a créé le package R {rix}, qu’il fera découvrir à travers des exercices pratiques.","headline":"Environnements reproductibles avec Nix et {rix}","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.recherche-reproductible.fr//webinaires/2025/06/13/Nix-Rix.html"},"url":"https://www.recherche-reproductible.fr//webinaires/2025/06/13/Nix-Rix.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Recherche Reproductible"},"dateModified":"2025-06-13T15:00:00+00:00","datePublished":"2025-06-13T15:00:00+00:00","description":"Résumé: La reproductibilité est un élément clé de la recherche, car elle garantit que les résultats peuvent être vérifiés et reproduits. Dans cette présentation, Bruno Rodrigues présentera Nix, un gestionnaire de paquets conçu pour créer des environnements entièrement reproductibles. Contrairement à d’autres outils, Nix gère non seulement les versions des paquets R, mais aussi celles de R lui-même ainsi que toutes les dépendances système. Nix peut remplacer des solutions comme Docker et {renv} et fonctionne sur tous les systèmes d’exploitation, y compris en CI/CD. Pour faciliter sa prise en main, Bruno a créé le package R {rix}, qu’il fera découvrir à travers des exercices pratiques.","headline":"Environnements reproductibles avec Nix et {rix}","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.recherche-reproductible.fr//past-webinaires/2025/06/13/Nix-Rix.html"},"url":"https://www.recherche-reproductible.fr//past-webinaires/2025/06/13/Nix-Rix.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://www.recherche-reproductible.fr//feed.xml" title="French Reproducible Research Network" />
 </head>
@@ -66,10 +66,11 @@
   <div class="post-content e-content" itemprop="articleBody">
     <p>Résumé: La reproductibilité est un élément clé de la recherche, car elle garantit que les résultats peuvent être vérifiés et reproduits. Dans cette présentation, Bruno Rodrigues présentera Nix, un gestionnaire de paquets conçu pour créer des environnements entièrement reproductibles. Contrairement à d’autres outils, Nix gère non seulement les versions des paquets R, mais aussi celles de R lui-même ainsi que toutes les dépendances système. Nix peut remplacer des solutions comme Docker et {renv} et fonctionne sur tous les systèmes d’exploitation, y compris en CI/CD. Pour faciliter sa prise en main, Bruno a créé le package R {rix}, qu’il fera découvrir à travers des exercices pratiques.</p>
 
-<p>Ce webinaire aura lieu le 13 Juin à <strong>16h</strong> et sera animé par <a href="https://brodrigues.co/">Bruno Rodrigues</a>.
-Il aura lieu sur le <a href="https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1">canal habituel</a>.</p>
+<p>Ce webinaire a eu lieu le 13 Juin et a été animé par <a href="https://brodrigues.co/">Bruno Rodrigues</a>.</p>
 
-  </div><a class="u-url" href="/webinaires/2025/06/13/Nix-Rix.html" hidden></a>
+<p>Vous pouvez retrouver la présentation <a href="https://b-rodrigues.github.io/repro_rrr/">sur ce lien</a> et la vidéo <a href="https://www.canal-u.tv/chaines/rfrr/environnements-reproductibles-pour-la-science-des-donnees-avec-rix">sur ce lien</a> !</p>
+
+  </div><a class="u-url" href="/past-webinaires/2025/06/13/Nix-Rix.html" hidden></a>
 </article>
 
       </div>
