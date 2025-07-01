@@ -23,7 +23,7 @@ appliqués à la recherche en biodiversité. [Inscriptions sur ce lien](https://
 
 
 ## Vie du réseau
-* **Save the date** : la demi-journée sur la "reproductibilité pendant la thèse" sera organisée en distanciel le **18/09/2025 à 14h**.
+* **[Save the date]** : la demi-journée sur la "reproductibilité pendant la thèse" sera organisée en distanciel le **18/09/2025 à 14h**.
   Trois doctorant.e.s évoquerons leur façon d'aborder la reproductibilité pendant leur doctorat. Plus d'information à venir sur le site du réseau !
 
 *  Les **vidéos des deux derniers wébinaire** sont en ligne ! La vidéo du wébinaire "Reproductibilité et environnements de
