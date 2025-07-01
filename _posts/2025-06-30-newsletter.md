@@ -43,7 +43,7 @@ La vidéo du wébinaire "Environnements reproductibles avec Nix et {rix}" animé
 
 * [*eyeris*: A flexible, extensible, and reproducible pupillometry
 preprocessing framework in R](https://www.biorxiv.org/content/10.1101/2025.06.01.657312v1?rss=1), Shawn T Schwartz, Haopei Yang, Alice M Xue, Mingjian He, doi: [https://doi.org/10.1101/2025.06.01.657312](https://doi.org/10.1101/2025.06.01.657312).
-* [Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives](https://hal.science/hal-04925959v1), Jose Armando Hernandez, Miguel Colom *Frontiers in Computer Science*, 2025, 6.
+* [Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives](https://hal.science/hal-04925959v1), Jose Armando Hernandez, Miguel Colom,  *Frontiers in Computer Science*, 2025, 6.
 
 
 
