@@ -30,7 +30,9 @@ appliqués à la recherche en biodiversité. [Inscriptions sur ce lien](https://
   développement", animé par [Pol Dellaiera](https://not-a-number.io/) le 23 Mai 2025
   est disponible [sur ce lien](https://www.recherche-reproductible.fr/past-webinaires/2025/05/23/Env_Logiciels.html).
 La vidéo du wébinaire "Environnements reproductibles avec Nix et {rix}" animé par [Bruno Rodrigues](https://brodrigues.co/) est également disponible sur
- sur [ce lien](https://www.recherche-reproductible.fr/past-webinaires/2025/06/13/Nix-Rix.html). **Rendez-vous à la rentrée pour un nouveau programme !**
+ sur [ce lien](https://www.recherche-reproductible.fr/past-webinaires/2025/06/13/Nix-Rix.html).
+
+**Rendez-vous à la rentrée pour un nouveau programme !**
 
 * [Replication Games](https://i4replication.org/blog%20Games.html) :
   le réseau organise une journée de Replications Games dans les locaux d'Inria Paris  le 3 Octobre 2025.
@@ -45,15 +47,18 @@ preprocessing framework in R](https://www.biorxiv.org/content/10.1101/2025.06.01
 * [Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives](https://hal.science/hal-04925959v1), Jose Armando Hernandez, Miguel Colom *Frontiers in Computer Science*, 2025, 6.
 
 
-[Plenary Richard McElreach, Science is Licke a Chicken Coop](https://www.youtube.com/watch?v=d8LqFO1dk-w),
-      [Richard McElreath](https://www.youtube.com/@rmcelreath), 2021.
-      This video is about the links between quality and transparency of scholarship and professional incentives.
-* [Open science interventions to
-    improve reproducibility and replicability of research: a scoping review](https://royalsocietypublishing.org/doi/10.1098/rsos.242057), Dudda Leonie, Kormann Eva, Kozula Magdalena, DeVito Nicholas J., Klebel Thomas, Dewi Ayu P. M., Spijker René, Stegeman Inge,
-      Van den Eynden Veerle, Ross-Hellauer Tony and Leeflang Mariska M. G.,  *R. Soc. Open Sci.12242057*, 2025,
-http://doi.org/10.1098/rsos.242057.
-* [Let's talk about it: Making scientific computational reproducibility easy](https://arxiv.org/abs/2504.10134),
-  Costa, L., Barbosa, S., & Cunha, J., <i>arXiv</i>, https://arxiv.org/abs/2504.10134, 2025.
+<center>
+  <p style="padding-left:20px;">
+<a href="https://www.linkedin.com/company/réseau-français-de-la-recherche-reproductible/">
+  🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://piaille.fr/@reproductible_fr">
+  🐘 Mastodon/Piaille</a>&nbsp;&nbsp;&nbsp;
+  🌀 Bluesky : @reproductible-fr.bsky.social</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.canal-u.tv/chaines/rfrr">
+📺 chaîne Canal-U </a>
+</p>
+</center>
+
 
 
 Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, [envoyez-nous un courriel](mailto:contact@recherche-reproductible.fr) !
