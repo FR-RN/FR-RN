@@ -31,7 +31,6 @@ appliqués à la recherche en biodiversité. [Inscriptions sur ce lien](https://
   est disponible [sur ce lien](https://www.recherche-reproductible.fr/past-webinaires/2025/05/23/Env_Logiciels.html).
 La vidéo du wébinaire "Environnements reproductibles avec Nix et {rix}" animé par [Bruno Rodrigues](https://brodrigues.co/) est également disponible sur
  sur [ce lien](https://www.recherche-reproductible.fr/past-webinaires/2025/06/13/Nix-Rix.html).
-
 **Rendez-vous à la rentrée pour un nouveau programme !**
 
 * [Replication Games](https://i4replication.org/blog%20Games.html) :
@@ -45,6 +44,10 @@ La vidéo du wébinaire "Environnements reproductibles avec Nix et {rix}" animé
 * [*eyeris*: A flexible, extensible, and reproducible pupillometry
 preprocessing framework in R](https://www.biorxiv.org/content/10.1101/2025.06.01.657312v1?rss=1), Shawn T Schwartz, Haopei Yang, Alice M Xue, Mingjian He, doi: [https://doi.org/10.1101/2025.06.01.657312](https://doi.org/10.1101/2025.06.01.657312).
 * [Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives](https://hal.science/hal-04925959v1), Jose Armando Hernandez, Miguel Colom *Frontiers in Computer Science*, 2025, 6.
+
+
+
+
 
 
 <center>
@@ -63,4 +66,4 @@ preprocessing framework in R](https://www.biorxiv.org/content/10.1101/2025.06.01
 
 Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, [envoyez-nous un courriel](mailto:contact@recherche-reproductible.fr) !
 
-Vous trouverez plus d'information sur le site du réseau (Recherche Reproductible)[https://recherche-reproductible.fr/] et vous pouvez vous abonner à la liste de diffusion : (recherche-reproductible)[https://groupes.renater.fr/sympa/info/recherche-reproductible].
+Vous trouverez plus d'information sur le site du réseau [Recherche Reproductible](https://recherche-reproductible.fr/) et vous pouvez vous abonner à la liste de diffusion : [recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible).
