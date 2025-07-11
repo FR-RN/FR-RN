@@ -123,7 +123,7 @@ Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abo
 
 ## Structure
 
-Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), [relations européennes](/colleges/c_europe), relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques ([formation](/gtravail/gt_formation), [notebooks](https://gt-notebook.gitpages.huma-num.fr/site_quarto/), [développement logiciel](/gtravail/gt_logiciel)).
+Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), [relations européennes](/colleges/c_europe), relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques ([formation](/gtravail/gt_formation), [notebooks](https://gt-notebook.gitpages.huma-num.fr/site_quarto/), [logiciel et environnements](/gtravail/gt_logiciel)).
 
 
 ## Activités

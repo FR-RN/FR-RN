@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Groupe de travail "développement logiciel"
+title: Groupe de travail "Logiciel et environnements"
 ---
 
 ## Cadre et objectifs du groupe
@@ -27,7 +27,7 @@ N’hésitez pas à nous soumettre vos retours via les issues de notre [groupe G
 
 
 Consulter les ressources :
-* [site web avec les cartes](https://gt-env-logiciels.gricad-pages.univ-grenoble-alpes.fr/sandbox-notecards/index.html)
+* [site web avec les fiches pratiques](https://gt-env-logiciels.gricad-pages.univ-grenoble-alpes.fr/sandbox-notecards/index.html)
 * [Groupe d'animation du GT](https://gricad-gitlab.univ-grenoble-alpes.fr/gt-env-logiciels)
 
 Pour rejoindre le groupe, vous pouvez vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
