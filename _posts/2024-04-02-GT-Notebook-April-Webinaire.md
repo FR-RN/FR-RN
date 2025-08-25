@@ -2,7 +2,7 @@
 layout: post
 title:  "GT Notebook Webinaire #5 Journal of Digital History"
 date:   2024-04-02 13:30 +0100
-categories: past-webinaires
+categories: past-webinaires-notebooks
 ---
 
 Cette cinquième édition du webinaire du GT Notebook, première de l'année 2024, verra **l’équipe éditoriale du Journal of Digital History présenter l’histoire et les choix techniques & éditoriaux de la revue**.

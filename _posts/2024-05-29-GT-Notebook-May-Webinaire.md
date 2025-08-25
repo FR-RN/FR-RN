@@ -2,7 +2,7 @@
 layout: post
 title:  "GT Notebook Webinaire #6 NepHal+ Episciences"
 date:   2024-05-29 14:00 +0100
-categories: past-webinaires
+categories: past-webinaires-notebooks
 ---
 Cette sixième édition du webinaire du GT Notebook, verra **l’équipe éditoriale de la plateforme Episciences présenter ses dernières évolution pour l'évaluation et la publication des jeux de données et des logiciels, avec l'exemple de la revue hébergée JTCAM**.
 

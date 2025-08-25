@@ -2,7 +2,7 @@
 layout: post
 title:  "GT Notebook Webinaire #2 Interactivité - REPORT"
 date:   2023-04-13 13:30 +0100
-categories: past-webinaires
+categories: past-webinaires-notebooks
 ---
 
 Qu'on les appelle "notebooks", "article exécutable" ou "publication reproductible", la démocratisation du _Literate Programming_ questionne non seulement nos pratiques scientifiques mais également les chaînes de publications et leurs infrastructures matérielles et logicielles, tout comme leur appropriation et les médiations entre équipes de recherche, étudiants et étudiantes et personnel d'appui à la recherche.

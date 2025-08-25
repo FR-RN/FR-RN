@@ -2,7 +2,7 @@
 layout: post
 title:  "GT Notebook Webinaire #4 Esthétique du Notebook & Emacs"
 date:   2023-06-22 13:30 +0100
-categories: past-webinaires
+categories: past-webinaires-notebooks
 ---
 Pour ce quatrième et dernier séminaire sur les Notebooks, nous écouterons Nicolas Rougier (https://www.labri.fr/perso/nrougier/), directeur de recherche en Neurosciences computationnelles à l'Inria et à l'Institut des Maladies Neurodégénératives (Bordeaux, France).
 
