@@ -49,7 +49,7 @@ Vous pourrez retrouver les vidéos et les présentations associées aux wébinai
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.past-webinaires-notebooks limit:page.n_posts -%}
-    <li> A venir ➔
+    <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
