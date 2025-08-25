@@ -10,7 +10,8 @@ Voici le programme des wébinaires organisés par le réseau dans le cadre des a
 
 ## Wébinaires
 
-### Les wébinaires du réseau
+### Wébinaires du réseau
+
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    {%- for post in site.categories.webinaires limit:page.n_posts -%}
@@ -42,11 +43,12 @@ Vous pourrez retrouver les vidéos et les présentations associées aux wébinai
  {%- endfor -%}
 </ul>
 
+### Wébinaires connexes
 #### Les wébinaires du gt-notebooks
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.webinaires-notebooks limit:page.n_posts -%}
+   {%- for post in site.categories.past-webinaires-notebooks limit:page.n_posts -%}
     <li> A venir ➔
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
