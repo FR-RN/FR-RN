@@ -20,7 +20,43 @@ déjà postées pour copier le format (nommage du fichier et entête).
 
 Les membres du réseau organise des [wébinaires](/webinars/) via le [collège Animation](/colleges/c_anim), participent à des [formations](/training/) autour de la reproductibilité via le groupe de travail "Formation" et recensent des [publications](/publications/) en lien avec le sujet.
 
-## Conférences
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.event-network limit:page.n_posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<ul class="post-list">
+ {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+   {%- for post in site.categories.news-network limit:page.n_posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+ {%- endfor -%}
+</ul>
+
+## Activités connexes 
+
+### Conférences
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -36,7 +72,7 @@ Les membres du réseau organise des [wébinaires](/webinars/) via le [collège A
  {%- endfor -%}
 </ul>
 
-## Dernières nouvelles
+### Dernières nouvelles
 
 {% if site.paginate %}
   {% assign posts = paginator.posts %}
@@ -61,7 +97,7 @@ Les membres du réseau organise des [wébinaires](/webinars/) via le [collège A
 
 
 
-## Évènements passés
+### Évènements passés
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

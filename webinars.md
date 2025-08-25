@@ -8,7 +8,7 @@ siteNav: false
 ---
 Voici le programme des wébinaires organisés par le réseau dans le cadre des activités du [collège Animation](https://www.recherche-reproductible.fr/colleges/c_anim). Si vous souhaitez voir aborder un sujet, n'hésitez pas à nous contacter par [mail](contact@recherche-reproductible.fr) !
 
-## Wébinaires
+Nous relayons également des wébinaires sur des sujets connexes qui peuvent inétresser certains d'entre vous !
 
 ### Wébinaires du réseau
 

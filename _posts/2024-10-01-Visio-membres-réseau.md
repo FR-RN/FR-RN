@@ -2,7 +2,7 @@
 layout: post
 title:  "Présentation de la réunion des membres du réseau"
 date:   2024-12-17 08:00 +0100
-categories: news
+categories: news-network
 tags: slides
 lang: francais
 ---
