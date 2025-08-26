@@ -129,11 +129,12 @@ Pour répondre à ces enjeux, les objectifs visés par le réseau sont multiples
 * Étendre cette dynamique à l’échelle institutionnelle, nationale et internationale, tout en établissant des connexions avec les initiatives liées à la science ouverte et à l’intégrité scientifique.
 
 
-## Activités
+## Les activités
 
-![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
 
 Les activités du réseau sont multiples et cherchent à toucher différents publics. Le réseau organise des journées annuelles de rencontres multi-disciplinaire autour de la reproductibilité. Le collège animation du réseau organise régulièrement des wébinaires, Des membres du groupe de travail formation participent et/ou organisent des formations sur la reproductibilité. La reproductibilité computationnelle étant une problématique transverse à beaucoup de disciplines scientifiques, un groupe de travail logiciel a été mis en place pour rédiger et promouvoir des fiches de bonnes pratiques sur le sujet.
+
 → [Plus d’informations sur la page Activités](/activities/).
 
 ## Comment contribuer ?
@@ -142,11 +143,11 @@ La reproductibilité est un sujet qui vous intéresse ?
 
 Vous pouvez :
 * vous abonner à la liste de diffusion pour être informé 
-* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une affiche [lien], …
+* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une affiche, …
 * animer une [sensibilisation dans votre laboratoire](/training/#ateliers)
 * proposer une sensibilisation aux doctorants de votre école doctorale 
 * rédiger une fiche de bonnes pratiques spécifiques à votre discipline 
-* participer à un groupe de travail [lien]
+* participer à un [groupe de travail](/steering/#gt)
 * proposer un nouveau groupe de travail
 
 
