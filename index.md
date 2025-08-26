@@ -13,8 +13,6 @@ n_actus: 2
 <!--
 ![Actions reseau](../assets/images/banniere_web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
 -->
-Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
-[Plus d'information dans ce document !](assets/pdfs/presentation.pdf)
 
 ## News !
 
@@ -107,43 +105,49 @@ La prochaine newsletter est en préparation, n'hésitez pas à nous faire part d
 <div class="news2"> Retrouvez l'intégralité des actualités <a href="{{activities | relative_url}}/activities/">sur cette page</a> !</div>
 </div>
 
-
 <br>
+## Le réseau
 
-
-## Objectifs du réseau
-
-![Objectifs réseau](../assets/images/objectifs_recherche-repro-fr.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
+Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
+[Plus d'information dans ce document !](assets/pdfs/presentation.pdf)
 
 Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abonnement à celle-ci constituant actuellement le principal critère d’adhésion. Les membres occupent des fonctions variées et sont issus de nombreuses institutions réparties à travers le territoire français. Ainsi, au moins 30 disciplines différentes sont représentées. Cette diversité est un élément fondamental du réseau qui vise à promouvoir l'échange de bonnes pratiques et créer des discussions autour de procédures communes dans des disciplines différentes (voir la page [Membres](/community/) pour plus de détails).
 
-## Actions en cours
 
-![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
-## Structure
+## Les objectifs
 
-Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), [relations européennes](/colleges/c_europe), relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques ([formation](/gtravail/gt_formation), [notebooks](https://gt-notebook.gitpages.huma-num.fr/site_quarto/), [logiciel et environnements](/gtravail/gt_logiciel)).
+![Objectifs réseau](../assets/images/objectifs_recherche-repro-fr.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
+
+
+La reproductibilité de la recherche vise avant tout à renforcer la transparence, la robustesse, la fiabilité et la réutilisabilité des résultats scientifiques. Pour y parvenir, les actions mises en œuvre par le réseau de recherche reproductible doivent s’inscrire dans une approche pérenne, ancrée à la fois dans les dynamiques européennes et internationales.
+
+Pour répondre à ces enjeux, les objectifs visés par le réseau sont multiples :
+
+* Constituer une communauté multidisciplinaire engagée à promouvoir la reproductibilité des recherches scientifiques;
+* Identifier les facteurs limitant la reproductibilité des résultats de recherche et proposer des actions concrètes pour y parvenir notamment la mise en place et la diffusion de bonnes pratiques, la formation, et l’acculturation des chercheur.euse.s;
+* Étendre cette dynamique à l’échelle institutionnelle, nationale et internationale, tout en établissant des connexions avec les initiatives liées à la science ouverte et à l’intégrité scientifique.
 
 
 ## Activités
 
-### Journées annuelles
+![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
-  * [Journées 2023](/rr-days/), Paris
-  * [Journées 2024](/rr-days-2024/), Grenoble
-  * [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
+Les activités du réseau sont multiples et cherchent à toucher différents publics. Le réseau organise des journées annuelles de rencontres multi-disciplinaire autour de la reproductibilité. Le collège animation du réseau organise régulièrement des wébinaires, Des membres du groupe de travail formation participent et/ou organisent des formations sur la reproductibilité. La reproductibilité computationnelle étant une problématique transverse à beaucoup de disciplines scientifiques, un groupe de travail logiciel a été mis en place pour rédiger et promouvoir des fiches de bonnes pratiques sur le sujet.
+→ [Plus d’informations sur la page Activités](/activities/).
 
-### Wébinaires
+## Comment contribuer ?
 
-Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège animation](/colleges/c_anim).
+La reproductibilité est un sujet qui vous intéresse ? 
 
-
-### Implication au niveau européen
-* Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Reproductibilité
-* Organisation de webinaires consacré aux réseaux européens
-* Implication dans le projet TRUSTparency
-* Représentation du réseau dans des événements internationaux
+Vous pouvez :
+* vous abonner à la liste de diffusion pour être informé 
+* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une affiche [lien], …
+* animer une [sensibilisation dans votre laboratoire](/training/#ateliers)
+* proposer une sensibilisation aux doctorants de votre école doctorale 
+* rédiger une fiche de bonnes pratiques spécifiques à votre discipline 
+* participer à un groupe de travail [lien]
+* proposer un nouveau groupe de travail
 
 
 <br/>

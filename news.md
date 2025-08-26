@@ -54,6 +54,25 @@ Les membres du réseau organise des [wébinaires](/webinars/) via le [collège A
  {%- endfor -%}
 </ul>
 
+
+
+### Journées annuelles
+Le réseau organise des journées annuelles, multidiciplinaires, pour favoriser l'échange d'expériences :
+  * [Journées 2023](/rr-days/), Paris
+  * [Journées 2024](/rr-days-2024/), Grenoble
+  * [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
+
+
+### Implication au niveau européen et international
+
+Le réseau s'inscrit dans une dynamique européenne et internationale et participe à plusieurs actions mises en place :
+
+* Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Reproductibilité
+* Organisation de webinaires consacré aux réseaux européens
+* Implication dans le projet TRUSTparency
+* Représentation du réseau dans des événements internationaux
+
+
 ## Activités connexes 
 
 ### Conférences
