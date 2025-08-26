@@ -150,6 +150,6 @@ Vous pouvez :
 * participer à un [groupe de travail](/steering/#gt)
 * proposer un nouveau groupe de travail
 
-
+Nh’ésitez pas à nous rejoindre !
 <br/>
 <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>

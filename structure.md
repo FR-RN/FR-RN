@@ -68,7 +68,7 @@ Le comité de pilotage actuel est composé des membres suivants:
   {% endfor %}
   </ul>
 
-# Collèges
+# Collèges {#colleges}
 
 Les collèges transverses sont articulés autour de 4 thématiques :
 
@@ -79,7 +79,7 @@ Les collèges transverses sont articulés autour de 4 thématiques :
 
 
 
-# Groupes de travail
+# Groupes de travail {#gt}
 
 Les groupes de travail, sont organisés autour d'une thématique précise et ont pour but de définir et diffuser les bonnes pratiques pour une science reproductible dans leur périmètre :
 
