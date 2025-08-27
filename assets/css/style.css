@@ -966,7 +966,7 @@ h2.post-list-heading {
 .post-content h4 {
   font-weight: 300;
   font-size: 1.01em;
-  padding-left: 0.8em;
+  #padding-left: 0.8em;
   margin-top: 2px;
   margin-bottom: 2px;
   color: #be076d;
