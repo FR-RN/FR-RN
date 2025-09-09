@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-09-01T12:11:01+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="english"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html"><![CDATA[<p>The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the <a href="https://i4replication.org/blog%20Games.html">dedicated page</a>). Each year, numerous Replication Games take place worldwide.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-09-09T11:35:09+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="english"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html"><![CDATA[<p>The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the <a href="https://i4replication.org/blog%20Games.html">dedicated page</a>). Each year, numerous Replication Games take place worldwide.</p>
 
 <p>In fall 2025, the French Reproducibility Network will co-organize a replication game in Paris on October 3rd.</p>
 
@@ -8,7 +8,69 @@
   <li><strong>News</strong> : registration is now open !</li>
 </ul>
 
-<p>Please follow <a href="https://www.surveymonkey.ca/r/Replication_Games_Paris_2025">this link</a>  !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><summary type="html"><![CDATA[The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the dedicated page). Each year, numerous Replication Games take place worldwide.]]></summary></entry><entry><title type="html">Newsletter de Juin 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/06/30/newsletter.html" rel="alternate" type="text/html" title="Newsletter de Juin 2025" /><published>2025-06-30T12:00:00+00:00</published><updated>2025-06-30T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/06/30/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/06/30/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n7">Newsletter du réseau Recherche Reproductible N°7</h1>
+<p>Please follow <a href="https://www.surveymonkey.ca/r/Replication_Games_Paris_2025">this link</a>  !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><summary type="html"><![CDATA[The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the dedicated page). Each year, numerous Replication Games take place worldwide.]]></summary></entry><entry><title type="html"></title><link href="https://www.recherche-reproductible.fr//2025/09/09/2025-09-18-Visio-repro-doctorants.html" rel="alternate" type="text/html" title="" /><published>2025-09-09T11:35:09+00:00</published><updated>2025-09-09T11:35:09+00:00</updated><id>https://www.recherche-reproductible.fr//2025/09/09/2025-09-18-Visio-repro-doctorants</id><content type="html" xml:base="https://www.recherche-reproductible.fr//2025/09/09/2025-09-18-Visio-repro-doctorants.html"><![CDATA[<p>Un <em>webinaire</em> est organisé le Jeudi 18 Septembre de 14h à 16h autour
+ de l’<em>enjeu de la reproductibilité pendant la thèse</em> présentés par 3
+ doctorant.e.s :</p>
+
+<p><strong>Ibrahim HMAMOU</strong> de l’Institut Denis Poisson Orléans (Mathématiques),
+ sous la direction de Carine Lucas</p>
+
+<p><em>Résumé</em> :</p>
+
+<p>Les écoulements sédimentaires de suspensions fluide-particules
+ impliquent différents types de fluides et de sédiments, avec des
+ concentrations particulaires variables. La dynamique de ces événements
+ extrêmes est très difficile à observer : le dépôt est souvent la seule
+ quantité mesurable. Nous cherchons à modéliser ces écoulements afin de
+ prédire leur durée, la distance parcourue et la géométrie de leur dépôt.
+ Nous développons un modèle simplifié à partir des équations de Navier-
+ Stokes, en considérant plusieurs couches minces de type eau peu
+ profonde. Une approximation fondée sur un schéma de volumes finis permet
+ de comparer ce modèle à des données expérimentales obtenues en laboratoire.
+ Je présenterai une comparaison entre les résultats d’un code Matlab
+ pré-existant et ceux issus de mon propre code en C++ (écrit uniquement à
+ partir des éléments disponibles dans la bibliographie), et je reviendrai
+ sur les difficultés que j’ai rencontrées lors de ce travail.</p>
+
+<p><strong>Thi Phuong KIEU</strong>, du Laboratoire d’Informatique et des Systèmes, Aix-
+ Marseille Université, sous la direction de Amine Hamri</p>
+
+<p><em>Résumé</em> :</p>
+
+<p>Mes travaux portent sur la modélisation des systèmes à évènement
+ discrets, appliquée à la simulation du trafic véhiculaire.
+ Mon sujet de thèse est le suivant : “Développement d’un Jumeau Numérique
+ pour l’Aide à la Mobilité Durable. Ma présentation portera sur la
+ manière d’organiser et de rédiger des
+ tutoriels pour la reproductibilité des résultats, en particulier dans le
+ cadre de l’attribution des badges d’évaluation de l’ACM. La
+ présentation se fera en anglais.”</p>
+
+<p><strong>Mathis BRIER</strong>, doctorant au laboratoire RMeS, en collaboration avec
+ IdHEO Nantes, école d’ostéopathie, sous la direction de Jean-Julien NIZARD</p>
+
+<p><em>Résumé</em> :</p>
+
+<p>La thèse vise à recenser les critères de jugement utilisés
+ dans la recherche clinique en thérapie manuelle pour la prise en charge
+ des lombalgies et estimer le besoin de développer un Core Outcome Set
+ (COS), “un ensemble consensuel et standardisé de critères de jugements
+ qui doivent être évalués et rapportés systématiquement a minima dans
+ l’ensemble des essais cliniques d’un domaine du soin ou de la santé”.
+ Les COS, lorsqu’ils existent, permettent aux thérapeutiques de se
+ développer sur des bases fiables et stables, rendant plus rapide et
+ efficace la synthèse des connaissances, notamment en facilitant les
+ méta-analyses en diminuant l’hétérogénéité des critères et des outils de
+ mesure utilisés.</p>
+
+<p>Nous vous attendons nombreux !
+ N’hésitez pas à diffuser et partager cette information autour de vous,
+ en particulier aux doctorant.e.s !</p>
+
+<p>*Le lien de connexion zoom : *
+ <a href="https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?
+ pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1">https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?
+ pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1</a></p>]]></content><author><name>Recherche Reproductible</name></author></entry><entry><title type="html">Newsletter de Juin 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/06/30/newsletter.html" rel="alternate" type="text/html" title="Newsletter de Juin 2025" /><published>2025-06-30T12:00:00+00:00</published><updated>2025-06-30T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/06/30/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/06/30/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n7">Newsletter du réseau Recherche Reproductible N°7</h1>
 
 <h2 id="manifestations">Manifestations</h2>
 
@@ -222,41 +284,4 @@ Vous retrouverez le <strong>programme détaillé</strong>, le <strong>formulaire
 
 <p>Ce webinaire a été animé le 28 Mars 2025 par <a href="https://pagespro.univ-gustave-eiffel.fr/nicolas-roelandt">Nicolas Roelandt</a> (Université Gustave Eiffel) et <a href="https://cv.hal.science/timothee-giraud">Timothée Giraud</a> (UMS RIATE).</p>
 
-<p>Vous pouvez retrouver la vidéo sur le <a href="http://videos.univ-grenoble-alpes.fr/video/32647-webinaire_rr_28_03_2025_geomatiquemp4/">lien suivant</a>  et la présentation sur <a href="https://nicolas-roelandt.github.io/2024-reproductibilite-et-geomatique">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><summary type="html"><![CDATA[Cette présentation s’attache à présenter le domaine de la géomatique, discipline entre géographie et informatique Elle présentera les spécificités de la discipline qui peuvent être un frein au développement de la culture de la reproductibilité et les outils qui existent pour celles et ceux qui voudraient passer le pas. Pour faire court, pourquoi Spatial is special et finalement peut-être pas tellement au regard de la reproductibilité.]]></summary></entry><entry><title type="html">Newsletter de Février 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters.html" rel="alternate" type="text/html" title="Newsletter de Février 2025" /><published>2025-03-01T12:00:00+00:00</published><updated>2025-03-01T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/03/01/newsletters.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n5">Newsletter du réseau Recherche Reproductible N°5</h1>
-
-<h2 id="manifestations">Manifestations</h2>
-
-<ul>
-  <li><strong>Les journées du réseau</strong> auront lieu les 3 et 4 Avril 2025 à Lyon.
-  Il reste quelques places n’hésitez pas à vous inscrire ! Vous retrouverez le programme détaillé, le formulaire d’inscription ainsi que toutes les informations pratiques sur le <a href="https://jrfrr-2025.sciencesconf.org/">site de l’événement</a>.</li>
-  <li><strong>La conférence ACM-REP 2025</strong> aura lieu du 29 au 31 Juillet à Vancouver.
-  L’appel à contribution ouvrira le 31 Mars 2025. Retrouvez toutes informations pratiques sur le <a href="https://acm-rep.github.io/2025/">site de la conférence</a>.</li>
-  <li>Les vidéos de la <strong>Journée Ardoise</strong> sur l’ouverture des codes et logiciels, qui a eu lieu le 17 Décembre à Rennes sont disponibles sur la page <a href="https://je2024-ardoise.sciencesconf.org/resource/page/id/1/">programme</a> du site web.</li>
-  <li>Les vidéos des journées du <a href="https://gt-notebook.gitpages.huma-num.fr/site_quarto/">GT notebook</a>, qui ont eu lieu les 12 et 13 Novembre 2024 à Paris, sont disponibles sur <a href="https://www.canal-u.tv/chaines/gt-notebook/seminaire">Canal U</a>.</li>
-</ul>
-
-<h2 id="vie-du-réseau">Vie du réseau</h2>
-
-<ul>
-  <li>La <strong>vidéo du wébinaire</strong> de présentation de l’agence de certification <a href="https://www.cascad.tech/">CASCaD</a>, animé par Christophe Pérignon est disponible sur <a href="https://www.recherche-reproductible.fr/past-webinaires/2025/01/31/Cascad.html">ce lien</a>.</li>
-  <li>Le <strong>prochain wébinaire</strong> organisé par le collège Animation du réseau, aura lieu le 28 Mars 2025 à 14h. Il sera animé par Thimotée Giraud et Nicolas Roelandt qui nous parleront de reproductibilité en géomatique. Nous vous attendons nombreux !</li>
-  <li><strong>[Save the date]</strong> le 3 Octobre 2025 le réseau organise des <a href="https://i4replication.org/blog%20Games.html">Replication Games</a>, dans les locaux d’Inria Paris !</li>
-</ul>
-
-<h2 id="publications">Publications</h2>
-
-<ul>
-  <li><a href="https://hal.science/hal-04895884v1">Reproducibility in medical image computing: what is it and how is it assessed?</a>
-  <strong>Olivier Colliot, Elina Thibeau-Sutre, Camille Brianceau, Ninon Burgos</strong>, <em>Trustworthy AI in Medical Imaging, The MICCAI Society book Series, 2025</em>.</li>
-  <li><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1491823">Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives</a>.
-<strong>Hernandez Jose Armando , Colom Miguel</strong>, <em>Frontiers in Computer Science, 6, 2025</em>.</li>
-  <li><a href="https://doi.org/10.1038/s41467-024-55306-7">msiFlow: automated workflows for reproducible and scalable multimodal mass spectrometry imaging and microscopy data analysis</a>.
-  <strong>Spangenberg, P., Bessler, S., Widera, L. et al.</strong> , <em>Nature Communications 16, 1065 (2025)</em>.</li>
-</ul>
-
-<hr />
-<p>Le réseau français de recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire.</p>
-
-<p>Vous trouverez plus d’information sur le site du réseau <a href="https://recherche-reproductible.fr/">Recherche Reproductible</a> et vous pouvez vous abonner à la liste de diffusion : <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible">recherche-reproductible</a>.</p>
-
-<p>Ce réseau est en pleine structuration et vise une large représentation disciplinaire. Si vous souhaitez vous impliquer : venez nous rejoindre ! Envoyez-nous un courriel et contribuez au réseau : contact[@]recherche-reproductible.fr.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°5]]></summary></entry></feed>
+<p>Vous pouvez retrouver la vidéo sur le <a href="http://videos.univ-grenoble-alpes.fr/video/32647-webinaire_rr_28_03_2025_geomatiquemp4/">lien suivant</a>  et la présentation sur <a href="https://nicolas-roelandt.github.io/2024-reproductibilite-et-geomatique">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><summary type="html"><![CDATA[Cette présentation s’attache à présenter le domaine de la géomatique, discipline entre géographie et informatique Elle présentera les spécificités de la discipline qui peuvent être un frein au développement de la culture de la reproductibilité et les outils qui existent pour celles et ceux qui voudraient passer le pas. Pour faire court, pourquoi Spatial is special et finalement peut-être pas tellement au regard de la reproductibilité.]]></summary></entry></feed>

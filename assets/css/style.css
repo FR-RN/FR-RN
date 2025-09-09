@@ -510,10 +510,12 @@ table td {
   line-height: 1.5;
   display: block;
   padding: 5px 10px;
-  margin-left: 20px;
 }
 .site-nav .page-link:not(:last-child) {
   margin-right: 0;
+}
+.site-nav .page-link {
+  margin-left: 20px;
 }
 .site-nav .subpage-menu {
   display: none;
@@ -531,10 +533,12 @@ table td {
   display: block;
   padding: 0px 10px;
   margin-top: 0px;
-  margin-left: 0px;
 }
 .site-nav .subpage-link:not(:last-child) {
   margin-right: 0;
+}
+.site-nav .subpage-link {
+  margin-left: 0px;
 }
 @media screen and (min-width: 600px) {
   .site-nav {
@@ -555,10 +559,12 @@ table td {
   .site-nav .page-link {
     display: inline;
     padding: 0;
-    margin-left: auto;
   }
   .site-nav .page-link:not(:last-child) {
     margin-right: 20px;
+  }
+  .site-nav .page-link {
+    margin-left: auto;
   }
 }
 
