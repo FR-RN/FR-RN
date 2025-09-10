@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La reproductibilité pendant le doctorat
+title:  "La reproductibilité pendant le doctorat"
 date:   2025-09-18 14:00 +0100
 categories: webinaires
 tags: slides
