@@ -18,6 +18,9 @@ financement, les éditeurs, les sociétés savantes et d'autres
 organisations sectorielles, ainsi que des chercheurs de toutes les
 disciplines et à tous les stades de leur carrière).
 
+<img src="../assets/images/New-world-map-smaller-key2.png" alt="Structure" usemap="#workmap" width="600" height="350" style="display:block; margin-right: auto; margin-left:auto;">
+
+
 <ul>
 {% for node in site.data.nodes %}
   <li>
@@ -26,5 +29,3 @@ disciplines et à tous les stades de leur carrière).
   </li>
 {% endfor %}
 </ul>
-
-<img src="../assets/images/New-world-map-smaller-key2.png" alt="Structure" usemap="#workmap" width="600" height="350" style="display:block; margin-right: auto; margin-left:auto;">
