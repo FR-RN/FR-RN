@@ -7,7 +7,7 @@ tags: slides
 lang: francais
 ---
 
-Un *webinaire* est organisé le Jeudi 18 Septembre de 14h à 16h autour
+Un *webinaire* a été organisé le Jeudi 18 Septembre de 14h à 16h autour
  de l'*enjeu de la reproductibilité pendant la thèse* présentés par 3
  doctorant.e.s :
 
@@ -63,11 +63,4 @@ La thèse vise à recenser les critères de jugement utilisés
  mesure utilisés.
 
 
- Nous vous attendons nombreux !
- N'hésitez pas à diffuser et partager cette information autour de vous,
- en particulier aux doctorant.e.s !
-
- *Le lien de connexion zoom : *
- [https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?
- pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1](https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?
- pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1)
+ *L'[enregistrement du wébinaire](https://videos.univ-grenoble-alpes.fr/video/34125-video1921997025mp4/) est en ligne !
