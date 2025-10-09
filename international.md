@@ -27,4 +27,4 @@ disciplines et à tous les stades de leur carrière).
 {% endfor %}
 </ul>
 
-<img src="../assets/images/New-world-map-smaller-key2.png" alt="Structure" usemap="#workmap" width="500" height="400" style="display:block; margin-right: auto; margin-left:auto;">
+<img src="../assets/images/New-world-map-smaller-key2.png" alt="Structure" usemap="#workmap" width="600" height="350" style="display:block; margin-right: auto; margin-left:auto;">
