@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-10-09T07:21:33+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry xml:lang="english"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html"><![CDATA[<p>The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the <a href="https://i4replication.org/blog%20Games.html">dedicated page</a>). Each year, numerous Replication Games take place worldwide.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-10-17T12:42:20+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Newsletter d’Octobre 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html" rel="alternate" type="text/html" title="Newsletter d’Octobre 2025" /><published>2025-10-15T12:00:00+00:00</published><updated>2025-10-15T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n8">Newsletter du réseau Recherche Reproductible N°8</h1>
+
+<h2 id="le-mot-de-la-rédaction-">Le mot de la rédaction ….</h2>
+
+<p>Nous souhaitons la bienvenue à tous les membres qui ont rejoint le réseau cette année et nous les remercions de l’intérêt porté à nos activités !</p>
+
+<p>Les moyens de participer concrètement sont multiples : vous pouvez participer au collège animation en proposant des sujets de wébinaires ou à un groupe de travail en participant à la rédaction de fiches de bonnes pratiques, en animant une<a href="https://www.recherche-reproductible.fr/training/#ateliers&quot;">sensibilisation</a> dans votre laboratoire, faire la promotion des <a href="https://www.recherche-reproductible.fr/training/#MOOCs">MOOCs</a> auprès de vos doctorants ou bien encore nous faire remonter des évènements autour de la reproductibilité dont vous avez connaissance !</p>
+
+<p>Bonne continuation à tous !</p>
+
+<h2 id="manifestations">Manifestations</h2>
+
+<ul>
+  <li>
+    <p>La <a href="https://www.wcrif.org/">World Conference on Research Integrity (WCRI 2026)</a> se tiendra à Vancouver, Canada, du 3 au 6 mai 2026.
+La date limite pour la soumission des résumés  (350 mots maximum) pour des communications orales ou des posters est fixée au 15 octobre 2025.
+Détails et soumission sur le <a href="https://wcri2026.org/call-for-abstracts/">site de l’appel</a>.</p>
+  </li>
+  <li>
+    <p>L’université Grenoble Alpes a inauguré le premier <a href="https://code.gouv.fr/fr/blog/definition-ospo/">OSPO (Open Science
+Program Office)</a> académique français. La
+ <a href="https://scienceouverte.univ-grenoble-alpes.fr/a-propos/cellule-data-grenoble-alpes/">Cellule Codes Données Grenoble Alpes</a> est en charge d’opérer ce
+programme et d’accompagner les scientifiques dans leurs développements
+de logiciels open source dans le contexte de la science ouverte. Les
+supports des présentations sont disponibles sur le site <a href="https://ospo-uga.sciencesconf.org/"> de la journée </a>.</p>
+  </li>
+  <li>
+    <p>Une formation en ligne sur la reproductiblité qui pourrait intéresser certains d’entre vous : <a href="https://openplato.eu/blocks/catalog/detail.php?id=120">https://openplato.eu/blocks/catalog/detail.php?id=120</a>.</p>
+  </li>
+</ul>
+
+<h2 id="vie-du-réseau">Vie du réseau</h2>
+<ul>
+  <li>
+    <p>Les <strong>vidéos des derniers wébinaires</strong> sont en ligne !</p>
+  </li>
+  <li>
+    <p>La vidéo de la demi-journée sur la “reproductibilité pendant la thèse” organisée le 18/09/2025 à 14h est en ligne <a href="https://videos.univ-grenoble-alpes.fr/video/34125-video1921997025mp4/">sur ce lien</a>.
+Trois doctorant.e.s ont évoqué leur façon d’aborder la reproductibilité pendant leur doctorat avec des thématiques diverses.</p>
+  </li>
+</ul>
+
+<p>*La vidéo du wébinaire “Expérimentation animale et 3R : la nécessité d’une recherche reproductible” animé par Marc Le Bert est disponible sur ce lien](https://www.canal-u.tv/chaines/rfrr/experimentation-animale-et-3r-la-necessite-d-une-recherche-reproductible).</p>
+
+<ul>
+  <li><a href="https://i4replication.org/blog%20Games.html">Replication Games</a> :
+le réseau a organisé une journée de Replications Games avec l’Institute for replications dans les locaux d’Inria Paris  le 3 Octobre 2025, l’occasion pour les participants de tester une replication d’article de leur choix parmi le panel proposé. L’ambiance studieuse a permis de se confronter à la réalité de la reproductiblité et de la replicabilité ! Le rapport final par équipe est en phase de finalisation : nous ferons un post dédié sur le site très bientôt !</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+
+<ul>
+  <li>
+    <p><a href="&quot;https://hal.science/hal-04925959v1">Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives</a>, Jose Armando Hernandez, Miguel Colom <em>Frontiers in Computer Science</em>, 2025, 6.</p>
+  </li>
+  <li><a href="https://dl.acm.org/doi/10.1109/MSR.2019.00077">A large-scale study about quality and reproducibility of jupyter notebooks</a>, João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo, Juliana Freire, <em>ACM</em>, <a href="https://doi.org/10.1109/MSR.2019.00077">DOI</a></li>
+  <li>Une initiative de l’Université de Lorraine : <a href="https://zenodo.org/records/17153675">Pour une recherche lorraine plus reproductible, intègre et ouverte</a></li>
+  <li><a href="https://arxiv.org/abs/2508.20747">An analysis of the effects of open science indicators on citations in the French Open Science Monitor</a>, Giovanni Colavizza (University of Copenhagen, Denmark), Lauren Cadwallader (PLOS, United States), Iain Hrynaszkiewicz (PLOS, United States), <a href="https://doi.org/10.48550/arXiv.2508.20747">DOI</a>.</li>
+  <li><a href="https://www.nature.com/articles/d41586-025-03196-0">Stop treating code like an afterthought: record, share and value it
+</a>
+    <ul>
+      <li>Scientists, research institutions, funders, libraries and publishers must all improve software practices, Roberto Di Cosmo, Sabrina Granger, Konrad Hinsen, Nicolas Jullien, Daniel Le Berre, Violaine Louvet, Camille Maumet, Clémentine Maurice, Raphaël Monat &amp; Nicolas P. Rougier, <em>Nature 646, 284-286 (2025)</em>, <a href="https://doi.org/10.1038/d41586-025-03196-0">DOI</a>, <a href="https://rdcu.be/eJQLM">lien vers l’article</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<center>
+  <p style="padding-left:20px;">
+<a href="https://www.linkedin.com/company/réseau-français-de-la-recherche-reproductible/">
+  🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://piaille.fr/@reproductible_fr">
+  🐘 Mastodon/Piaille</a>&nbsp;&nbsp;&nbsp;
+  🌀 Bluesky : @reproductible-fr.bsky.social&lt;/a&gt;&nbsp;&nbsp;&nbsp;
+<a href="https://www.canal-u.tv/chaines/rfrr">
+📺 chaîne Canal-U </a>
+</p>
+</center>
+
+<p>Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, <a href="mailto:contact@recherche-reproductible.fr">envoyez-nous un courriel</a> !</p>
+
+<p>Vous trouverez plus d’information sur le site du réseau <a href="https://recherche-reproductible.fr/">Recherche Reproductible</a> et vous pouvez vous abonner à la liste de diffusion : <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible">recherche-reproductible</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°8]]></summary></entry><entry xml:lang="english"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2025/10/03/replication-games.html"><![CDATA[<p>The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the <a href="https://i4replication.org/blog%20Games.html">dedicated page</a>). Each year, numerous Replication Games take place worldwide.</p>
 
 <p>In fall 2025, the French Reproducibility Network will co-organize a replication game in Paris on October 3rd.</p>
 
@@ -271,13 +351,4 @@ Costa, L., Barbosa, S., &amp; Cunha, J., <i>arXiv</i>, https://arxiv.org/abs/250
   <li>Céline Acary-Robert, Gloria Gonzalez Curto, Frédéric Lemoine : Organisation et évolution du réseau</li>
   <li>Abel Brodeur (Université d’Ottawa, Institute for Replication, Canada) : Reproducibility, Replication Games, and the Institute for Replication</li>
   <li>Gilles Mathieu (MESR Paris) : Bilan et clôture des journées : Science ouverte : de la transparence à la reproductibilité</li>
-</ul>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="journées" /><summary type="html"><![CDATA[Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.]]></summary></entry><entry xml:lang="francais"><title type="html">Journées du Réseau Français de Recherche Reproductible</title><link href="https://www.recherche-reproductible.fr//event-network/2025/04/03/jrfrr-2025.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible" /><published>2025-04-03T07:00:00+00:00</published><updated>2025-04-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2025/04/03/jrfrr-2025</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2025/04/03/jrfrr-2025.html"><![CDATA[<p>Les journées du Réseau Français de la Recherche Reproductible auront lieu du 3 au 4 avril 2025 à Lyon. Il s’agit d’un moment important pour la consolidation du réseau et le dynamisme des collaborations émergentes. Ce colloque fait suite aux journées organisées à Paris en 2023 et à Grenoble en 2024.</p>
-
-<p>Les journées auront lieu au <strong>Centre de Recherche en Neurosciences de Lyon</strong> (CRNL), au sein du <a href="https://www.google.com/maps/place/CRNL+-+Center+for+Research+in+Neuroscience+in+Lyon/@45.7437709,4.8998373,17z/data=!3m2!4b1!5s0x47f4c1a2dd286e19:0xe1cd16741c9e917e!4m6!3m5!1s0x47f4c1a2d1b67a6b:0x1f9ef926821090f9!8m2!3d45.7437672!4d4.9024122!16s%2Fg%2F12331xnmm?entry=tts&amp;g_ep=EgoyMDI0MTAwNS4wIPu8ASoASAFQAw%3D%3D">Centre Hospitalier Le Vinatier</a> du <strong>jeudi 3 avril à 10h au vendredi 4 avril 16h</strong>.</p>
-
-<p>Nous vous invitons dès à présent à bloquer ces dates dans vos agendas !</p>
-
-<p>Les inscriptions sont ouvertes ! Elle est gratuite mais obligatoire, dans la limite des places disponibles. 
-Vous retrouverez le <strong>programme détaillé</strong>, le <strong>formulaire d’inscription</strong> ainsi que toutes les <strong>informations pratiques</strong> sur le site de l’événement : <a href="https://jrfrr-2025.sciencesconf.org/">https://jrfrr-2025.sciencesconf.org/</a></p>
-
-<p>Le réseau national France Life Imaging peut prendre en charge les missions des doctorants, post-doctorants et ITA! Contacter Albertine Dubois: albertine.dubois@cea.fr</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><category term="journées" /><summary type="html"><![CDATA[Les journées du Réseau Français de la Recherche Reproductible auront lieu du 3 au 4 avril 2025 à Lyon. Il s’agit d’un moment important pour la consolidation du réseau et le dynamisme des collaborations émergentes. Ce colloque fait suite aux journées organisées à Paris en 2023 et à Grenoble en 2024.]]></summary></entry></feed>
+</ul>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="journées" /><summary type="html"><![CDATA[Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.]]></summary></entry></feed>
