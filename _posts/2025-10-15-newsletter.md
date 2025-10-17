@@ -62,7 +62,7 @@ Trois doctorant.e.s ont évoqué leur façon d'aborder la reproductibilité pend
 * [An analysis of the effects of open science indicators on citations in the French Open Science Monitor](https://arxiv.org/abs/2508.20747), Giovanni Colavizza (University of Copenhagen, Denmark), Lauren Cadwallader (PLOS, United States), Iain Hrynaszkiewicz (PLOS, United States), [DOI](https://doi.org/10.48550/arXiv.2508.20747).
 
 * [Stop treating code like an afterthought: record, share and value it
-](https://www.nature.com/articles/d41586-025-03196-0) Scientists, research institutions, funders, libraries and publishers must all improve software practices, Roberto Di Cosmo, Sabrina Granger, Konrad Hinsen, Nicolas Jullien, Daniel Le Berre, Violaine Louvet, Camille Maumet, Clémentine Maurice, Raphaël Monat & Nicolas P. Rougier, *Nature 646, 284-286 (2025)*, [DOI](https://doi.org/10.1038/d41586-025-03196-0), [lien vers l'article](https://rdcu.be/eJQLM).
+](https://www.nature.com/articles/d41586-025-03196-0). Scientists, research institutions, funders, libraries and publishers must all improve software practices, Roberto Di Cosmo, Sabrina Granger, Konrad Hinsen, Nicolas Jullien, Daniel Le Berre, Violaine Louvet, Camille Maumet, Clémentine Maurice, Raphaël Monat & Nicolas P. Rougier, *Nature 646, 284-286 (2025)*, [DOI](https://doi.org/10.1038/d41586-025-03196-0), [lien vers l'article](https://rdcu.be/eJQLM).
 
 
 
