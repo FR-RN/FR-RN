@@ -2,7 +2,7 @@
 layout: post
 title:  "Replication Games - Paris"
 date:   2025-10-03 08:00 +0100
-categories: past-event
+categories: event
 lang: francais
 ---
 
