@@ -45,7 +45,7 @@ supports des présentations sont disponibles sur le site [ de la journée ](http
 * La vidéo de la demi-journée sur la "reproductibilité pendant la thèse" organisée le 18/09/2025 à 14h est en ligne [sur ce lien](https://videos.univ-grenoble-alpes.fr/video/34125-video1921997025mp4/).
 Trois doctorant.e.s ont évoqué leur façon d'aborder la reproductibilité pendant leur doctorat avec des thématiques diverses.
 
-*La vidéo du wébinaire "Expérimentation animale et 3R : la nécessité d'une recherche reproductible" animé par Marc Le Bert est disponible sur ce lien](https://www.canal-u.tv/chaines/rfrr/experimentation-animale-et-3r-la-necessite-d-une-recherche-reproductible).
+* La vidéo du wébinaire "Expérimentation animale et 3R : la nécessité d'une recherche reproductible" animé par Marc Le Bert est disponible sur [ce lien](https://www.canal-u.tv/chaines/rfrr/experimentation-animale-et-3r-la-necessite-d-une-recherche-reproductible).
 
 * [Replication Games](https://i4replication.org/blog%20Games.html) :
   le réseau a organisé une journée de Replications Games avec l'Institute for replications dans les locaux d'Inria Paris  le 3 Octobre 2025, l'occasion pour les participants de tester une replication d'article de leur choix parmi le panel proposé. L'ambiance studieuse a permis de se confronter à la réalité de la reproductiblité et de la replicabilité ! Le rapport final par équipe est en phase de finalisation : nous ferons un post dédié sur le site très bientôt !
@@ -56,11 +56,13 @@ Trois doctorant.e.s ont évoqué leur façon d'aborder la reproductibilité pend
  * [Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives]("https://hal.science/hal-04925959v1), Jose Armando Hernandez, Miguel Colom *Frontiers in Computer Science*, 2025, 6.
 
 * [A large-scale study about quality and reproducibility of jupyter notebooks](https://dl.acm.org/doi/10.1109/MSR.2019.00077), João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo, Juliana Freire, *ACM*, [DOI](https://doi.org/10.1109/MSR.2019.00077)
+
 * Une initiative de l'Université de Lorraine : [Pour une recherche lorraine plus reproductible, intègre et ouverte](https://zenodo.org/records/17153675)
+
 * [An analysis of the effects of open science indicators on citations in the French Open Science Monitor](https://arxiv.org/abs/2508.20747), Giovanni Colavizza (University of Copenhagen, Denmark), Lauren Cadwallader (PLOS, United States), Iain Hrynaszkiewicz (PLOS, United States), [DOI](https://doi.org/10.48550/arXiv.2508.20747).
+
 * [Stop treating code like an afterthought: record, share and value it
-](https://www.nature.com/articles/d41586-025-03196-0)
-  * Scientists, research institutions, funders, libraries and publishers must all improve software practices, Roberto Di Cosmo, Sabrina Granger, Konrad Hinsen, Nicolas Jullien, Daniel Le Berre, Violaine Louvet, Camille Maumet, Clémentine Maurice, Raphaël Monat & Nicolas P. Rougier, *Nature 646, 284-286 (2025)*, [DOI](https://doi.org/10.1038/d41586-025-03196-0), [lien vers l'article](https://rdcu.be/eJQLM).
+](https://www.nature.com/articles/d41586-025-03196-0) Scientists, research institutions, funders, libraries and publishers must all improve software practices, Roberto Di Cosmo, Sabrina Granger, Konrad Hinsen, Nicolas Jullien, Daniel Le Berre, Violaine Louvet, Camille Maumet, Clémentine Maurice, Raphaël Monat & Nicolas P. Rougier, *Nature 646, 284-286 (2025)*, [DOI](https://doi.org/10.1038/d41586-025-03196-0), [lien vers l'article](https://rdcu.be/eJQLM).
 
 
 
