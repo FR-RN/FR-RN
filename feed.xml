@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-10-17T13:11:06+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Newsletter d’Octobre 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html" rel="alternate" type="text/html" title="Newsletter d’Octobre 2025" /><published>2025-10-15T12:00:00+00:00</published><updated>2025-10-15T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n8">Newsletter du réseau Recherche Reproductible N°8</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2025-10-17T15:52:38+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Newsletter d’Octobre 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html" rel="alternate" type="text/html" title="Newsletter d’Octobre 2025" /><published>2025-10-15T12:00:00+00:00</published><updated>2025-10-15T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n8">Newsletter du réseau Recherche Reproductible N°8</h1>
 
 <h2 id="le-mot-de-la-rédaction-">Le mot de la rédaction ….</h2>
 
@@ -92,7 +92,19 @@ le réseau a organisé une journée de Replications Games avec l’Institute for
   <li><strong>News</strong> : registration is now open !</li>
 </ul>
 
-<p>Please follow <a href="https://www.surveymonkey.ca/r/Replication_Games_Paris_2025">this link</a>  !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><summary type="html"><![CDATA[The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the dedicated page). Each year, numerous Replication Games take place worldwide.]]></summary></entry><entry xml:lang="francais"><title type="html">Expérimentation animale et 3R : la nécessité d’une recherche reproductible</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2025/09/26/Exp_Animale_3R_Le_Bert.html" rel="alternate" type="text/html" title="Expérimentation animale et 3R : la nécessité d’une recherche reproductible" /><published>2025-09-26T13:00:00+00:00</published><updated>2025-09-26T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2025/09/26/Exp_Animale_3R_Le_Bert</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2025/09/26/Exp_Animale_3R_Le_Bert.html"><![CDATA[<p>Le 26 Septembre 2025, Marc Le Bert a animé un wébinaire sur <strong>L’expérimentation animale et 3R : la nécessité d’une recherche reproductible</strong>.</p>
+<p>Please follow <a href="https://www.surveymonkey.ca/r/Replication_Games_Paris_2025">this link</a>  !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><summary type="html"><![CDATA[The Institute for Replication has conceived the Replication Games as one-day events where researchers collaborate to replicate studies from high-ranking journals (see the dedicated page). Each year, numerous Replication Games take place worldwide.]]></summary></entry><entry xml:lang="francais"><title type="html">Replication Games - Paris</title><link href="https://www.recherche-reproductible.fr//past-event/2025/10/03/post-replication-games.html" rel="alternate" type="text/html" title="Replication Games - Paris" /><published>2025-10-03T07:00:00+00:00</published><updated>2025-10-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-event/2025/10/03/post-replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-event/2025/10/03/post-replication-games.html"><![CDATA[<p>“Quand la science s’amuse à se reproduire” 🔬♻️</p>
+
+<p>Un grand merci à David Larousserie et Le Monde pour avoir mis en lumière les Replication Games du 3 octobre, co-organisés par le Réseau Français de la Recherche Reproductible et l’<a href="https://i4replication.org/games.html">Institute for Replication</a> !</p>
+
+<p>Dans un contexte où la reproductibilité est un enjeu crucial pour la crédibilité de la science, ces événements uniques rassemblent des chercheurs le temps d’une journée pour tenter de reproduire les résultats de plusieurs études publiées.
+Ainsi une vingtaine de participants dans les locaux d’Inria Paris et en ligne ont travaillé par équipe afin de reproduire les résultats publiés dans des articles autour de l’économie et la psychologie.</p>
+
+<p>👏 Félicitations à tous les participants qui contribuent à une science plus robuste et fiable !</p>
+
+<p>👉 Pour en savoir plus, lisez l’article du Monde : 
+<a href="https://www.lemonde.fr/sciences/article/2025/10/16/les-jeux-de-la-replication-ou-quand-la-science-s-amuse-a-se-reproduire_6647099_1650684.html">Les « jeux de la réplication », ou quand la science s’amuse à se reproduire</a></p>
+
+<p>Nous en profitons pour rappeler que le réseau est financé par le Ministère de l’Enseignement Supérieur et de la Recherche dans le cadre de la politique de Science Ouverte.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-event" /><summary type="html"><![CDATA[“Quand la science s’amuse à se reproduire” 🔬♻️]]></summary></entry><entry xml:lang="francais"><title type="html">Expérimentation animale et 3R : la nécessité d’une recherche reproductible</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2025/09/26/Exp_Animale_3R_Le_Bert.html" rel="alternate" type="text/html" title="Expérimentation animale et 3R : la nécessité d’une recherche reproductible" /><published>2025-09-26T13:00:00+00:00</published><updated>2025-09-26T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2025/09/26/Exp_Animale_3R_Le_Bert</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2025/09/26/Exp_Animale_3R_Le_Bert.html"><![CDATA[<p>Le 26 Septembre 2025, Marc Le Bert a animé un wébinaire sur <strong>L’expérimentation animale et 3R : la nécessité d’une recherche reproductible</strong>.</p>
 
 <p><strong>Marc Le Bert</strong>, Project Officer au FC3R et ingénieur de recherche au Laboratoire Immuno NEuro Modulation, Orléans.</p>
 
@@ -304,55 +316,4 @@ Costa, L., Barbosa, S., &amp; Cunha, J., <i>arXiv</i>, https://arxiv.org/abs/250
 
 <p>Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, <a href="mailto:contact@recherche-reproductible.fr">envoyez-nous un courriel</a> !</p>
 
-<p>Vous trouverez plus d’information sur le site du réseau (Recherche Reproductible)[https://recherche-reproductible.fr/] et vous pouvez vous abonner à la liste de diffusion : (recherche-reproductible)[https://groupes.renater.fr/sympa/info/recherche-reproductible].</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°6]]></summary></entry><entry><title type="html">Journées du Réseau Français de Recherche Reproductible</title><link href="https://www.recherche-reproductible.fr//news/2025/04/03/jrfrr-2025-2.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible" /><published>2025-04-03T07:00:00+00:00</published><updated>2025-04-03T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//news/2025/04/03/jrfrr-2025-2</id><content type="html" xml:base="https://www.recherche-reproductible.fr//news/2025/04/03/jrfrr-2025-2.html"><![CDATA[<p>Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.</p>
-
-<p>Vous retrouverez le programme détaillé, le formulaire d’inscription ainsi que toutes les informations pratiques sur le site de l’événement : <a href="https://jrfrr-2025.sciencesconf.org/">https://jrfrr-2025.sciencesconf.org/</a></p>
-
-<p>Le programme riche et varié a permis d’aborder la thématique de la reproductibilité à travers une grande diversité de thématique. Les vidéos ainsi que les présentations sont toutes disponibles sur le <a href="https://www.canal-u.tv/chaines/rfrr/journees-de-la-recherche-reproductible">canal U du réseau</a>.</p>
-
-<h3 id="session-1--reproductibilité-et-pratiques-éditoriales">Session 1 : Reproductibilité et pratiques éditoriales</h3>
-
-<ul>
-  <li>Quentin Petitjean (INRAE Avignon) : Partager les données et le code : Pourquoi et comment répondre aux attentes des revues ?</li>
-  <li>Denis Bourguet (INRAE Montpellier) &amp; Thomas Guillemaud (INRAE Sophia-Antipolis) : Peer Community In (PCI) et Peer Community In Registered Report (PCI RR) : deux initiatives de science ouverte au service de la reproductibilité scientifique</li>
-  <li>Sandra Guigonis (Marseille) : Science ouverte et reproductibilité. Enjeux, pratiques et usages en sciences humaines et sociales</li>
-</ul>
-
-<h3 id="session-2--reproductibilité-et-santé-humaine">Session 2 : Reproductibilité et santé humaine</h3>
-
-<ul>
-  <li>Camille Maumet (INRIA Rennes) : Variabilité des résultats en imagerie cérébrale au travers de différentes analyses</li>
-  <li>Tristan Glatard (Centre for Addiction and Mental Health, Toronto) :* Reproductibilité des analyses IRM pour la maladie de Parkinson*</li>
-  <li>Florian Naudet (CHU Rennes) : Intégrité et reproductibilité en recherche thérapeutique</li>
-</ul>
-
-<h3 id="session-3--reproductibilité-et-recherche-préclinique">Session 3 : Reproductibilité et recherche préclinique</h3>
-
-<ul>
-  <li>Christophe Soulage (Université Lyon 1) : La recherche préclinique en crise de reproductibilité : état des lieux, causes… et solutions ?</li>
-  <li>Marlène Wiart (CNRS Lyon) : Comment la communauté de l’AVC a façonné la méthodologie de recherche préclinique : une perspective historique</li>
-  <li>Laura Barrot (INSERM Lyon) : Aide au design des projets précliniques pour une bonne science et une bonne conscience</li>
-</ul>
-
-<h3 id="session-4--reproductibilité-sur-les-temps-et-les-espaces-lointains">Session 4 : Reproductibilité sur les temps et les espaces lointains</h3>
-
-<ul>
-  <li>Aurore Val (CNRS Aix Marseille Université) : Un long chemin vers l’Open Science en archéologie préhistorique</li>
-  <li>Françoise Genova (CNRS Strasbourg) : Étude de cas : Comment la reproductibilité est assurée dans le domaine de l’astronomie</li>
-</ul>
-
-<h3 id="session-5--reproductibilité-sur-le-monde-qui-nous-entoure">Session 5 : Reproductibilité sur le monde qui nous entoure</h3>
-
-<ul>
-  <li>Raphaël Royauté (INRAE Versailles) SORTEE : Une société pour la science ouverte en écologie et biologie évolutive</li>
-  <li>Sylvie Joussaume (CNRS, Laboratoire des Sciences du Climat et de l’Environnement) : Reproductibilité dans les sciences du climat : le cas de la modélisation du climat</li>
-  <li>Raphaël Lévy (Université Sorbonne Paris Nord): Répliquer pour éclaircir une controverse scientifique : quelques enseignements d’une expérience en cours…</li>
-</ul>
-
-<h3 id="session-6--bilan-et-perspectives-du-réseau">Session 6 : Bilan et perspectives du réseau</h3>
-
-<ul>
-  <li>Céline Acary-Robert, Gloria Gonzalez Curto, Frédéric Lemoine : Organisation et évolution du réseau</li>
-  <li>Abel Brodeur (Université d’Ottawa, Institute for Replication, Canada) : Reproducibility, Replication Games, and the Institute for Replication</li>
-  <li>Gilles Mathieu (MESR Paris) : Bilan et clôture des journées : Science ouverte : de la transparence à la reproductibilité</li>
-</ul>]]></content><author><name>Recherche Reproductible</name></author><category term="news" /><category term="journées" /><summary type="html"><![CDATA[Les journées ont eu lieu au Centre de Recherche en Neurosciences de Lyon (CRNL), au sein du Centre Hospitalier Le Vinatier du jeudi 3 avril à 10h au vendredi 4 avril 16h.]]></summary></entry></feed>
+<p>Vous trouverez plus d’information sur le site du réseau (Recherche Reproductible)[https://recherche-reproductible.fr/] et vous pouvez vous abonner à la liste de diffusion : (recherche-reproductible)[https://groupes.renater.fr/sympa/info/recherche-reproductible].</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°6]]></summary></entry></feed>
