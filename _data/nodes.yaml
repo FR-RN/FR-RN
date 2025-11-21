@@ -59,7 +59,8 @@
   contact: crs@ebpi.uzh.ch
 
 - name: African networks
-  url: https://www.africanrn.org 
+  url: https://www.africanrn.org
+  country: Africa
   contact: kwaaseey@gmail.com
 
 - name: SPRN
@@ -77,32 +78,32 @@
   country: Canada
   contact: info@carn.recar.ca
 
-- name: CRORIN 
+- name: CRORIN
   url: https://crorin.hr/
-  country: Croatia   
+  country: Croatia
   contact: info@crorin.hr
 
 - name: DKRN
   url: https://danish-repro.github.io/
-  country:  denmark 
+  country:  denmark
   contact: danish.repro@gmail.com
 
 - name: GeoRN
   url: https://georn.ge/
-  country: Georgia  
+  country: Georgia
   contact: reproducibility@tsmu.edu
 
-- name: NLRN 
+- name: NLRN
   url: https://reproducibilitynetwork.nl/
-  country: Netherlands  
+  country: Netherlands
   contact: info@reproducibility.nl
 
 - name: NORRN
   url: https://norrn.no/
-  country: Norway 
+  country: Norway
   contact: norrepro@gmail.com
 
-- name: UARN 
+- name: UARN
   url: https://uarn.org/
-  country: Ukrainia  
-  contact: 
+  country: Ukrainia
+  contact:
