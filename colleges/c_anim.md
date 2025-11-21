@@ -28,11 +28,6 @@ Pour voir un thème particulier abordé, n'hésitez pas à nous contacter :  [re
  {%- endfor -%}
 </ul>
 
-#### Programme des séminaires à venir
-* **6 Mai 2025, 14h** : Présentation du réseau anglais (UKRN), organisation, fonctionnement et initiatives, *Etienne Roesch*.
-* **23 Mai 2025, 14h** : Reproductibilité et environnements de développement, *Pol Dellaiera*.
-* **13 Juin 2025, 16h** :{rix}, un paquet R qui s'appuie sur Nix ,*Bruno Rodriguez*.
-
 
 #### Séminaires passés
 <ul class="post-list">

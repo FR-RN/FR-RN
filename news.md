@@ -4,8 +4,9 @@ title: Activités ↓
 permalink: /activities/
 list_title: Dernières nouvelles
 n_posts: 500
+n_posts_news: 6
 siteNav: true
-childPages: ["Wébinaires", "Publications", "Formations"]
+childPages: ["Structure du réseau", "Wébinaires", "Publications", "Formations"]
 ---
 
 Voilà les dernières nouvelles ainsi que les événements à venir en lien
@@ -73,7 +74,7 @@ Le réseau s'inscrit dans une dynamique européenne et internationale et partici
 * Représentation du réseau dans des événements internationaux
 
 
-## Activités connexes 
+## Activités connexes
 
 ### Conférences
 
@@ -101,7 +102,7 @@ Le réseau s'inscrit dans une dynamique européenne et internationale et partici
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news limit:page.n_posts -%}
+   {%- for post in site.categories.news limit:page.n_posts_news -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
@@ -120,7 +121,7 @@ Le réseau s'inscrit dans une dynamique européenne et internationale et partici
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.past-event limit:page.n_posts -%}
+   {%- for post in site.categories.past-event limit:page.n_posts_news -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
