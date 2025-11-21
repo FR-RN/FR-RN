@@ -25,9 +25,9 @@
 - name: DERN
   url: https://reproducibilitynetwork.de
   country: Germany
-  twitter: 
+  twitter:
   contact: info@reproducibilitynetwork.de
-  
+
 - name: ITRN
   url: https://www.itrn.org/
   country: Italy
@@ -43,13 +43,13 @@
 - name: SKRN
   url: https://www.slovakrn.org
   country: Slovakia
-  twitter: 
+  twitter:
   contact: slovakreproducibilitynetwork@gmail.com
 
 - name: SERN
   url: http://www.swern.org
   country: Sweden
-  twitter: 
+  twitter:
   contact: gustav.nilsonne@ki.se
 
 - name: CHRN
@@ -57,3 +57,52 @@
   country: Switzerland
   twitter: SwissRN
   contact: crs@ebpi.uzh.ch
+
+- name: African networks
+  url: https://www.africanrn.org 
+  contact: kwaaseey@gmail.com
+
+- name: SPRN
+  url: https://www.sprn.es
+  country: Spain
+  contact: info@sprn.es
+
+- name: BERN
+  url: https://reproducibilitynetwork.be/
+  country: Belgium
+  contact: info@reproducibilitynetwork.be
+
+- name: CaRN
+  url: https://carn-recar.ca/
+  country: Canada
+  contact: info@carn.recar.ca
+
+- name: CRORIN 
+  url: https://crorin.hr/
+  country: Croatia   
+  contact: info@crorin.hr
+
+- name: DKRN
+  url: https://danish-repro.github.io/
+  country:  denmark 
+  contact: danish.repro@gmail.com
+
+- name: GeoRN
+  url: https://georn.ge/
+  country: Georgia  
+  contact: reproducibility@tsmu.edu
+
+- name: NLRN 
+  url: https://reproducibilitynetwork.nl/
+  country: Netherlands  
+  contact: info@reproducibility.nl
+
+- name: NORRN
+  url: https://norrn.no/
+  country: Norway 
+  contact: norrepro@gmail.com
+
+- name: UARN 
+  url: https://uarn.org/
+  country: Ukrainia  
+  contact: 
