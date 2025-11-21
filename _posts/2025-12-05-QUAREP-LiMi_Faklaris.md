@@ -4,11 +4,10 @@ title: "Microscopie photonique : les actions de la communauté pour garantir des
 date: 2025-12-05 14:00 +0100
 categories: webinaires
 tags: slides
-lang: francais
 ---
 
 
-Le 05 Decembre 2025, Orestis Faklaris animera un wébinaire sur la **Microscopie photonique : les actions de la communauté pour garantir des images quantifiables et reproductibles**.
+Le 05 décembre 2025, Orestis Faklaris animera un wébinaire sur la **Microscopie photonique : les actions de la communauté pour garantir des images quantifiables et reproductibles**.
 
 **Orestis Faklaris**, Responsable technique du plateau d’imagerie MRI du CRBM, Montpellier.
 

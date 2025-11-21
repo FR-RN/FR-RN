@@ -4,7 +4,6 @@ title:  "The Brazilian Reproducibility Network: past, present, and future."
 date:   2025-10-10 15:00 +0100
 categories: past-webinaires
 tags: slides
-lang: francais
 ---
 
 

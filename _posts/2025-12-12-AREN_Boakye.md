@@ -4,7 +4,6 @@ title: "The African Reproducibility Network: Building Grassroots Capacity in Afr
 date: 2025-12-12 14:00 +0100
 categories: webinaires
 tags: slides
-lang: francais
 ---
 
 

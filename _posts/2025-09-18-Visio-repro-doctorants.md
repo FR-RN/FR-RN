@@ -4,7 +4,6 @@ title:  "La reproductibilité pendant le doctorat"
 date:   2025-09-18 14:00 +0100
 categories: past-webinaires
 tags: slides
-lang: francais
 ---
 
 Un *webinaire* a été organisé le Jeudi 18 Septembre de 14h à 16h autour
