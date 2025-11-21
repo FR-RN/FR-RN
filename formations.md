@@ -37,3 +37,5 @@ Cette formation s'inscrit dans cette évolution, afin de donner aux participante
 Les supports sont disponibles sur le [site de la conférence](https://anf-repro-2025.pages.math.cnrs.fr/instructions/supports/).
 
 ### ANF "Workflows et reproductibilité en bioinformatique", Paris, 25 au 27 novembre 2025.
+
+Le réseau MétiER en bioinformatique [MERIT](https://merit.cnrs.fr/) et l’Institut Français de Bioinformatique ([IFB](https://www.france-bioinformatique.fr/)) organisent une Action Nationale de Formation (ANF) sur les principes FAIR appliqués aux workflows bioinformatiques. Cette formation, portée par le CNRS (INS2I), vise à former des bioinformaticiens sur les bonnes pratiques de reproductibilité. Les participants acquièrent des compétences avancées en gestion de workflows (Nextflow et Snakemake), et maîtrisent les outils de dépôt (SWH, HAL) et d’intégration continue pour garantir la qualité de leur code. Le réseau français de la recherche reproductible est ainsi impliqué, renforçant l’adoption de méthodes rigoureuses en bioinformatique.
