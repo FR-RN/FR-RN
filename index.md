@@ -142,14 +142,14 @@ Les activités du réseau sont multiples et cherchent à toucher différents pub
 La reproductibilité est un sujet qui vous intéresse ? 
 
 Vous pouvez :
-* vous abonner à la liste de diffusion pour être informé 
-* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une affiche, …
+* vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) pour être informé 
+* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une [affiche en français](assets/pdfs/flyerA4_rechercherepro_FR.pdf) ou une [affiche en anglais](assets/pdfs/flyerA4_rechercherepro_EN.pdf), …
 * animer une [sensibilisation dans votre laboratoire](/training/#ateliers)
 * proposer une sensibilisation aux doctorants de votre école doctorale 
 * rédiger une fiche de bonnes pratiques spécifiques à votre discipline 
 * participer à un [groupe de travail](/steering/#gt)
 * proposer un nouveau groupe de travail
 
-Nh’ésitez pas à nous rejoindre !
+N'hésitez pas à nous rejoindre !
 <br/>
 <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
