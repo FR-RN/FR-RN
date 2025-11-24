@@ -117,7 +117,7 @@ Un rapport d'activité pour l'année 2024 est disponible en [téléchargement](a
 
 ## Les objectifs
 
-![Objectifs réseau](../assets/images/objectifs_recherche-repro-fr.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
+![Objectifs réseau](../assets/images/objectifs_recherche-repro2.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
 
 
 La reproductibilité de la recherche vise avant tout à renforcer la transparence, la robustesse, la fiabilité et la réutilisabilité des résultats scientifiques. Pour y parvenir, les actions mises en œuvre par le réseau de recherche reproductible doivent s’inscrire dans une approche pérenne, ancrée à la fois dans les dynamiques européennes et internationales.
