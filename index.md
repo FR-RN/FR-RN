@@ -131,7 +131,7 @@ Pour répondre à ces enjeux, les objectifs visés par le réseau sont multiples
 
 ## Les activités
 
-![Actions reseau](../assets/images/activites_recherche-repro2.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
+![Actions reseau](../assets/images/activites_recherche-repro2b.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
 Les activités du réseau sont multiples et cherchent à toucher différents publics. Le réseau organise des journées annuelles de rencontres multi-disciplinaire autour de la reproductibilité. Le collège animation du réseau organise régulièrement des wébinaires, Des membres du groupe de travail formation participent et/ou organisent des formations sur la reproductibilité. La reproductibilité computationnelle étant une problématique transverse à beaucoup de disciplines scientifiques, un groupe de travail logiciel a été mis en place pour rédiger et promouvoir des fiches de bonnes pratiques sur le sujet.
 
