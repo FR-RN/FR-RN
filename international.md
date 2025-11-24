@@ -5,8 +5,8 @@ permalink: /international/
 siteNav: false
 ---
 
-Le réseau français s'inscrit dans un plus vaste réseau international
-regroupant des réseaux nationaux composés d'universitaires qui visent
+Le réseau français s'inscrit dans un écosystème la Fédération Globale des Réseaux de Reproductibilité [GFRN](https://reproducibility.global/).
+Cette fédération rassemble des réseaux nationaux composés d'universitaires qui visent
 à promouvoir et à garantir des pratiques de recherche rigoureuses en
 mettant en place des activités de formation appropriées, en concevant
 et en évaluant les efforts d'amélioration de la recherche, en
@@ -24,7 +24,7 @@ disciplines et à tous les stades de leur carrière).
 <ul>
 {% for node in site.data.nodes %}
   <li>
-    <b>{{ node.country }}</b>: 
+    <b>{{ node.country }}</b>:
     <a href="{{ node.url }}">{{ node.url }}</a>
   </li>
 {% endfor %}
