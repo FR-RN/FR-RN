@@ -6,37 +6,25 @@ siteNav: false
 ---
 Cette page recense quelques initiatives nationales connexes en lien en particulier avec la science ouverte et l'édition scientifique.
 
-# Initiatives 
+# Initiatives
 ## Software Heritage ([softwareheritage.org](https://www.softwareheritage.org))
 
 La mission de Software Heritage est de collecter, préserver et partager tous les logiciels disponibles publiquement sous forme de code source, dans le but de construire une infrastructure commune et partagée au service de l'industrie, de la recherche, de la culture et de la société dans son ensemble. Le code source des logiciels est collecté depuis des plateformes d'hébergement de code, comme GitHub, GitLab.com ou Bitbucket, et des archives de paquets, comme Npm ou Pypi, et est intégré dans une structure de données spécifique, un arbre de Merkle, qui est le cœur des archives de Software Heritage. Les artefacts qui se trouvent dans les archives sont associés à des identifiants appelés SWHID.
 
 ## LORIER : [« L’Organisation pour une Recherche Inserm Ethique et Responsable »]( https://lorier.inserm.fr/)
-LORIER concerne toutes les activités et tous les personnels de l’Inserm et des unités mixtes Inserm/Université. Son objectif est de favoriser le développement d’une culture commune de recherche éthique et responsable,  pour améliorer la responsabilité, la transparence, la reproductibilité et la qualité de nos recherches. 
+LORIER concerne toutes les activités et tous les personnels de l’Inserm et des unités mixtes Inserm/Université. Son objectif est de favoriser le développement d’une culture commune de recherche éthique et responsable,  pour améliorer la responsabilité, la transparence, la reproductibilité et la qualité de nos recherches.
 
 LORIER couvre les questions d’éthique, de responsabilité, d’intégrité scientifique, de déontologie, de reproductibilité, de science ouverte, de qualité de la recherche et de recherche sur la recherche. Il a vocation à impliquer l’ensemble des structures Inserm (conseil scientifique, départements, instituts thématiques, commissions scientifiques spécialisées, délégations régionales, unités mixtes de recherche ou de service…), pour renforcer cette culture et faire évoluer la globalité de notre fonctionnement. Il s’agit d’agir ensemble, sur le terrain, pour aider concrètement les équipes et les personnes à réduire les incitatifs négatifs qui persistent dans notre système de recherche, et à construire des incitatifs positifs pour favoriser le changement.
 
-## Sortee [sortee.org/](https://sortee.org/)
-SORTEE (Society for Open, Reliable, and Transparent Ecology and Evolutionary biology) est une organisation internationale dédiée à promouvoir l’ouverture, la fiabilité et la transparence dans les recherches en écologie, évolution et disciplines connexes. Elle réunit les chercheurs, quelle que soit leur expérience, autour d’initiatives culturelles et institutionnelles visant à améliorer la qualité de la science.
+### CASCaD
 
-## QUAREP LiMi ([quarep.org](https://quarep.org/))
+[CASCaD](https://www.cascad.tech/) est la première agence dédiée à la vérification et la certification de la reproductibilité des résultats issus de la recherche scientifique.
 
-QUAREP-LiMi (Quality Assessment and Reproducibility for Instruments & Images in Light Microscopy) est une initiative internationale réunissant chercheurs, ingénieurs, éditeurs, industriels et bailleurs de fonds autour de l’amélioration de la qualité, du contrôle et de la reproductibilité dans la microscopie optique et les images associées.
-Sa mission : produire des lignes directrices communautaires, des protocoles, des outils et des formations pour garantir des résultats quantitatifs fiables et reproductibles issus de la microscopie.
+La certification CASCaD de reproductibilité garantit que les résultats numériques, tels que tableaux et graphiques, présentés dans une publication scientifique peuvent être reproduits à partir d’un ensemble de ressources numériques identifiables mis à disposition par les auteurs.
 
+Cette certification repose sur un processus d’évaluation rigoureux mené par un réviseur, sous la supervision d’un éditeur, et aboutit à l’attribution d’un certificat de reproductibilité.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Contact : contact@cascad.tech
 
 
 # Science ouverte
