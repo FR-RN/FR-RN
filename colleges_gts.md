@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collèges et Groupes
+title: Collèges et GTs
 permalink: /structure/
 list_title: Structure
 n_posts: 6

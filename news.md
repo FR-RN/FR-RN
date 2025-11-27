@@ -6,7 +6,7 @@ list_title: Dernières nouvelles
 n_posts: 500
 n_posts_news: 6
 siteNav: true
-childPages: ["Collèges et Groupes", "Wébinaires", "Publications", "Formations"]
+childPages: ["Collèges et GTs", "Wébinaires", "Publications", "Formations"]
 ---
 
 Voilà les dernières nouvelles ainsi que les événements à venir en lien
