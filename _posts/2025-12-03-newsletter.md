@@ -24,6 +24,7 @@ categories: newsletter
 ## Vie du réseau
 * Le prochain wébinaire aura lieu le **5 décembre à 14h** et aura pour thème "Microscopie photonique : les actions de la communauté pour garantir des images quantifiables et reproductibles". Il sera animé par Orestis Faklaris, responsable technique du plateau d’imagerie MRI du CRBM de Montpellier.
 [Plus d’informations sur ce lien](https://www.recherche-reproductible.fr/webinaires/2025/12/05/QUAREP-LiMi_Faklaris.html).   
+
 * **Cycle de présentation des réseaux étrangers** :      
 
   * La **vidéo de la présentation du réseau de reproductibilité brésilien** est en ligne : [The Brazilian Reproducibility Network: past, present, and future](https://www.canal-u.tv/chaines/rfrr/meet-the-networks-brazil), animé par Eduarda Centeno.
@@ -44,9 +45,12 @@ categories: newsletter
 
 
 
-
+<br>
+<br>
 <center>	
-  <a href="https://www.recherche-reproductible.fr/" target="_blank"><img src="https://membres-ljk.imag.fr/Celine.Acary-Robert/Images/Voeux_reseau_2025.png" width="400px" height="120px">]
+
+<a href="https://www.recherche-reproductible.fr/" target="_blank"><img src="https://membres-ljk.imag.fr/Celine.Acary-Robert/Images/Voeux_reseau_2025.png" width="400px" height="120px">
+
 </center>
 
 
