@@ -27,7 +27,7 @@ Ils travaillent en collaboration avec des membres de la communauté scientifique
 L'[ACM](https://www.acm.org/) (Association for Computing Machinery) a contribué à améliorer la reproductibilité de la recherche scientifique en informatique de plusieurs façons essentielles. Ses principales initiatives incluent, de façon non exhaustive, l’élaboration de standards, des directives, et l’encouragement de la reproductibilité dans ses publications, recherches et formations par un système de badges et d’évaluation d’[artefacts](https://www.acm.org/publications/policies/artifact-review-and-badging-current) en lien avec la transparence et la reproductibilité. Ils organisent aussi des événements et de conférences comme l’[ACM-REP](https://acm-rep.github.io/).
 Ainsi, l'ACM joue un rôle central dans la promotion de la reproductibilité en informatique en facilitant l'accès aux ressources et en mettant en place des pratiques de publication qui favorisent la vérifiabilité des résultats scientifiques.
 
-## Research Data Alliance [rd-alliance.org/](https://www.rd-alliance.org/)
+## Research Data Alliance ([rd-alliance.org/](https://www.rd-alliance.org/))
 La [Research Data Alliance](https://www.rd-alliance.org/) (RDA) a été lancée en 2013 sous la forme d'une initiative communautaire dont la vision est de permettre aux chercheurs et aux innovateurs de partager et de réutiliser ouvertement des données entre différentes technologies, disciplines et pays afin de relever les grands défis de la société.
 
 La mission de la RDA est de construire les ponts sociaux et techniques qui permettent de concrétiser cette vision, grâce à la création, l'adoption et l'utilisation de l'infrastructure sociale, organisationnelle et technique nécessaire pour réduire les obstacles au partage et à l'échange de données. Les scientifiques et les chercheurs s'associent à des experts techniques au sein de groupes de travail spécialisés, de groupes d'intérêt exploratoires et de communautés de pratique. L'adhésion individuelle est gratuite et ouverte à tous.
@@ -39,7 +39,7 @@ La mission de la RDA est de construire les ponts sociaux et techniques qui perme
 ## FORRT ([forrt.org](https://forrt.org/))
 FORRT (Framework for Open and Reproducible Research Training) est une communauté internationale engagée dans la formation, la pédagogie et la diffusion de la science ouverte et reproductible. FORRT développe des ressources éducatives, des guides, des syllabi et des initiatives collaboratives pour aider enseignants, étudiants et chercheurs à intégrer la science ouverte, la transparence et l’éthique de la recherche dans leurs pratiques. Le réseau met l’accent sur l’inclusivité, la formation progressive et l’amélioration durable de la culture scientifique.
 
-## Sortee ()[sortee.org/](https://sortee.org/))
+## Sortee ([sortee.org/](https://sortee.org/))
 SORTEE (Society for Open, Reliable, and Transparent Ecology and Evolutionary biology) est une organisation internationale dédiée à promouvoir l’ouverture, la fiabilité et la transparence dans les recherches en écologie, évolution et disciplines connexes. Elle réunit les chercheurs, quelle que soit leur expérience, autour d’initiatives culturelles et institutionnelles visant à améliorer la qualité de la science.
 
 ## QUAREP LiMi ([quarep.org](https://quarep.org/))
@@ -48,7 +48,8 @@ QUAREP-LiMi (Quality Assessment and Reproducibility for Instruments & Images in 
 Sa mission : produire des lignes directrices communautaires, des protocoles, des outils et des formations pour garantir des résultats quantitatifs fiables et reproductibles issus de la microscopie.
 
 ### GRIOS ([grios.org/](https://www.grios.org/))
-[GRIOS](https://www.grios.org/), l'Initiative mondiale de recherche sur la science ouverte, vise à examiner les données existantes et les recherches en cours sur la science ouverte et à fournir aux parties prenantes une analyse approfondie de l'état actuel de nos connaissances en la matière. Cela permettra aux bailleurs de fonds, aux organismes de recherche et aux décideurs politiques d'accroître l'efficacité et de maximiser l'impact de leurs stratégies en matière de science ouverte. En outre, GRIOS vise à identifier les lacunes importantes en matière de connaissances et à fédérer les communautés mondiales de recherche sur la science ouverte autour d'un programme de recherche commun. GRIOS se concentre sur les connaissances de méta-niveau, qui font actuellement défaut dans la communauté mondiale de la science ouverte.
+GRIOS (Global Research Initiative on Open Science) est une initiative internationale inédite portée par le ministère chargé de l’Enseignement supérieur et de la Recherche, la Fondation européenne de la science (ESF), le Conseil néerlandais de la recherche (NWO, Pays-Bas) et le CNRS. GRIOS propose une approche structurée et internationale pour mieux comprendre, documenter et piloter la science ouverte.
+Cette initiative internationale vise à fournir des synthèses des recherches existantes sur la science ouverte, et à formuler des recommandations de politiques publiques fondées sur les résultats de ces recherches.
 
 ### Equator Network ([equator-network.org](https://www.equator-network.org/))
 
