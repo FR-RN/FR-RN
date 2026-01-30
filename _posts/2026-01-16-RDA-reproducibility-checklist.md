@@ -1,8 +1,8 @@
 ---
 layout: post
-title: " Reproducibility Checklist de la RDA"
+title: "Reproducibility Checklist de la RDA"
 date: 2026-01-16 14:00 +0100
-categories: webinaires
+categories: past-webinaires
 tags: slides
 ---
 
