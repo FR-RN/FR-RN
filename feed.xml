@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-01-30T10:39:55+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Reproducibility Checklist de la RDA</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2026/01/16/RDA-reproducibility-checklist.html" rel="alternate" type="text/html" title="Reproducibility Checklist de la RDA" /><published>2026-01-16T13:00:00+00:00</published><updated>2026-01-16T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2026/01/16/RDA-reproducibility-checklist</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2026/01/16/RDA-reproducibility-checklist.html"><![CDATA[<p><strong>Christian Pagé</strong>, Présentation du groupe de travail Reproducibility Checklist de la RDA</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-02-04T09:31:55+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</title><link href="https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport.html" rel="alternate" type="text/html" title="Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France" /><published>2026-03-20T13:00:00+00:00</published><updated>2026-03-20T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport</id><content type="html" xml:base="https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport.html"><![CDATA[<p><strong>Sebastian Hörl</strong>, Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</p>
+
+<p><em>Résumé : 
+Cette présentation portera sur le développement de simulations de transport multi-agents à grande échelle, en mettant l’accent sur les outils open source et les approches reposant sur des données ouvertes et reproductibles. La génération de populations synthétiques à l’aide du cadre reproductible *eqasim</em>, ainsi que la standardisation des modèles comportementaux, seront présentées. Des cas d’usage appliqués aux services de mobilité à la demande et aux politiques de transport seront également abordés, en s’appuyant sur le cadre de simulation de transport multi-agents <strong>MATSim</strong>.*</p>
+
+<p>Ce webinaire aura lieu sur <a href="https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="webinaires" /><category term="slides" /><summary type="html"><![CDATA[Sebastian Hörl, Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France Résumé : Cette présentation portera sur le développement de simulations de transport multi-agents à grande échelle, en mettant l’accent sur les outils open source et les approches reposant sur des données ouvertes et reproductibles. La génération de populations synthétiques à l’aide du cadre reproductible *eqasim, ainsi que la standardisation des modèles comportementaux, seront présentées. Des cas d’usage appliqués aux services de mobilité à la demande et aux politiques de transport seront également abordés, en s’appuyant sur le cadre de simulation de transport multi-agents MATSim.* Ce webinaire aura lieu sur ce lien.]]></summary></entry><entry><title type="html">Reproducibility Checklist de la RDA</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2026/01/16/RDA-reproducibility-checklist.html" rel="alternate" type="text/html" title="Reproducibility Checklist de la RDA" /><published>2026-01-16T13:00:00+00:00</published><updated>2026-01-16T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2026/01/16/RDA-reproducibility-checklist</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2026/01/16/RDA-reproducibility-checklist.html"><![CDATA[<p><strong>Christian Pagé</strong>, Présentation du groupe de travail Reproducibility Checklist de la RDA</p>
 
 <p><em>Résumé : 
 Le webinaire, organisé conjointement par RDA France et le Réseau Français de la Recherche Reproductible le 16 janvier 2026 à partir de 14h, était animé par Christian Pagé (CERFACS).
@@ -221,59 +226,4 @@ Ainsi une vingtaine de participants dans les locaux d’Inria Paris et en ligne 
 <p><em>Résumé</em> :
  L’expérimentation sur l’animal est très encadrée au niveau règlementaire et éthique et s’appuie sur une règle simple dite des 3R, Remplacer, Réduire et Raffiner l’utilisation des animaux. Cependant la biologie et la recherche biomédicale, comme toutes les branches de la science, n’échappent pas à la problématique de la crise de la reproductibilité avec une particularité, notre devoir éthique envers l’animal. Toute expérience non répétable sur l’animal est de fait non éthique. L’ingénierie de projets scientifiques est un cadre qualité qui peut s’adapter aux besoins et nécessités des utilisateurs dans tous les laboratoires de recherche pour parvenir à la transparence et aider à la reproductibilité. Le GIS FC3R est impliqué et soutien une recherche reproductible car cela bénéficiera au R de la Réduction en diminuant le nombre d’animaux utilisés.</p>
 
-<p>La <a href="https://www.canal-u.tv/chaines/rfrr/experimentation-animale-et-3r-la-necessite-d-une-recherche-reproductible">vidéo de présentation</a> est maintenant en ligne !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><category term="slides" /><summary type="html"><![CDATA[Le 26 Septembre 2025, Marc Le Bert a animé un wébinaire sur L’expérimentation animale et 3R : la nécessité d’une recherche reproductible.]]></summary></entry><entry><title type="html">La reproductibilité pendant le doctorat</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2025/09/18/Visio-repro-doctorants.html" rel="alternate" type="text/html" title="La reproductibilité pendant le doctorat" /><published>2025-09-18T13:00:00+00:00</published><updated>2025-09-18T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2025/09/18/Visio-repro-doctorants</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2025/09/18/Visio-repro-doctorants.html"><![CDATA[<p>Un <em>webinaire</em> a été organisé le Jeudi 18 Septembre de 14h à 16h autour
- de l’<em>enjeu de la reproductibilité pendant la thèse</em> présentés par 3
- doctorant.e.s :</p>
-
-<p><strong>Ibrahim HMAMOU</strong> de l’Institut Denis Poisson Orléans (Mathématiques),
- sous la direction de Carine Lucas</p>
-
-<p><em>Résumé</em> :</p>
-
-<p>Les écoulements sédimentaires de suspensions fluide-particules
- impliquent différents types de fluides et de sédiments, avec des
- concentrations particulaires variables. La dynamique de ces événements
- extrêmes est très difficile à observer : le dépôt est souvent la seule
- quantité mesurable. Nous cherchons à modéliser ces écoulements afin de
- prédire leur durée, la distance parcourue et la géométrie de leur dépôt.
- Nous développons un modèle simplifié à partir des équations de Navier-
- Stokes, en considérant plusieurs couches minces de type eau peu
- profonde. Une approximation fondée sur un schéma de volumes finis permet
- de comparer ce modèle à des données expérimentales obtenues en laboratoire.
- Je présenterai une comparaison entre les résultats d’un code Matlab
- pré-existant et ceux issus de mon propre code en C++ (écrit uniquement à
- partir des éléments disponibles dans la bibliographie), et je reviendrai
- sur les difficultés que j’ai rencontrées lors de ce travail.</p>
-
-<p><strong>Thi Phuong KIEU</strong>, du Laboratoire d’Informatique et des Systèmes, Aix-
- Marseille Université, sous la direction de Amine Hamri</p>
-
-<p><em>Résumé</em> :</p>
-
-<p>Mes travaux portent sur la modélisation des systèmes à évènement
- discrets, appliquée à la simulation du trafic véhiculaire.
- Mon sujet de thèse est le suivant : “Développement d’un Jumeau Numérique
- pour l’Aide à la Mobilité Durable. Ma présentation portera sur la
- manière d’organiser et de rédiger des
- tutoriels pour la reproductibilité des résultats, en particulier dans le
- cadre de l’attribution des badges d’évaluation de l’ACM. La
- présentation se fera en anglais.”</p>
-
-<p><strong>Mathis BRIER</strong>, doctorant au laboratoire RMeS, en collaboration avec
- IdHEO Nantes, école d’ostéopathie, sous la direction de Jean-Julien NIZARD</p>
-
-<p><em>Résumé</em> :</p>
-
-<p>La thèse vise à recenser les critères de jugement utilisés
- dans la recherche clinique en thérapie manuelle pour la prise en charge
- des lombalgies et estimer le besoin de développer un Core Outcome Set
- (COS), “un ensemble consensuel et standardisé de critères de jugements
- qui doivent être évalués et rapportés systématiquement a minima dans
- l’ensemble des essais cliniques d’un domaine du soin ou de la santé”.
- Les COS, lorsqu’ils existent, permettent aux thérapeutiques de se
- développer sur des bases fiables et stables, rendant plus rapide et
- efficace la synthèse des connaissances, notamment en facilitant les
- méta-analyses en diminuant l’hétérogénéité des critères et des outils de
- mesure utilisés.</p>
-
-<p>*L’<a href="https://videos.univ-grenoble-alpes.fr/video/34125-video1921997025mp4/">enregistrement du wébinaire</a> est en ligne !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><category term="slides" /><summary type="html"><![CDATA[Un webinaire a été organisé le Jeudi 18 Septembre de 14h à 16h autour de l’enjeu de la reproductibilité pendant la thèse présentés par 3 doctorant.e.s :]]></summary></entry></feed>
+<p>La <a href="https://www.canal-u.tv/chaines/rfrr/experimentation-animale-et-3r-la-necessite-d-une-recherche-reproductible">vidéo de présentation</a> est maintenant en ligne !</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><category term="slides" /><summary type="html"><![CDATA[Le 26 Septembre 2025, Marc Le Bert a animé un wébinaire sur L’expérimentation animale et 3R : la nécessité d’une recherche reproductible.]]></summary></entry></feed>
