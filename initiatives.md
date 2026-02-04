@@ -6,7 +6,40 @@ siteNav: false
 ---
 Cette page recense quelques initiatives nationales connexes en lien en particulier avec la science ouverte et l'édition scientifique.
 
-# Initiatives
+# Science ouverte
+
+## Recherche Data Gouv ([recherche.data.gouv.fr](https://recherche.data.gouv.fr/fr))
+Inauguré en 2022 par la ministre de l'Enseignement supérieur et de la Recherche, Recherche Data Gouv est l’écosystème national dédié à la gestion, au partage et à l’ouverture des données de la recherche française.
+
+Elle s’appuie sur :
+
+- une plateforme centrale pour la préservation, la publication et la découverte des jeux de données, constituée d’un entrepôt, d’un catalogue (en développement) et d’un portail (ce site web). Cette plateforme garantit la souveraineté, l’accessibilité et la réutilisabilité des données grâce à des licences adaptées et des métadonnées normalisées
+- une fédération nationale des centres de compétences pour accompagner en proximité géographique et thématique les équipes de recherche dans la gestion et la diffusion de leurs données. Cette fédération est composée :
+  * des ateliers de la donnée et des centres de référence établissement à proximité géographique, 
+  * des centres de référence thématique,
+  * des centres de ressources.
+
+En encourageant la réutilisation des données, Recherche Data Gouv stimule l’innovation, évite les dispersions de moyens et favorise les approches transdisciplinaires, essentielles pour répondre à des enjeux complexes. Alignée sur les standards internationaux, elle renforce la visibilité de la recherche française et incarne une stratégie ambitieuse au service de la science ouverte, au bénéfice des chercheurs, des citoyens et des acteurs économiques.
+
+## Comité pour la Science Ouverte ([ouvrirlascience.fr](https://www.ouvrirlascience.fr/))
+
+Le Comité pour la science ouverte mobilise les acteurs de l’enseignement supérieur et de la recherche pour accompagner de manière dynamique et coordonnée la mise en œuvre de la politique nationale de science ouverte. Il se compose de plusieurs instances qui proposent des orientations, instruisent les dossiers, effectuent des arbitrages, impulsent et accompagnent les actions associées. Il constitue une structure fluide, facilitant l’expression et la remontée des idées, les engagements et les contributions.
+
+## Baromètre pour la science ouverte ([barometredelascienceouverte.esr.gouv.fr](https://barometredelascienceouverte.esr.gouv.fr/))
+
+Le baromètre de la science ouverte a été imaginé et mis en oeuvre par l'équipe Ingénierie et Sciences des Données du Ministère de l'Enseignement Supérieur et de la Recherche, dès 2018, pour suivre et accompagner la poltique publique de Science Ouverte initiée la même année. Le baromètre s'inscrit dans le cadre du Plan National pour la Science Ouverte (PNSO) et du Plan d'Action National de la France au sein du Partenariat pour un Gouvernement Ouvert (PGO). Le baromètre a été conçu comme un outil évolutif qui s'améliore et élargit son champ d'analyse dans le temps, mais en gardant un cap méthodologique clair : utiliser et produire uniquement des données ouvertes.
+
+En 2021, l'équipe en charge du Baromètre au MESR a associé l'Université de Lorraine et INRIA pour développer un suivi des jeux de données et des logiciels. Un financement du plan de relance a été obtenu. Dans le même temps, le MESR a aussi développé une interface enrichie et élargit le domaine d'analyse aux essais cliniques et études observationnelles.
+
+
+
+## Office français de l'intégrité scientifique ([ofis-france.fr](https://www.ofis-france.fr))
+Créé en 2017 comme département du Hcéres (Haut Conseil à l’évaluation de la recherche et de l’enseignement supérieur), l’Office français de l’intégrité scientifique (Ofis) met en œuvre les missions en matière d’intégrité scientifique confiées par la loi à cette autorité publique indépendante. L’Ofis contribue ainsi à la définition d’une politique nationale de l’intégrité scientifique, et accompagne tous les acteurs qui concourent au respect des règles garantissant une activité de recherche honnête, rigoureuse, fiable et crédible. L’Ofis représente la France dans les instances de coopération européennes et internationales du domaine.
+Pour construire et partager une culture commune de l’intégrité scientifique, l’Ofis déploie ses actions selon trois axes : observatoire, ressources, animation et prospective.
+
+
+
+# Initiatives nationales
 ## Software Heritage ([softwareheritage.org](https://www.softwareheritage.org))
 
 La mission de Software Heritage est de collecter, préserver et partager tous les logiciels disponibles publiquement sous forme de code source, dans le but de construire une infrastructure commune et partagée au service de l'industrie, de la recherche, de la culture et de la société dans son ensemble. Le code source des logiciels est collecté depuis des plateformes d'hébergement de code, comme GitHub, GitLab.com ou Bitbucket, et des archives de paquets, comme Npm ou Pypi, et est intégré dans une structure de données spécifique, un arbre de Merkle, qui est le cœur des archives de Software Heritage. Les artefacts qui se trouvent dans les archives sont associés à des identifiants appelés SWHID.
@@ -26,24 +59,6 @@ Cette certification repose sur un processus d’évaluation rigoureux mené par 
 
 Contact : contact@cascad.tech
 
-
-# Science ouverte
-
-## Comité pour la Science Ouverte ([ouvrirlascience.fr](https://www.ouvrirlascience.fr/))
-
-Le Comité pour la science ouverte mobilise les acteurs de l’enseignement supérieur et de la recherche pour accompagner de manière dynamique et coordonnée la mise en œuvre de la politique nationale de science ouverte. Il se compose de plusieurs instances qui proposent des orientations, instruisent les dossiers, effectuent des arbitrages, impulsent et accompagnent les actions associées. Il constitue une structure fluide, facilitant l’expression et la remontée des idées, les engagements et les contributions.
-
-## Baromètre pour la science ouverte ([barometredelascienceouverte.esr.gouv.fr](https://barometredelascienceouverte.esr.gouv.fr/))
-
-Le baromètre de la science ouverte a été imaginé et mis en oeuvre par l'équipe Ingénierie et Sciences des Données du Ministère de l'Enseignement Supérieur et de la Recherche, dès 2018, pour suivre et accompagner la poltique publique de Science Ouverte initiée la même année. Le baromètre s'inscrit dans le cadre du Plan National pour la Science Ouverte (PNSO) et du Plan d'Action National de la France au sein du Partenariat pour un Gouvernement Ouvert (PGO). Le baromètre a été conçu comme un outil évolutif qui s'améliore et élargit son champ d'analyse dans le temps, mais en gardant un cap méthodologique clair : utiliser et produire uniquement des données ouvertes.
-
-En 2021, l'équipe en charge du Baromètre au MESR a associé l'Université de Lorraine et INRIA pour développer un suivi des jeux de données et des logiciels. Un financement du plan de relance a été obtenu. Dans le même temps, le MESR a aussi développé une interface enrichie et élargit le domaine d'analyse aux essais cliniques et études observationnelles.
-
-
-
-## Office français de l'intégrité scientifique ([ofis-france.fr](https://www.ofis-france.fr))
-Créé en 2017 comme département du Hcéres (Haut Conseil à l’évaluation de la recherche et de l’enseignement supérieur), l’Office français de l’intégrité scientifique (Ofis) met en œuvre les missions en matière d’intégrité scientifique confiées par la loi à cette autorité publique indépendante. L’Ofis contribue ainsi à la définition d’une politique nationale de l’intégrité scientifique, et accompagne tous les acteurs qui concourent au respect des règles garantissant une activité de recherche honnête, rigoureuse, fiable et crédible. L’Ofis représente la France dans les instances de coopération européennes et internationales du domaine.
-Pour construire et partager une culture commune de l’intégrité scientifique, l’Ofis déploie ses actions selon trois axes : observatoire, ressources, animation et prospective.
 
 
 
