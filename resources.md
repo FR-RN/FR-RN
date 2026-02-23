@@ -51,7 +51,7 @@ Le flux **[RSS]({{ 'feed.xml' | relative_url }})** donne accès aux dernières n
 Afin de communiquer sur les objectifs et la actions du réseaux, nous avons rédigés plusieurs documents :
 
 * un document de présentation générale : [quelques pages !](../assets/pdfs/presentation.pdf)  qui donnent des informations essentielles sur le réseau.
-* un [poster qui peut être librement téléchargé !](../assets/pdfs/FRRN_Poster.pdf) et utilisé dans des conférences
+* un [poster qui peut être librement téléchargé !](../assets/pdfs/poster__RR_FR.pdf) et utilisé dans des conférences ([version anglaise](../assets/pdfs/poster__RR_EN.pdf))
 
 
 # Ressources bibliographiques
