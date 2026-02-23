@@ -71,7 +71,7 @@ n_actus: 2
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news limit:page.n_actus -%}
+   {%- for post in site.categories.news-network limit:page.n_actus -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
