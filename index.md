@@ -144,7 +144,7 @@ La reproductibilité est un sujet qui vous intéresse ?
 
 Vous pouvez :
 * vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) pour être informé 
-* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une [affiche en français](assets/pdfs/flyerA4_rechercherepro_FR.pdf) ou une [affiche en anglais](assets/pdfs/flyerA4_rechercherepro_EN.pdf), …
+* diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une [affiche en français](assets/pdfs/flyerA4_rechercherepro_FR.pdf) ou une [affiche en anglais](assets/pdfs/flyerA4_rechercherepro_EN.pdf), afficher un poster [français](assets/pdfs/poster_RR_FR.pdf) / [anglais](poster_RR_EN.pdf)
 * animer une [sensibilisation dans votre laboratoire](/training/#ateliers)
 * proposer une sensibilisation aux doctorants de votre école doctorale 
 * rédiger une fiche de bonnes pratiques spécifiques à votre discipline 
