@@ -4,6 +4,7 @@ list_title: Dernières nouvelles
 n_posts: 8
 n_news: 1
 n_actus: 2
+n_events: 3
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
@@ -49,7 +50,7 @@ n_actus: 2
 <h6>Conférences </h6>
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.event-network limit:page.n_actus -%}
+   {%- for post in site.categories.event limit:page.n_actus -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
@@ -71,7 +72,7 @@ n_actus: 2
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news-network limit:page.n_actus -%}
+   {%- for post in site.categories.event-network limit:page.n_events -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
