@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Présentation de la réunion des membres du réseau"
+title:  "Présentation de la réunion des membres du réseau 2025"
 date:   2025-12-18 08:00 +0100
 categories: event-network
 tags: slides
