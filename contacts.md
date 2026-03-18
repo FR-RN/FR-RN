@@ -11,30 +11,30 @@ La reproductibilité est un sujet qui vous intéresse ?
 
 Vous pouvez :
 
-## Vous informer
-* vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) pour être informé
+### Vous informer
+Vous pouvez vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) pour être informé (voir la charte d'utilisation de la liste ci-dessous).
 
-## Diffuser des informations autour de vous
+### Diffuser des informations autour de vous
 * diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une [affiche en français](assets/pdfs/flyerA4_rechercherepro_FR.pdf) ou une [affiche en anglais](assets/pdfs/flyerA4_rechercherepro_EN.pdf), afficher un poster [français](assets/pdfs/poster_RR_FR.pdf) / [anglais](assets/pdfs/poster_RR_EN.pdf)
 
-## Participer à des animations
+### Participer à des animations
 * animer une [sensibilisation dans votre laboratoire](/training/#ateliers)
 * proposer une sensibilisation aux doctorants de votre école doctorale
 * rédiger une fiche de bonnes pratiques spécifiques à votre discipline
 
-## Participer à un groupe de travail
+### Participer à un groupe de travail
 * participer à un [groupe de travail](/steering/#gt)
 * proposer un nouveau groupe de travail
 
 N'hésitez pas à nous rejoindre ou à nous contacter : contact@recherche-reproductible.fr !
 
-## La liste de diffusion
-### Bonnes pratiques
+# La liste de diffusion
+## Bonnes pratiques
 La [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) est dédiée à **la diffusion d'informations relatives à la recherche reproductible (publications, évènements, outils, bonnes pratiques, etc)** aux annonces et partages en lien avec ce thème.
 
 Pour des discussions deviennent plus technique ou donnent lieux à des échanges approfondis, nous vous invitons à rejoindre le canal de discussion rocket chat de l'ESR en suivant ce lien : https://rocket.esup-portail.org/invite/M4nsDJ (accessible après authentification institutionnelle), et ainsi participer aux discussions en cours.
 
-### Charte d'utilisation de la liste de diffusion {#charte}
+## Charte d'utilisation de la liste de diffusion {#charte}
 
 Cette liste est dédiée à la diffusion d'informations relatives à la recherche reproductible : publications, évènements, partage d'outils et de bonnes pratiques, etc ....
 
