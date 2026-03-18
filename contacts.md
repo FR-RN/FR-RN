@@ -17,7 +17,7 @@ N'hésitez pas à nous contacter : contact@recherche-reproductible.fr !
 ### Bonnes pratiques
 La [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) est dédiée à **la diffusion d'informations relatives à la recherche reproductible (publications, évènements, outils, bonnes pratiques, etc)** aux annonces et partages en lien avec ce thème.
 
-Pour des discussions deviennent plus technique ou donnent lieux à des échanges approfondis, nous vous invitons à rejoindre le canal de discussion rocket chat de l'ESR en suivant ce lien : https://rocket.esup-portail.org/invite/M4nsDJ (accessible après authentification institutionnelle), et ainsi participer aux discussions en cours.
+Pour des discussions deviennent plus technique ou donnent lieux à des échanges approfondis, nous vous invitons à rejoindre le canal de discussion rocket chat de l'ESR en suivant ce lien : [https://rocket.esup-portail.org/invite/M4nsDJ](https://rocket.esup-portail.org/invite/M4nsDJ) (accessible après authentification institutionnelle), et ainsi participer aux discussions en cours.
 
 ### Charte d'utilisation de la liste de diffusion {#charte}
 
