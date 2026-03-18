@@ -26,7 +26,6 @@ Cette liste est dédiée à la diffusion d'informations relatives à la recherch
 Afin de maintenir la qualité et l'utilité de nos discussions, nous vous invitons à respecter les quelques règles suivantes :
 
 1. Objet de la liste et public cible
-
 Cette liste concerne :
 
     - Les questions méthodologiques sur la recherche reproductible
@@ -40,12 +39,10 @@ Cette liste concerne :
 - Le ton doit être courtois et les échanges constructifs. Les attaques personnelles sont proscrites.
 
 3. Threads et archivage
-
 - Pour les discussions sur un sujet technique, envisagez de passer sur un outil dédié: le canal rocket chat de l'ESR en suivant le lien d'invitation : https://rocket.esup-portail.org/invite/M4nsDJ
 - Les messages sont archivés : ne partagez pas d'informations sensibles
 
 4. Modération
-
 La liste n'est pas modérée pour les membres. En cas de doute sur la pertinence d'un message, contactez les modérateurs en privé avant publication.
 
 En contribuant à cette liste, vous participez à la construction de standards ouverts pour une science plus fiable et transparente. Merci de veiller à la qualité de nos échanges collectifs.
