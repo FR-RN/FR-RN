@@ -2,7 +2,7 @@
 layout: post
 title: "Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France"
 date: 2026-03-20 14:00 +0100
-categories: webinaires
+categories: past-webinaires
 tags: slides
 ---
 **Sebastian Hörl**,
