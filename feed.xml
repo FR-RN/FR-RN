@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-03-25T12:55:04+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Journées du Réseau Français de Recherche Reproductible 2026</title><link href="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible 2026" /><published>2026-05-19T07:00:00+00:00</published><updated>2026-05-19T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html"><![CDATA[<p><strong><a href="https://jrfrr-2026.sciencesconf.org/registration?lang=fr">Les inscriptions sont ouvertes !</a></strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-03-25T12:59:53+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Journées du Réseau Français de Recherche Reproductible 2026</title><link href="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible 2026" /><published>2026-05-19T07:00:00+00:00</published><updated>2026-05-19T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html"><![CDATA[<p><strong><a href="https://jrfrr-2026.sciencesconf.org/registration?lang=fr">Les inscriptions sont ouvertes !</a></strong></p>
 
 <p>Les journées du Réseau Français de la Recherche Reproductible auront lieu du 19 au 21 Mai 2026 sur le Campus Victoire à Bordeaux. Il s’agit d’un moment important pour la consolidation du réseau et le dynamisme des collaborations émergentes. Ce colloque fait suite aux journées organisées à Paris en 2023, à Grenoble en 2024 et à Lyon en 2025.</p>
 
@@ -7,7 +7,19 @@
 <p>Venez échanger autour de la reproductibilité et participer aux échanges de bonnes pratiques !</p>
 
 <p>Vous pouvez retourver le <strong>programme</strong> provisoire sur le <a href="https://jrfrr-2026.sciencesconf.org/">site des journées</a>. 
-Les inscriptions sont ouvertes sur <a href="https://jrfrr-2026.sciencesconf.org/registration?lang=fr">ce lien</a> !  Elles sont gratuites mais obligatoires pour des raisons de logistiques. En particulier, le premier jour un tutoriel devra être choisi parmi deux possibilités.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><category term="journées" /><summary type="html"><![CDATA[Les inscriptions sont ouvertes !]]></summary></entry><entry><title type="html">Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</title><link href="https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport.html" rel="alternate" type="text/html" title="Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France" /><published>2026-03-20T13:00:00+00:00</published><updated>2026-03-20T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport</id><content type="html" xml:base="https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport.html"><![CDATA[<p><strong>Sebastian Hörl</strong>,
+Les inscriptions sont ouvertes sur <a href="https://jrfrr-2026.sciencesconf.org/registration?lang=fr">ce lien</a> !  Elles sont gratuites mais obligatoires pour des raisons de logistiques. En particulier, le premier jour un tutoriel devra être choisi parmi deux possibilités.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="event-network" /><category term="journées" /><summary type="html"><![CDATA[Les inscriptions sont ouvertes !]]></summary></entry><entry><title type="html">Qu’est ce que des Replication Games ? Pour qui et pourquoi ?</title><link href="https://www.recherche-reproductible.fr//webinaires/2026/04/03/replication-games.html" rel="alternate" type="text/html" title="Qu’est ce que des Replication Games ? Pour qui et pourquoi ?" /><published>2026-04-03T13:00:00+00:00</published><updated>2026-04-03T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//webinaires/2026/04/03/replication-games</id><content type="html" xml:base="https://www.recherche-reproductible.fr//webinaires/2026/04/03/replication-games.html"><![CDATA[<p><strong>Paolo Corsetto</strong> (INRAE, UMR GAEL Grenoble) et <strong>Valérie Orozco</strong> (INRAE, UMR TSE-R Toulouse)</p>
+
+<p>Titre : Qu’est ce que des Replication Games ? Pour qui et pourquoi ?</p>
+
+<p><em>Résumé : Ces événements réunissent des chercheurs, ingénieurs et doctorants, pour reproduire, en une journée, des études publiées dans des revues scientifiques de premier plan. L’objectif est de vérifier la robustesse et la fiabilité des résultats de recherche, un enjeu central pour la crédibilité de la science. Les Replication Games ont lieu plusieurs fois par an, dans différents pays, et s’adressent à des chercheurs de tous niveaux.
+Nous vous proposons un retour d’expérience autour de deux évènements organisés par l’Institute 4 Replication : un à Grenoble (juin 2024) et un à Paris (oct. 2025). Pour le premier évènement, des membres INRAE ont pris part à l’expérience et ont reproduit des articles en économie expérimentale, en marge de la conférence ASFEE 2024. Dans le deuxième cas, ce sont des membres du réseau de recherche reproductible qui se sont prêtés au jeu, rassemblés à Paris dans les locaux de l’Inria. 
+Vous souhaitez en savoir plus sur ces Replication Games, leur intérêt ? Vous souhaitez en organiser un dans votre laboratoire ? Ce webinaire est fait pour vous !</em></p>
+
+<p>Le webinaire aura lieu sur ce lien :
+<a href="https://univ-eiffel.zoom.us/j/85289178546">https://univ-eiffel.zoom.us/j/85289178546</a></p>
+
+<p>ID de réunion : 852 8917 8546
+Mot de passe : mVAJ1TbM</p>]]></content><author><name>Recherche Reproductible</name></author><category term="webinaires" /><category term="slides" /><summary type="html"><![CDATA[Paolo Corsetto (INRAE, UMR GAEL Grenoble) et Valérie Orozco (INRAE, UMR TSE-R Toulouse) Titre : Qu’est ce que des Replication Games ? Pour qui et pourquoi ? Résumé : Ces événements réunissent des chercheurs, ingénieurs et doctorants, pour reproduire, en une journée, des études publiées dans des revues scientifiques de premier plan. L’objectif est de vérifier la robustesse et la fiabilité des résultats de recherche, un enjeu central pour la crédibilité de la science. Les Replication Games ont lieu plusieurs fois par an, dans différents pays, et s’adressent à des chercheurs de tous niveaux. Nous vous proposons un retour d’expérience autour de deux évènements organisés par l’Institute 4 Replication : un à Grenoble (juin 2024) et un à Paris (oct. 2025). Pour le premier évènement, des membres INRAE ont pris part à l’expérience et ont reproduit des articles en économie expérimentale, en marge de la conférence ASFEE 2024. Dans le deuxième cas, ce sont des membres du réseau de recherche reproductible qui se sont prêtés au jeu, rassemblés à Paris dans les locaux de l’Inria. Vous souhaitez en savoir plus sur ces Replication Games, leur intérêt ? Vous souhaitez en organiser un dans votre laboratoire ? Ce webinaire est fait pour vous ! Le webinaire aura lieu sur ce lien : https://univ-eiffel.zoom.us/j/85289178546 ID de réunion : 852 8917 8546 Mot de passe : mVAJ1TbM]]></summary></entry><entry><title type="html">Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</title><link href="https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport.html" rel="alternate" type="text/html" title="Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France" /><published>2026-03-20T13:00:00+00:00</published><updated>2026-03-20T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport</id><content type="html" xml:base="https://www.recherche-reproductible.fr//webinaires/2026/03/20/simulations-multi-agents-transport.html"><![CDATA[<p><strong>Sebastian Hörl</strong>,
 Titre : Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</p>
 
 <p><em>Résumé : 
@@ -189,88 +201,4 @@ dans la science : analyser les enjeux et identifier les solutions”</strong>, o
 Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, [envoyez-nous un courriel](mailto:contact@recherche-reproductible.fr) !
 
 Vous trouverez plus d'information sur le site du réseau [Recherche Reproductible](https://recherche-reproductible.fr/) et vous pouvez vous abonner à la liste de diffusion : [recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible).
-</a></center>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°9]]></summary></entry><entry><title type="html">Newsletter d’Octobre 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html" rel="alternate" type="text/html" title="Newsletter d’Octobre 2025" /><published>2025-10-15T12:00:00+00:00</published><updated>2025-10-15T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/10/15/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n8">Newsletter du réseau Recherche Reproductible N°8</h1>
-
-<h2 id="le-mot-de-la-rédaction-">Le mot de la rédaction ….</h2>
-
-<p>Nous souhaitons la bienvenue à tous les membres qui ont rejoint le réseau cette année et nous les remercions de l’intérêt porté à nos activités !</p>
-
-<p>Les moyens de participer concrètement sont multiples : vous pouvez participer au collège animation en proposant des sujets de wébinaires ou à un groupe de travail en participant à la rédaction de fiches de bonnes pratiques, en animant une<a href="https://www.recherche-reproductible.fr/training/#ateliers&quot;">sensibilisation</a> dans votre laboratoire, faire la promotion des <a href="https://www.recherche-reproductible.fr/training/#MOOCs">MOOCs</a> auprès de vos doctorants ou bien encore nous faire remonter des évènements autour de la reproductibilité dont vous avez connaissance !</p>
-
-<p>Bonne continuation à tous !</p>
-
-<h2 id="manifestations">Manifestations</h2>
-
-<ul>
-  <li>
-    <p>La <a href="https://www.wcrif.org/">World Conference on Research Integrity (WCRI 2026)</a> se tiendra à Vancouver, Canada, du 3 au 6 mai 2026.
-La date limite pour la soumission des résumés  (350 mots maximum) pour des communications orales ou des posters est fixée au 15 octobre 2025.
-Détails et soumission sur le <a href="https://wcri2026.org/call-for-abstracts/">site de l’appel</a>.</p>
-  </li>
-  <li>
-    <p>L’université Grenoble Alpes a inauguré le premier <a href="https://code.gouv.fr/fr/blog/definition-ospo/">OSPO (Open Science
-Program Office)</a> académique français. La
- <a href="https://scienceouverte.univ-grenoble-alpes.fr/a-propos/cellule-data-grenoble-alpes/">Cellule Codes Données Grenoble Alpes</a> est en charge d’opérer ce
-programme et d’accompagner les scientifiques dans leurs développements
-de logiciels open source dans le contexte de la science ouverte. Les
-supports des présentations sont disponibles sur le site <a href="https://ospo-uga.sciencesconf.org/"> de la journée </a>.</p>
-  </li>
-  <li>
-    <p>Une formation en ligne sur la reproductiblité qui pourrait intéresser certains d’entre vous : <a href="https://openplato.eu/blocks/catalog/detail.php?id=120">https://openplato.eu/blocks/catalog/detail.php?id=120</a>.</p>
-  </li>
-</ul>
-
-<h2 id="vie-du-réseau">Vie du réseau</h2>
-<ul>
-  <li>
-    <p>Les <strong>vidéos des derniers wébinaires</strong> sont en ligne !</p>
-  </li>
-  <li>
-    <p>La vidéo de la demi-journée sur la “reproductibilité pendant la thèse” organisée le 18/09/2025 à 14h est en ligne <a href="https://videos.univ-grenoble-alpes.fr/video/34125-video1921997025mp4/">sur ce lien</a>.
-Trois doctorant.e.s ont évoqué leur façon d’aborder la reproductibilité pendant leur doctorat avec des thématiques diverses.</p>
-  </li>
-  <li>
-    <p>La vidéo du wébinaire “Expérimentation animale et 3R : la nécessité d’une recherche reproductible” animé par Marc Le Bert est disponible sur <a href="https://www.canal-u.tv/chaines/rfrr/experimentation-animale-et-3r-la-necessite-d-une-recherche-reproductible">ce lien</a>.</p>
-  </li>
-  <li>
-    <p><a href="https://i4replication.org/blog%20Games.html">Replication Games</a> :
-le réseau a organisé une journée de Replications Games avec l’Institute for replications dans les locaux d’Inria Paris  le 3 Octobre 2025, l’occasion pour les participants de tester une replication d’article de leur choix parmi le panel proposé. L’ambiance studieuse a permis de se confronter à la réalité de la reproductiblité et de la replicabilité ! Le rapport final par équipe est en phase de finalisation : nous ferons un post dédié sur le site très bientôt !</p>
-  </li>
-</ul>
-
-<h2 id="publications">Publications</h2>
-
-<ul>
-  <li>
-    <p><a href="&quot;https://hal.science/hal-04925959v1">Reproducible research policies and software/data management in scientific computing journals: a survey, discussion, and perspectives</a>, Jose Armando Hernandez, Miguel Colom <em>Frontiers in Computer Science</em>, 2025, 6.</p>
-  </li>
-  <li>
-    <p><a href="https://dl.acm.org/doi/10.1109/MSR.2019.00077">A large-scale study about quality and reproducibility of jupyter notebooks</a>, João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo, Juliana Freire, <em>ACM</em>, <a href="https://doi.org/10.1109/MSR.2019.00077">DOI</a></p>
-  </li>
-  <li>
-    <p>Une initiative de l’Université de Lorraine : <a href="https://zenodo.org/records/17153675">Pour une recherche lorraine plus reproductible, intègre et ouverte</a></p>
-  </li>
-  <li>
-    <p><a href="https://arxiv.org/abs/2508.20747">An analysis of the effects of open science indicators on citations in the French Open Science Monitor</a>, Giovanni Colavizza (University of Copenhagen, Denmark), Lauren Cadwallader (PLOS, United States), Iain Hrynaszkiewicz (PLOS, United States), <a href="https://doi.org/10.48550/arXiv.2508.20747">DOI</a>.</p>
-  </li>
-  <li>
-    <p><a href="https://www.nature.com/articles/d41586-025-03196-0">Stop treating code like an afterthought: record, share and value it
-</a>. Scientists, research institutions, funders, libraries and publishers must all improve software practices, Roberto Di Cosmo, Sabrina Granger, Konrad Hinsen, Nicolas Jullien, Daniel Le Berre, Violaine Louvet, Camille Maumet, Clémentine Maurice, Raphaël Monat &amp; Nicolas P. Rougier, <em>Nature 646, 284-286 (2025)</em>, <a href="https://doi.org/10.1038/d41586-025-03196-0">DOI</a>, <a href="https://rdcu.be/eJQLM">lien vers l’article</a>.</p>
-  </li>
-</ul>
-
-<center>
-  <p style="padding-left:20px;">
-<a href="https://www.linkedin.com/company/réseau-français-de-la-recherche-reproductible/">
-  🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;
-<a href="https://piaille.fr/@reproductible_fr">
-  🐘 Mastodon/Piaille</a>&nbsp;&nbsp;&nbsp;
-  🌀 Bluesky : @reproductible-fr.bsky.social&lt;/a&gt;&nbsp;&nbsp;&nbsp;
-<a href="https://www.canal-u.tv/chaines/rfrr">
-📺 chaîne Canal-U </a>
-</p>
-</center>
-
-<p>Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, <a href="mailto:contact@recherche-reproductible.fr">envoyez-nous un courriel</a> !</p>
-
-<p>Vous trouverez plus d’information sur le site du réseau <a href="https://recherche-reproductible.fr/">Recherche Reproductible</a> et vous pouvez vous abonner à la liste de diffusion : <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible">recherche-reproductible</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°8]]></summary></entry></feed>
+</a></center>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°9]]></summary></entry></feed>
