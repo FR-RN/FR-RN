@@ -2,7 +2,7 @@
 layout: page
 list_title: Dernières nouvelles
 n_posts: 8
-n_news: 1
+n_news: 2
 n_actus: 2
 n_events: 3
 ---
