@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-03-25T13:10:09+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Journées du Réseau Français de Recherche Reproductible 2026</title><link href="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible 2026" /><published>2026-05-19T07:00:00+00:00</published><updated>2026-05-19T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html"><![CDATA[<p><strong><a href="https://jrfrr-2026.sciencesconf.org/registration?lang=fr">Les inscriptions sont ouvertes !</a></strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-04-08T09:25:01+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">Journées du Réseau Français de Recherche Reproductible 2026</title><link href="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html" rel="alternate" type="text/html" title="Journées du Réseau Français de Recherche Reproductible 2026" /><published>2026-05-19T07:00:00+00:00</published><updated>2026-05-19T07:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026</id><content type="html" xml:base="https://www.recherche-reproductible.fr//event-network/2026/05/19/jrfrr-2026.html"><![CDATA[<p><strong><a href="https://jrfrr-2026.sciencesconf.org/registration?lang=fr">Les inscriptions sont ouvertes !</a></strong></p>
 
 <p>Les journées du Réseau Français de la Recherche Reproductible auront lieu du 19 au 21 Mai 2026 sur le Campus Victoire à Bordeaux. Il s’agit d’un moment important pour la consolidation du réseau et le dynamisme des collaborations émergentes. Ce colloque fait suite aux journées organisées à Paris en 2023, à Grenoble en 2024 et à Lyon en 2025.</p>
 
@@ -19,7 +19,51 @@ Vous souhaitez en savoir plus sur ces Replication Games, leur intérêt ? Vous s
 <a href="https://univ-eiffel.zoom.us/j/85289178546">https://univ-eiffel.zoom.us/j/85289178546</a></p>
 
 <p>ID de réunion : 852 8917 8546
-Mot de passe : mVAJ1TbM</p>]]></content><author><name>Recherche Reproductible</name></author><category term="webinaires" /><category term="slides" /><summary type="html"><![CDATA[Titre : Qu’est ce que des Replication Games ? Pour qui et pourquoi ? Résumé : Ces événements réunissent des chercheurs, ingénieurs et doctorants, pour reproduire, en une journée, des études publiées dans des revues scientifiques de premier plan. L’objectif est de vérifier la robustesse et la fiabilité des résultats de recherche, un enjeu central pour la crédibilité de la science. Les Replication Games ont lieu plusieurs fois par an, dans différents pays, et s’adressent à des chercheurs de tous niveaux. Nous vous proposons un retour d’expérience autour de deux évènements organisés par l’Institute 4 Replication : un à Grenoble (juin 2024) et un à Paris (oct. 2025). Pour le premier évènement, des membres INRAE ont pris part à l’expérience et ont reproduit des articles en économie expérimentale, en marge de la conférence ASFEE 2024. Dans le deuxième cas, ce sont des membres du réseau de recherche reproductible qui se sont prêtés au jeu, rassemblés à Paris dans les locaux de l’Inria. Vous souhaitez en savoir plus sur ces Replication Games, leur intérêt ? Vous souhaitez en organiser un dans votre laboratoire ? Ce webinaire est fait pour vous ! Ce webinaire sera animé par Paolo Crosetto (INRAE, UMR GAEL Grenoble) et Valérie Orozco (INRAE, UMR TSE-R Toulouse). Il aura lieu sur ce lien : https://univ-eiffel.zoom.us/j/85289178546 ID de réunion : 852 8917 8546 Mot de passe : mVAJ1TbM]]></summary></entry><entry><title type="html">Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2026/03/20/simulations-multi-agents-transport.html" rel="alternate" type="text/html" title="Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France" /><published>2026-03-20T13:00:00+00:00</published><updated>2026-03-20T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2026/03/20/simulations-multi-agents-transport</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2026/03/20/simulations-multi-agents-transport.html"><![CDATA[<p><strong>Sebastian Hörl</strong>,
+Mot de passe : mVAJ1TbM</p>]]></content><author><name>Recherche Reproductible</name></author><category term="webinaires" /><category term="slides" /><summary type="html"><![CDATA[Titre : Qu’est ce que des Replication Games ? Pour qui et pourquoi ? Résumé : Ces événements réunissent des chercheurs, ingénieurs et doctorants, pour reproduire, en une journée, des études publiées dans des revues scientifiques de premier plan. L’objectif est de vérifier la robustesse et la fiabilité des résultats de recherche, un enjeu central pour la crédibilité de la science. Les Replication Games ont lieu plusieurs fois par an, dans différents pays, et s’adressent à des chercheurs de tous niveaux. Nous vous proposons un retour d’expérience autour de deux évènements organisés par l’Institute 4 Replication : un à Grenoble (juin 2024) et un à Paris (oct. 2025). Pour le premier évènement, des membres INRAE ont pris part à l’expérience et ont reproduit des articles en économie expérimentale, en marge de la conférence ASFEE 2024. Dans le deuxième cas, ce sont des membres du réseau de recherche reproductible qui se sont prêtés au jeu, rassemblés à Paris dans les locaux de l’Inria. Vous souhaitez en savoir plus sur ces Replication Games, leur intérêt ? Vous souhaitez en organiser un dans votre laboratoire ? Ce webinaire est fait pour vous ! Ce webinaire sera animé par Paolo Crosetto (INRAE, UMR GAEL Grenoble) et Valérie Orozco (INRAE, UMR TSE-R Toulouse). Il aura lieu sur ce lien : https://univ-eiffel.zoom.us/j/85289178546 ID de réunion : 852 8917 8546 Mot de passe : mVAJ1TbM]]></summary></entry><entry><title type="html">Newsletter d’Avril 2026</title><link href="https://www.recherche-reproductible.fr//newsletter/2026/04/02/newsletter.html" rel="alternate" type="text/html" title="Newsletter d’Avril 2026" /><published>2026-04-02T12:00:00+00:00</published><updated>2026-04-02T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2026/04/02/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2026/04/02/newsletter.html"><![CDATA[<h1 id="newsletter-réseau-recherche-reproductible">Newsletter réseau recherche reproductible</h1>
+<h2 id="avril-2026">Avril 2026</h2>
+
+<h3 id="manifestations-à-venir-ou-enregistrées">Manifestations à venir ou enregistrées</h3>
+
+<ul>
+  <li>Grande <strong>conférence</strong> des archives Poincaré : David TEIRA, Universidad Nacional de Educación a Distancia
+(Madrid) : <a href="https://www.youtube.com/watch?v=4_h2fwuUNgw">Une crise de reproductibilité dans la vérification des faits politiques</a>, 6 décembre 2023.</li>
+  <li><strong>Webinaire</strong> [EcoDoR](https://atelier-ecodor.edu.umontpellier.fr/ : Software Heritage &amp; reproductiblité : à revoir <a href="https://www.canal-u.tv/chaines/ecodor/webinaire-software-heritage-reproductibilite">sur ce lien</a>.</li>
+  <li><strong>Atelier</strong> sur la reproductibilité et les défis futurs du réseau espagnol : programme et inscription à venir sur <a href="https://sprn.es/eventos/workshop-on-reproducibility-and-sprn-future-challenges/">le site du réseau espagnol</a>, le 21 mai 2026.</li>
+</ul>
+
+<h3 id="vie-du-réseau">Vie du réseau</h3>
+
+<ul>
+  <li>Le réseau se dote d’une <strong>charte d’utilisation de la liste de diffusion</strong> que vous pouvez retrouver <a href="https://www.recherche-reproductible.fr/contacts/#charte">sur ce lien</a>. Les discussions sur les sujets techniques sont encouragées sur le canal Rocket Chat de l’ESUP <a href="https://rocket.esup-portail.org/invite/AKvriL">sur ce lien</a> : rejoignez le canal et échangez vos idées !</li>
+  <li>Le prochain webinaire <strong>Qu’est ce que des Replication Games ? Pour qui et pourquoi ?</strong> aura lieu le 3 avril 2026. Il sera animé par Paolo Crosetto et Valérie Orozco, sous la forme d’un retour d’expérience sur les sessions organisées à Grenoble en 2024 et à Paris en octobre 2025. Plus d’informations sur <a href="https://www.recherche-reproductible.fr/webinaires/2026/04/03/replication-games.html">ce lien</a>.</li>
+  <li>Le <strong>webinaire</strong> animé par Sebastian Hörl le 20 mars 2026 est en ligne, <strong>Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</strong> : <a href="https://www.recherche-reproductible.fr/past-webinaires/2026/03/20/simulations-multi-agents-transport.html">liens de la vidéo et de la présentation</a>.</li>
+  <li><strong>Les inscriptions pour les journées du réseau 2026 sont toujours ouvertes!</strong> Les journées du réseau auront lieu cette année à Bordeaux du 19 au 21 Mai. Le programme est encore provisoire mais vous pouvez d’ores et déjà vous inscrire en suivant <a href="https://jrfrr-2026.sciencesconf.org">ce lien</a>. Nous vous attendons nombreux! Pour tout renseignement, n’hésitez pas à nous contacter.</li>
+</ul>
+
+<h3 id="publications">Publications</h3>
+
+<ul>
+  <li>La <strong>troisième session</strong> du <a href="https://www.fun-mooc.fr/fr/cours/reproducible-research-ii-practices-and-tools-for-managing-comput/">MOOC recherche reproductible II</a> ouvrira le 5 mai 2026.</li>
+  <li><a href="https://www.cnrs.fr/fr/actualite/quest-ce-que-la-science-ouverte-change-aux-metiers-de-la-recherche">Qu’est-ce que la science ouverte change aux métiers de la recherche ?</a>, le 4ième article d’une série de cinq sur <a href="https://www.cnrs.fr/fr/actualite/recherche-le-futur-deja-commence">le futur de la recherche</a> avec les interventions de Marin Dacos et Pierre Poulain.</li>
+  <li><a href="https://www.ouvrirlascience.fr/faciliter-la-documentation-des-donnees-grace-aux-metadonnees-dans-un-projet-de-recherche/">Faciliter la documentation des données grâce aux métadonnées dans un projet de recherche</a> : le document sous-forme de check-list est en ligne sur le site <a href="https://www.ouvrirlascience.fr/">ouvrir la science</a>.</li>
+  <li>ENCORE: a practical implementation to improve reproducibility and transparency of computational research, van Kampen, A.H.C., Mahamune, U., Jongejan, A. et al.  <i>Nat Commun 15</i>, 8117 (2024), <a href="https://doi.org/10.1038/s41467-024-52446-8">DOI</a>.</li>
+</ul>
+
+<center>
+  <p style="padding-left:20px;">
+<a href="https://www.linkedin.com/company/réseau-français-de-la-recherche-reproductible/">
+  🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://piaille.fr/@reproductible_fr">
+  🐘 Mastodon/Piaille</a>&nbsp;&nbsp;&nbsp;
+  🌀 Bluesky : @reproductible-fr.bsky.social&lt;/a&gt;&nbsp;&nbsp;&nbsp;
+<a href="https://www.canal-u.tv/chaines/rfrr">
+📺 chaîne Canal-U </a>
+</p>
+</center>
+
+<p>Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, <a href="mailto:contact@recherche-reproductible.fr">envoyez-nous un courriel</a> !</p>
+
+<p>Vous trouverez plus d’information sur le site du réseau <a href="https://recherche-reproductible.fr/">Recherche Reproductible</a> et vous pouvez vous abonner à la liste de diffusion : <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible">recherche-reproductible</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter réseau recherche reproductible Avril 2026]]></summary></entry><entry><title type="html">Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2026/03/20/simulations-multi-agents-transport.html" rel="alternate" type="text/html" title="Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France" /><published>2026-03-20T13:00:00+00:00</published><updated>2026-03-20T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2026/03/20/simulations-multi-agents-transport</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2026/03/20/simulations-multi-agents-transport.html"><![CDATA[<p><strong>Sebastian Hörl</strong>,
 Titre : Populations synthétiques et simulations multi-agents du système de transport : reproductibilité et cas d’usage en France</p>
 
 <p><em>Résumé : 
@@ -119,86 +163,4 @@ In this presentation, Emmanuel Boakye, Executive Director of the African Reprodu
 <p><em>Résumé</em> :
 Bien que la microscopie à fluorescence soit omniprésente en recherche biomédicale, la prise en compte de la reproductibilité des méthodes de microscopie est insuffisante. Dans un monde où les images nécessitent d’être quantifiables, il est primordial de s’assurer que la variabilité des résultats provient de l’échantillon biologique et non des changements de performances de l’instrument. Le suivi des performances du microscope avec des outils et méthodes établis et acceptés par tous les acteurs du domaine (constructeurs des microscopes et utilisateurs) peut garantir la reproductibilité des résultats. C’est aujourd’hui l’objectif du consortium international QUAREP-LiMi, qui d’une part travaille sur la standardisation des mesures des performances des microscopes et des métadonnées et d’autre part vise à sensibiliser et former la communauté scientifique.</p>
 
-<p>L’enregistrement du wébinaire est à retrouver sur <a href="https://www.canal-u.tv/chaines/rfrr/microscopie-photonique-les-actions-de-la-communaute-pour-garantir-des-images">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><category term="slides" /><summary type="html"><![CDATA[Le 05 décembre 2025, Orestis Faklaris a animé un wébinaire sur la Microscopie photonique : les actions de la communauté pour garantir des images quantifiables et reproductibles. Orestis Faklaris, Responsable technique du plateau d’imagerie MRI du CRBM, Montpellier. Résumé : Bien que la microscopie à fluorescence soit omniprésente en recherche biomédicale, la prise en compte de la reproductibilité des méthodes de microscopie est insuffisante. Dans un monde où les images nécessitent d’être quantifiables, il est primordial de s’assurer que la variabilité des résultats provient de l’échantillon biologique et non des changements de performances de l’instrument. Le suivi des performances du microscope avec des outils et méthodes établis et acceptés par tous les acteurs du domaine (constructeurs des microscopes et utilisateurs) peut garantir la reproductibilité des résultats. C’est aujourd’hui l’objectif du consortium international QUAREP-LiMi, qui d’une part travaille sur la standardisation des mesures des performances des microscopes et des métadonnées et d’autre part vise à sensibiliser et former la communauté scientifique. L’enregistrement du wébinaire est à retrouver sur ce lien.]]></summary></entry><entry><title type="html">Newsletter de Décembre 2025</title><link href="https://www.recherche-reproductible.fr//newsletter/2025/12/03/newsletter.html" rel="alternate" type="text/html" title="Newsletter de Décembre 2025" /><published>2025-12-03T12:00:00+00:00</published><updated>2025-12-03T12:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//newsletter/2025/12/03/newsletter</id><content type="html" xml:base="https://www.recherche-reproductible.fr//newsletter/2025/12/03/newsletter.html"><![CDATA[<h1 id="newsletter-du-réseau-recherche-reproductible-n9">Newsletter du réseau Recherche Reproductible N°9</h1>
-
-<h2 id="manifestations">Manifestations</h2>
-
-<ul>
-  <li>
-    <p>Organisée simultanément par toutes les Plateformes Universitaires de Données coordonnée par l’<a href="https://progedo.hypotheses.org/">IR PROGEDO</a>, la <a href="https://progedo.hypotheses.org/">semaine DATA SHS</a> propose une série de présentations et d’ateliers, afin de sensibiliser la communauté scientifique à la culture des données quantitatives en sciences humaines et sociales du <strong>8 au 12 décembre 2025</strong>.</p>
-  </li>
-  <li>
-    <p>Le prochain numéro du cycle de webinaires « Parlons Science Ouverte » aura lieu le lundi <strong>8 décembre de 14h à 15h30</strong>. Il aura pour thème <strong>“Enjeux et bonnes pratiques du lien publications/données”</strong>. L’inscription est obligatoire. Plus d’informations sur <a href="https://cnrs.zoom.us/webinar/register/WN_afhKs4LOS7KQ_9Kda7fB5g">ce lien</a>.</p>
-  </li>
-  <li>
-    <p>La conférence <strong>“Renforcer la confiance du public
-dans la science : analyser les enjeux et identifier les solutions”</strong>, organisée par l’ANR et <a href="https://scienceeurope.org/">Science Europe</a> aura lieu à la BNF le <strong>11 décembre 2025</strong>, en mode hybride. <a href="https://anr.fr/fileadmin/documents/2025/ANR-Trust-in-Science-2025-fr.pdf">Le programme détaillé</a> est en ligne et l’incription se fait sur <a href="https://survey.scienceeurope.org/index.php/944448?newtest=Y&amp;lang=en">ce lien</a>.</p>
-  </li>
-  <li>
-    <p>Le <a href="https://www.couperin.org/">consortium Couperin</a> organise un wébinaire le <strong>16 décembre 2025</strong> de 14h00 à 16h00 et aura pour thème <strong>“Logiciels et données de la recherche, même combat ? Accompagner à la documentation, à la pérennisation et à la valorisation”</strong>. <a href="https://gtsodataweb13.sciencesconf.org/">Programme et inscriptions sur ce lien</a>.</p>
-  </li>
-</ul>
-
-<h2 id="vie-du-réseau">Vie du réseau</h2>
-<ul>
-  <li>
-    <p>Le prochain wébinaire aura lieu le <strong>5 décembre à 14h</strong> et aura pour thème “Microscopie photonique : les actions de la communauté pour garantir des images quantifiables et reproductibles”. Il sera animé par Orestis Faklaris, responsable technique du plateau d’imagerie MRI du CRBM de Montpellier.
-<a href="https://www.recherche-reproductible.fr/webinaires/2025/12/05/QUAREP-LiMi_Faklaris.html">Plus d’informations sur ce lien</a>.</p>
-  </li>
-  <li>
-    <p><strong>Cycle de présentation des réseaux étrangers</strong> :</p>
-
-    <ul>
-      <li>La <strong>vidéo de la présentation du réseau de reproductibilité brésilien</strong> est en ligne : <a href="https://www.canal-u.tv/chaines/rfrr/meet-the-networks-brazil">The Brazilian Reproducibility Network: past, present, and future</a>, animé par Eduarda Centeno.</li>
-      <li>Le <strong>prochain wébinaire</strong> aura lieu le <strong>12 décembre à 14h</strong>. Emmanuel Boakye nous présentera le réseau africain <a href="https://africanrn.org/">AREN</a> et les actions qui sont mises en place.
-<a href="https://www.recherche-reproductible.fr/webinaires/2025/12/12/AREN_Boakye.html">Plus d’informations sur ce lien</a>.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Le réseau vous convie à sa <strong>réunion annuelle</strong> en visioconférence. Elle aura lieu le <strong>18 décembre de 14h à 15h</strong> <a href="https://univ-grenoble-alpes-fr.zoom.us/j/92393400807?pwd=YtDZwMoxqMVG46RAJ9e3YBBdPlo2Pa.1">sur ce lien</a>. Ce sera l’occasion de partager un bilan des actions menées lors de cette année et de discuter des futures orientations.
-<strong>Nous vous attendons nombreux !</strong></p>
-  </li>
-</ul>
-
-<h2 id="publications">Publications</h2>
-
-<ul>
-  <li>
-    <p><em>Vincent Traag, Emer Brady, Philippe Vincent-Lamarre, Flavie Bidel, Cindy Lopes-Bento, Jens Peter Andersen, Carter Bloch</em>, The Matthew effect and early-career setbacks in research funding—a replication study. eLife 14:RP109042 <a href="https://doi.org/10.7554/eLife.109042.1">https://doi.org/10.7554/eLife.109042.1].</a></p>
-  </li>
-  <li>
-    <p><em>K. Maussang</em>, Données de recherche en recherches participatives - reproductibilité, réplicabilité, légitimité, 2024, <a href="https://hal.science/hal-04819903v1">https://hal.science/hal-04819903v1].</a></p>
-  </li>
-  <li>
-    <p><em>Camille Maumet</em>, Pratiquer la science ouverte vers une recherche reproductible, 2025, <a href="https://inria.hal.science/hal-05316389">https://inria.hal.science/hal-05316389].</a></p>
-  </li>
-</ul>
-
-<p><br />
-<br /></p>
-<center>	
-
-<a href="https://www.recherche-reproductible.fr/" target="_blank"><img src="https://membres-ljk.imag.fr/Celine.Acary-Robert/Images/Voeux_reseau_2025.png" width="400px" height="120px" />
-
-&lt;/center&gt;
-
-
-
-<center>
-  <p style="padding-left:20px;">
-<a href="https://www.linkedin.com/company/réseau-français-de-la-recherche-reproductible/">
-  🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;
-<a href="https://piaille.fr/@reproductible_fr">
-  🐘 Mastodon/Piaille</a>&nbsp;&nbsp;&nbsp;
-  🌀 Bluesky : @reproductible-fr.bsky.social&lt;/a&gt;&nbsp;&nbsp;&nbsp;
-<a href="https://www.canal-u.tv/chaines/rfrr">
-📺 chaîne Canal-U </a>
-</p>
-</center>
-
-
-
-Le réseau français de la recherche reproductible est un réseau national composé de scientifiques intéressés par l’étude des facteurs qui contribuent à la robustesse de la recherche, la promotion des activités de formation et la diffusion des bonnes pratiques ainsi que des recommandations. Les questions de reproductibilité touchent toutes les disciplines et le réseau vise une large représentation disciplinaire. Ce réseau est en pleine structuration et vise une large représentation disciplinaire : venez nous rejoindre ! Si vous souhaitez vous impliquer, [envoyez-nous un courriel](mailto:contact@recherche-reproductible.fr) !
-
-Vous trouverez plus d'information sur le site du réseau [Recherche Reproductible](https://recherche-reproductible.fr/) et vous pouvez vous abonner à la liste de diffusion : [recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible).
-</a></center>]]></content><author><name>Recherche Reproductible</name></author><category term="newsletter" /><summary type="html"><![CDATA[Newsletter du réseau Recherche Reproductible N°9]]></summary></entry></feed>
+<p>L’enregistrement du wébinaire est à retrouver sur <a href="https://www.canal-u.tv/chaines/rfrr/microscopie-photonique-les-actions-de-la-communaute-pour-garantir-des-images">ce lien</a>.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="past-webinaires" /><category term="slides" /><summary type="html"><![CDATA[Le 05 décembre 2025, Orestis Faklaris a animé un wébinaire sur la Microscopie photonique : les actions de la communauté pour garantir des images quantifiables et reproductibles. Orestis Faklaris, Responsable technique du plateau d’imagerie MRI du CRBM, Montpellier. Résumé : Bien que la microscopie à fluorescence soit omniprésente en recherche biomédicale, la prise en compte de la reproductibilité des méthodes de microscopie est insuffisante. Dans un monde où les images nécessitent d’être quantifiables, il est primordial de s’assurer que la variabilité des résultats provient de l’échantillon biologique et non des changements de performances de l’instrument. Le suivi des performances du microscope avec des outils et méthodes établis et acceptés par tous les acteurs du domaine (constructeurs des microscopes et utilisateurs) peut garantir la reproductibilité des résultats. C’est aujourd’hui l’objectif du consortium international QUAREP-LiMi, qui d’une part travaille sur la standardisation des mesures des performances des microscopes et des métadonnées et d’autre part vise à sensibiliser et former la communauté scientifique. L’enregistrement du wébinaire est à retrouver sur ce lien.]]></summary></entry></feed>
