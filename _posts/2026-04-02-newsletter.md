@@ -1,17 +1,16 @@
 ---
 layout: page
-title:  "Newsletter d'Avril 2026"
+title:  "Newsletter d'avril 2026"
 date:   2026-04-02 13:00 +0100
 categories: newsletter
 ---
 # Newsletter réseau recherche reproductible 
-## Avril 2026
 
 ### Manifestations à venir ou enregistrées
 
-* Grande **conférence** des archives Poincaré : David TEIRA, Universidad Nacional de Educación a Distancia
+* Grande <b>conférence</b> des archives Poincaré : David TEIRA, Universidad Nacional de Educación a Distancia
 (Madrid) : [Une crise de reproductibilité dans la vérification des faits politiques](https://www.youtube.com/watch?v=4_h2fwuUNgw), 6 décembre 2023.
-* **Webinaire** [EcoDoR](https://atelier-ecodor.edu.umontpellier.fr/ : Software Heritage & reproductiblité : à revoir [sur ce lien](https://www.canal-u.tv/chaines/ecodor/webinaire-software-heritage-reproductibilite).
+* **Webinaire** [EcoDoR](https://atelier-ecodor.edu.umontpellier.fr/) : [Software Heritage & reproductiblité à revoir sur ce lien](https://www.canal-u.tv/chaines/ecodor/webinaire-software-heritage-reproductibilite).
 * **Atelier** sur la reproductibilité et les défis futurs du réseau espagnol : programme et inscription à venir sur [le site du réseau espagnol](https://sprn.es/eventos/workshop-on-reproducibility-and-sprn-future-challenges/), le 21 mai 2026. 
 
 
