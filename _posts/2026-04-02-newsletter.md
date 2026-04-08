@@ -10,7 +10,7 @@ categories: newsletter
 
 * Grande <strong>conférence</strong> des archives Poincaré : David TEIRA, Universidad Nacional de Educación a Distancia
 (Madrid) : [Une crise de reproductibilité dans la vérification des faits politiques](https://www.youtube.com/watch?v=4_h2fwuUNgw), 6 décembre 2023.
-* **Webinaire** [EcoDoR](https://atelier-ecodor.edu.umontpellier.fr/) : [Software Heritage & reproductiblité à revoir sur ce lien](https://www.canal-u.tv/chaines/ecodor/webinaire-software-heritage-reproductibilite).
+* **Webinaire** [EcoDoR](https://atelier-ecodor.edu.umontpellier.fr/) : "Software Heritage & reproductiblité" à revoir sur [ce lien](https://www.canal-u.tv/chaines/ecodor/webinaire-software-heritage-reproductibilite).
 * **Atelier** sur la reproductibilité et les défis futurs du réseau espagnol : programme et inscription à venir sur [le site du réseau espagnol](https://sprn.es/eventos/workshop-on-reproducibility-and-sprn-future-challenges/), le 21 mai 2026. 
 
 
