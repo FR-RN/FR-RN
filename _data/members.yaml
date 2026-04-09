@@ -80,26 +80,10 @@
   city: Bordeaux
   steering: true
   image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
-- name: Simon Tournier
-  url: https://simon.tournier.info
-  lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
-  city: Paris
 - name: Camille Maumet
   url: http://camillemaumet.com/
   city: Rennes
   lab: IRISA / Inria Rennes
-- name: Isabelle Boutron
-  url: null
-  city: Paris
-  lab: Centre de Recherche en Epidémiologie et Statistique (CRESS)
-- name: Elise Maigné
-  url: https://miat.inrae.fr/site/Elise_Maigné
-  city: Toulouse
-  lab: MIAT - INRAé
-- name: Thomas Moreau
-  url: https://tommoral.github.io
-  city: Saclay
-  lab: MIND
 - name: Fay Betsou
   url: https://research.pasteur.fr/en/member/fay-betsou/
   city: Paris
@@ -132,7 +116,7 @@
   lab: LIG
   steering: true
   image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
-- name: Frédéric Lemoine 1 
+- name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
   city: Paris
@@ -146,10 +130,6 @@
   url: https://www-ljk.imag.fr/spip.php?article68&idpersonne=5122
   lab: LJK - Laboratoire Jean Kuntzmann
   city: Grenoble
-- name: Christophe Pouzat
-  url: http://xtof.perso.math.cnrs.fr/
-  lab: Institut de Recherche Mathématique Avancée
-  city: Strasbourg
 - name: Simon Tournier
   url: https://simon.tournier.info
   lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
@@ -158,10 +138,6 @@
   url: null
   city: Grenoble
   lab: UAR GRICAD
-- name: Camille Maumet
-  url: http://camillemaumet.com/
-  city: Rennes
-  lab: IRISA / Inria Rennes
 - name: Isabelle Boutron
   url: null
   city: Paris
