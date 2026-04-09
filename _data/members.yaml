@@ -145,7 +145,6 @@
   city: Rennes
   lab: IRSET
   image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
-  city: Paris
   steering: true
 - name: Konrad Hinsen
   url: http://dirac.cnrs-orleans.fr/~hinsen
@@ -250,8 +249,6 @@
   url: https://mcolom.perso.math.cnrs.fr/
   city: Gif-Sur-Yvette
   lab: Centre Borelli
-- name: COPIL_FN.jpeg
-  steering: true
 - name: Frédéric Santos
   url: null
   city: Bordeaux
