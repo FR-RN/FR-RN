@@ -146,6 +146,7 @@
   url: https://www.reither.org/
   city: Rennes
   lab: IRSET
+  steering: true
 - name: Frédéric Santos
   url: null
   city: Bordeaux
