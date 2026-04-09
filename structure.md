@@ -32,7 +32,7 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
      {%if person.coord == true %}
      <td>
      {%if person.image %}
-     <img alt="{{ person.name }} image" src="{{ person.image }}" style="width: 100px; display:block;"/>
+     <img alt="{{ person.name }} image" src="{{ person.image }}" style="width: 100px; display:block;object-position: center;"/>
      {%endif%}
      {%if person.url %}
         <b><a href="{{ person.url }}"> {{ person.name }}</a></b>
