@@ -19,7 +19,7 @@ oat: center; margin-right: 1em;margin-left: 10em;" }
 # Membres du réseau
 
 Liste des scientifiques ayant exprimé un intérêt ou étant actifs autour des thématiques de la recherche reproductible.
-
+Si vous souhaitez appraitre sur cette page ou au contraire ne plus appraitre, merci d'envoyer un mail à contact[@]recherche-reproductible.fr
 {% for city in page.cities %}
 ## {{ city }}
   <ul>
