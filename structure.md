@@ -27,12 +27,12 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 
 ## Coordination du comité
 <table style="list-style-type: none;">
-<tr>
+<tr style="text-align:center">
 {% for person in site.data.members %}
      {%if person.coord == true %}
      <td>
      {%if person.image %}
-     <img alt="{{ person.name }} image" src="{{ person.image }}" style="width: 100px; display:block;object-position: center;"/>
+     <img alt="{{ person.name }} image" src="{{ person.image }}" style="width: 100px; display:block;"/>
      {%endif%}
      {%if person.url %}
         <b><a href="{{ person.url }}"> {{ person.name }}</a></b>
