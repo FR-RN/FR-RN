@@ -54,14 +54,6 @@
   url: http://johann.dreo.fr
   lab: Computational Systems Biomedicine
   city: Paris
-- name: Violaine Louvet
-  url: https://louvet.perso.math.cnrs.fr/
-  lab: LJK - Laboratoire Jean Kuntzmann
-  city: Grenoble
-- name: Franck Pérignon
-  url: https://www-ljk.imag.fr/spip.php?article68&idpersonne=5122
-  lab: LJK - Laboratoire Jean Kuntzmann
-  city: Grenoble
 - name: Dominique Muller
   url: https://www.dominique.muller.lippc2s.fr/
   lab: Laboratoire Interuniversitaire de Psychologie
@@ -104,10 +96,6 @@
   url: https://miat.inrae.fr/site/Elise_Maigné
   city: Toulouse
   lab: MIAT - INRAé
-- name: Gaëlle Leroux
-  url: https://cv.hal.science/gaelle-leroux
-  city: Lyon
-  lab: Centre de Recherche en Neurosciences de Lyon (CRNL)
 - name: Thomas Moreau
   url: https://tommoral.github.io
   city: Saclay
@@ -126,10 +114,6 @@
   lab: IRSET
   image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
   steering: true
-- name: Konrad Hinsen
-  url: http://dirac.cnrs-orleans.fr/~hinsen
-  lab: Centre de Biophysique Moléculaire
-  city: Orléans
 - name: Sacha Hodencq
   url: https://pad.lescommuns.org/SachaHodencq
   lab: Grenoble Electrical Engineering Laboratory (G2Elab)
@@ -162,11 +146,6 @@
   url: https://www-ljk.imag.fr/spip.php?article68&idpersonne=5122
   lab: LJK - Laboratoire Jean Kuntzmann
   city: Grenoble
-- name: Dominique Muller
-  url: https://www.dominique.muller.lippc2s.fr/
-  lab: Laboratoire Interuniversitaire de Psychologie
-  city: Grenoble
-  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg
 - name: Christophe Pouzat
   url: http://xtof.perso.math.cnrs.fr/
   lab: Institut de Recherche Mathématique Avancée
@@ -199,10 +178,6 @@
   url: https://tommoral.github.io
   city: Saclay
   lab: MIND
-- name: Fay Betsou
-  url: https://research.pasteur.fr/en/member/fay-betsou/
-  city: Paris
-  lab: CRBIP
 - name: Etienne Kornobis
   url: https://research.pasteur.fr/en/member/etienne-kornobis/
   city: Paris
