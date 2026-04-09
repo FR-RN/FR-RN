@@ -146,6 +146,114 @@
   url: https://www.reither.org/
   city: Rennes
   lab: IRSET
+  image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
+  city: Paris
+  coord: null
+- name: Konrad Hinsen
+  url: http://dirac.cnrs-orleans.fr/~hinsen
+  lab: Centre de Biophysique Moléculaire
+  city: Orléans
+- name: Sacha Hodencq
+  url: https://pad.lescommuns.org/SachaHodencq
+  lab: Grenoble Electrical Engineering Laboratory (G2Elab)
+  city: Grenoble
+- name: Hans Rocha Ijzerman
+  url: https://www.lippc2s.fr/archives/person/ijzerman-hans/
+  lab: Laboratoire Inter-universitaire de Psychologie
+  city: Grenoble
+- name: Johann Dreo
+  url: http://johann.dreo.fr
+  lab: Computational Systems Biomedicine
+  city: Paris
+- name: Arnaud Legrand
+  url: https://polaris.imag.fr/arnaud.legrand/
+  city: Grenoble
+  lab: LIG
+  steering: true
+  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
+- name: Frédéric Lemoine
+  url: https://research.pasteur.fr/en/member/frederic-lemoine/
+  lab: Institut Pasteur
+  city: Paris
+  coord: true
+  image: https://research.pasteur.fr/wp-content/uploads/2015/11/research_pasteur-frederic-lemoine-lemoine-frederic-26-small-crop-150x150.jpg
+- name: Violaine Louvet
+  url: https://louvet.perso.math.cnrs.fr/
+  lab: LJK - Laboratoire Jean Kuntzmann
+  city: Grenoble
+- name: Franck Pérignon
+  url: https://www-ljk.imag.fr/spip.php?article68&idpersonne=5122
+  lab: LJK - Laboratoire Jean Kuntzmann
+  city: Grenoble
+- name: Dominique Muller
+  url: https://www.dominique.muller.lippc2s.fr/
+  lab: Laboratoire Interuniversitaire de Psychologie
+  city: Grenoble
+#  steering: true
+  image: https://www.dominique.muller.lippc2s.fr/files/stacks-image-a11b4ca-431.jpg
+- name: Christophe Pouzat
+  url: http://xtof.perso.math.cnrs.fr/
+  lab: Institut de Recherche Mathématique Avancée
+  city: Strasbourg
+- name: Sébastien Rey-Coyrehourcq
+  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
+  lab: Laboratoire IDEES UMR6266
+  city: Rouen
+  steering: true
+  image: https://covprehension.org/img/about/sebrey.jpg
+- name: François Ric
+  url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
+  lab: Laboratoire de Psychologie  UR 4139
+  city: Bordeaux
+#  steering: true
+  image: https://labpsy.u-bordeaux.fr/application/files/cache/thumbnails/f93b29e8853140f7441fafbdc610ba94.png
+- name: Nicolas P. Rougier
+  url: https://www.labri.fr/perso/nrougier/
+  lab: Institute of Neurodegenerative Diseases
+  city: Bordeaux
+  steering: true
+  image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
+- name: Simon Tournier
+  url: https://simon.tournier.info
+  lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
+  city: Paris
+- name: Pierre-Antoine Bouttier
+  url: null
+  city: Grenoble
+  lab: UAR GRICAD
+- name: Camille Maumet
+  url: http://camillemaumet.com/
+  city: Rennes
+  lab: IRISA / Inria Rennes
+- name: Isabelle Boutron
+  url: null
+  city: Paris
+  lab: Centre de Recherche en Epidémiologie et Statistique (CRESS)
+- name: Elise Maigné
+  url: https://miat.inrae.fr/site/Elise_Maigné
+  city: Toulouse
+  lab: MIAT - INRAé
+- name: Gaëlle Leroux
+  url: https://cv.hal.science/gaelle-leroux
+  city: Lyon
+  lab: Centre de Recherche en Neurosciences de Lyon (CRNL)
+- name: Thomas Moreau
+  url: https://tommoral.github.io
+  city: Saclay
+  lab: MIND
+- name: Fay Betsou
+  url: https://research.pasteur.fr/en/member/fay-betsou/
+  city: Paris
+  lab: CRBIP
+- name: Etienne Kornobis
+  url: https://research.pasteur.fr/en/member/etienne-kornobis/
+  city: Paris
+  lab: Biomics
+- name: Miguel Colom
+  url: https://mcolom.perso.math.cnrs.fr/
+  city: Gif-Sur-Yvette
+  lab: Centre Borelli
+- name: COPIL_FN.jpeg
   steering: true
 - name: Frédéric Santos
   url: null
