@@ -54,12 +54,6 @@
   url: http://johann.dreo.fr
   lab: Computational Systems Biomedicine
   city: Paris
-- name: Arnaud Legrand
-  url: https://polaris.imag.fr/arnaud.legrand/
-  city: Grenoble
-  lab: LIG
-  steering: true
-  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
 - name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
@@ -192,23 +186,11 @@
   url: http://xtof.perso.math.cnrs.fr/
   lab: Institut de Recherche Mathématique Avancée
   city: Strasbourg
-- name: Sébastien Rey-Coyrehourcq
-  url: https://umr-idees.fr/laboratoire/annuaire/sebastien-rey-coyrehourcq
-  lab: Laboratoire IDEES UMR6266
-  city: Rouen
-  steering: true
-  image: https://covprehension.org/img/about/sebrey.jpg
 - name: François Ric
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
   lab: Laboratoire de Psychologie  UR 4139
   city: Bordeaux
   image: https://labpsy.u-bordeaux.fr/application/files/cache/thumbnails/f93b29e8853140f7441fafbdc610ba94.png
-- name: Nicolas P. Rougier
-  url: https://www.labri.fr/perso/nrougier/
-  lab: Institute of Neurodegenerative Diseases
-  city: Bordeaux
-  steering: true
-  image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
 - name: Simon Tournier
   url: https://simon.tournier.info
   lab: Institut de Recherche Saint Louis, Inserm US53, CNRS 2030
