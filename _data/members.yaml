@@ -50,10 +50,6 @@
   url: https://www.lippc2s.fr/archives/person/ijzerman-hans/
   lab: Laboratoire Inter-universitaire de Psychologie
   city: Grenoble
-- name: Johann Dreo
-  url: http://johann.dreo.fr
-  lab: Computational Systems Biomedicine
-  city: Paris
 - name: Dominique Muller
   url: https://www.dominique.muller.lippc2s.fr/
   lab: Laboratoire Interuniversitaire de Psychologie
@@ -69,7 +65,7 @@
   city: Rouen
   steering: true
   image: https://covprehension.org/img/about/sebrey.jpg
-- name: François Ric 1
+- name: François Ric
   url: https://labpsy.u-bordeaux.fr/Membres/Membres-titulaires-et-associes/Ric-Francois
   lab: Laboratoire de Psychologie  UR 4139
   city: Bordeaux
@@ -98,14 +94,6 @@
   lab: IRSET
   image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
   steering: true
-- name: Sacha Hodencq
-  url: https://pad.lescommuns.org/SachaHodencq
-  lab: Grenoble Electrical Engineering Laboratory (G2Elab)
-  city: Grenoble
-- name: Hans Rocha Ijzerman
-  url: https://www.lippc2s.fr/archives/person/ijzerman-hans/
-  lab: Laboratoire Inter-universitaire de Psychologie
-  city: Grenoble
 - name: Johann Dreo
   url: http://johann.dreo.fr
   lab: Computational Systems Biomedicine
