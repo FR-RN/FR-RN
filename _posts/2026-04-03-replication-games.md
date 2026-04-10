@@ -12,10 +12,8 @@ Titre : Qu'est ce que des Replication Games ? Pour qui et pourquoi ?
 Nous vous proposons un retour d'expérience autour de deux évènements organisés par l'Institute 4 Replication : un à Grenoble (juin 2024) et un à Paris (oct. 2025). Pour le premier évènement, des membres INRAE ont pris part à l'expérience et ont reproduit des articles en économie expérimentale, en marge de la conférence ASFEE 2024. Dans le deuxième cas, ce sont des membres du réseau de recherche reproductible qui se sont prêtés au jeu, rassemblés à Paris dans les locaux de l'Inria. 
 Vous souhaitez en savoir plus sur ces Replication Games, leur intérêt ? Vous souhaitez en organiser un dans votre laboratoire ? Ce webinaire est fait pour vous !*
 
-Ce webinaire sera animé par **Paolo Crosetto** (INRAE, UMR GAEL Grenoble) et **Valérie Orozco** (INRAE, UMR TSE-R Toulouse).
+Ce webinaire a été animé par **Paolo Crosetto** (INRAE, UMR GAEL Grenoble) et **Valérie Orozco** (INRAE, UMR TSE-R Toulouse).
 
-Il aura lieu sur ce lien :
-[https://univ-eiffel.zoom.us/j/85289178546](https://univ-eiffel.zoom.us/j/85289178546)
+L'enregistrement est disponible [sur ce lien](https://www.canal-u.tv/chaines/rfrr/qu-est-ce-que-des-replication-games-pour-qui-et-pourquoi) !
 
-ID de réunion : 852 8917 8546
-Mot de passe : mVAJ1TbM
+Vous pouvez retrouver la présentations de Valérie Orozco [en suivant ce lien](/assets/pdfs/Replication_Games_Intro_et_REX_RG_Paris_3_04_2026_orozco.pdf) et celle de Paolo Crosetto [sur ce lien](/assets/pdfs/Crosetto_PCI_webinar.pdf). 
