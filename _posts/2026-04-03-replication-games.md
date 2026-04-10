@@ -2,7 +2,7 @@
 layout: post
 title: "Qu'est ce que des Replication Games ? Pour qui et pourquoi ?"
 date: 2026-04-03 14:00 +0100
-categories: webinaires
+categories: past-webinaires
 tags: slides
 ---
 
