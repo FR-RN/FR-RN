@@ -22,6 +22,21 @@
 {"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Recherche Reproductible"},"dateModified":"2023-03-17T19:00:00+00:00","datePublished":"2023-03-17T19:00:00+00:00","description":"Computational models of infectious diseases have become valuable tools for research and the public health response against epidemic threats. The reproducibility of computational models has been limited, undermining the scientific process and possibly trust in modeling results and related response strategies, such as vaccination. We translated published reproducibility guidelines from a wide range of scientific disciplines into an implementation framework for improving reproducibility of infectious disease computational models. The framework comprises 22 elements that should be described, grouped into 6 categories: computational environment, analytical software, model description, model implementation, data, and experimental protocol. The framework can be used by scientific communities to develop actionable tools for sharing computational models in a reproducible way. Pokutnaya, D., Childers, B., Arcury-Quandt, A.E., Hochheiser, H., and Van Panhuis, W.G. 2023. An implementation framework to improve the transparency and reproducibility of computational models of infectious diseases. PLOS Computational Biology 19, 3, 1–9.","headline":"An implementation framework to improve the transparency and reproducibility of computational models of infectious diseases","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.recherche-reproductible.fr//publication/2023/03/17/infectious-diseases.org"},"url":"https://www.recherche-reproductible.fr//publication/2023/03/17/infectious-diseases.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://www.recherche-reproductible.fr//feed.xml" title="French Reproducible Research Network" />
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo-gates.u-ga.fr/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->  
 </head>
 <body><header class="site-header">
 
