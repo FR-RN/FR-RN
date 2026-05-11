@@ -996,7 +996,7 @@ p.feed-subscribe {
 
 .news {
   font-family: Roboto;
-  border: 3px solid #673794;
+  border: 1px solid #000090;
   background-color: #ff;
   padding: 0.2rem;
   width: 90%;
