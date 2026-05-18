@@ -17,8 +17,10 @@ n_events: 3
 
 ## News !
 
-<div class="news">
 Les journées du réseau vont bientôt commencer : [suivez le direct](https://jrfrr-2026.sciencesconf.org/) !
+
+
+<div class="news">
 
 <h6>  Wébinaires </h6>
   <ul class="post-list">
