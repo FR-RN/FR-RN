@@ -18,6 +18,8 @@ n_events: 3
 ## News !
 
 <div class="news">
+Les journées du réseau vont bientôt commencer : [suivez le direct](https://jrfrr-2026.sciencesconf.org/) !
+
 <h6>  Wébinaires </h6>
   <ul class="post-list">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -140,14 +142,14 @@ Les activités du réseau sont multiples et cherchent à toucher différents pub
 
 ## Comment contribuer ?
 
-La reproductibilité est un sujet qui vous intéresse ? 
+La reproductibilité est un sujet qui vous intéresse ?
 
 Vous pouvez :
-* vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) pour être informé 
+* vous abonner à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) pour être informé
 * diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une [affiche en français](assets/pdfs/flyerA4_rechercherepro_FR.pdf) ou une [affiche en anglais](assets/pdfs/flyerA4_rechercherepro_EN.pdf), afficher un poster [français](assets/pdfs/poster_RR_FR.pdf) / [anglais](assets/pdfs/poster_RR_EN.pdf)
 * animer une [sensibilisation dans votre laboratoire](/training/#ateliers)
-* proposer une sensibilisation aux doctorants de votre école doctorale 
-* rédiger une fiche de bonnes pratiques spécifiques à votre discipline 
+* proposer une sensibilisation aux doctorants de votre école doctorale
+* rédiger une fiche de bonnes pratiques spécifiques à votre discipline
 * participer à un [groupe de travail](/steering/#gt)
 * proposer un nouveau groupe de travail
 
