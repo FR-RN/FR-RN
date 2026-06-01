@@ -7,7 +7,7 @@ n_posts: 500
 siteNav: false
 
 ---
-Le [groupe de travail "Formations"](/gtravail/gt_formation) du réseau a pour mission principale de recenser et d'organiser des formations autour de la reproductibilité.
+Le [collège "Formations"](/collèges/c_formation) du réseau a pour mission principale de recenser et d'organiser des formations autour de la reproductibilité.
 En parallèle, des membres du réseau sont également impliqués dans plusieurs formations et ateliers autour de la reproductibilité :
 
 ## MOOCS
