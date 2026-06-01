@@ -85,5 +85,5 @@ Les collèges transverses sont articulés autour de 4 thématiques :
 Les groupes de travail, sont organisés autour d'une thématique précise et ont pour but de définir et diffuser les bonnes pratiques pour une science reproductible dans leur périmètre :
 
 * [GT Logiciel et environnements](/gtravail/gt_logiciel) : n'hésitez pas à rejoindre en vous abonnant à la [**liste de diffusion**](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
-* GT Psychologie
+* [GT Psychologie](/gtravail/gt_psycho) est un GT autour des enjeux de reproductiblité en psychologie : si vous souhaitez rejoindre ce groupe de travail, n’hésitez pas à vous inscrire à la [liste de diffusion du groupe psycho](https://groupes.renater.fr/sympa/info/recherche-reproductible-gtpsycho).
 * Le [GT notebook](https://gt-notebook.gitpages.huma-num.fr/site_quarto/) est un GT autour les enjeux et problématiques du Notebook, pris comme un objet complexe au sein du cycle des données de la recherche. Il n'est pas directement un GT du réseau mais nous entretenons des collaborations étroites avec ses membres.
