@@ -9,7 +9,7 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 <!--
 ![Structure réseau](../assets/images/RFRR_structure_02_2026.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 -->
-<img src="../assets/images/Structure_fr_nologo.png" alt="Structure" usemap="#workmap" width="400" height="400" style="display:block; margin-right: auto; margin-left:auto;">
+<img src="../assets/images/RFRR_structure_02_2026.png" alt="Structure" usemap="#workmap" width="400" height="400" style="display:block; margin-right: auto; margin-left:auto;">
 
 <map name="workmap">
   <area shape="rect" coords="50,50,120,120" alt="animation" href="/colleges/c_anim">
@@ -71,7 +71,7 @@ Le comité de pilotage actuel est composé des membres suivants:
 # Collèges {#colleges}
 
 Les collèges transverses sont articulés autour de 4 thématiques :
-* [Formation](https://www.recherche-reproductible.fr/colleges/c_formation): Sujets liés à l’enseignement et à la formation en matière de reproductibilité.
+* [Formation](https://www.recherche-reproductible.fr/colleges/c_formation) : Sujets liés à l’enseignement et à la formation en matière de reproductibilité.
 * [Relations européennes](/colleges/c_europe) : liens et organisations d'évènements communs avec les autres réseaux européens
 * <b><a href="/colleges/c_anim">Animation scientifique</a></b> : organisation de séminaires et wébinaires autour de la reproductibilité
 * Veille bibliographique et évènementielle : assurer la veille bibliographique mais également des conférences en lien avec la reproductibilité
