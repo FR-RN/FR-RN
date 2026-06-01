@@ -7,7 +7,7 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
 
 # Organisation actuelle
 <!--
-![Structure réseau](../assets/images/Structure_fr_nologo_links.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
+![Structure réseau](../assets/images/RFRR_structure_02_2026.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 -->
 <img src="../assets/images/Structure_fr_nologo.png" alt="Structure" usemap="#workmap" width="400" height="400" style="display:block; margin-right: auto; margin-left:auto;">
 
