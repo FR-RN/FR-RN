@@ -13,8 +13,8 @@ Afin de communiquer sur les objectifs et la actions du réseaux, nous avons réd
 * un document de présentation générale : [quelques pages !](../assets/pdfs/presentation.pdf)  qui donnent des informations essentielles sur le réseau.
 * un [poster qui peut être librement téléchargé !](../assets/pdfs/poster__RR_FR.pdf) et utilisé dans des conférences ([version anglaise](../assets/pdfs/poster__RR_EN.pdf))
 * une [affiche](https://www.recherche-reproductible.fr/assets/pdfs/flyerA4_rechercherepro_FR.pdf) pour les lieux de convivialités ([version anglaise](https://www.recherche-reproductible.fr/assets/pdfs/flyerA4_rechercherepro_EN.pdf))
-* Une [courte présentation](https://www.recherche-reproductible.fr/assets/pdfs/3Slides_reseau_repro_FR.pdf) (3 slides) pour présenter le réseau en bref  
-([version anglaise](../assets/pdfs/3Slides_reseau_repro_EN.pdf))
+* Une [courte présentation](https://www.recherche-reproductible.fr/assets/pdfs/3Slides_reseau_repro_FR.pdf) (3 slides) pour présenter le réseau en bref ([version anglaise](../assets/pdfs/3Slides_reseau_repro_EN.pdf))
+
 # Communication
 
 ## Liste de diffusion
