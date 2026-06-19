@@ -7,6 +7,9 @@ title: Groupe de travail "Logiciel et environnements"
 
 Notre groupe s'intéresse spécifiquement au problème de la reproductibilité pour tout ce qui concerne les procédés de calculs, les logiciels et leur contexte d'utilisation (environnements etc), à l'exclusion des "données".
 
+Vous pouvez retrouver [sur ce lien](ttps://www.recherche-reproductible.fr/assets/pdfs/Presentation_GT_Logiciel_2026.pdf), la présentation du GT lors des journées du réseau à Bordeaux le 20 Mai 2026.
+
+
 Quelques objectifs :
 
 - identifier/présenter les besoins, difficultés, freins
