@@ -56,4 +56,4 @@ All content on this website is licensed under [CC-BY-SA](https://creativecommons
 
 This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.
 
-![CC BY-SA](../assets/images/CC-BY-SA.png){: style="width: 10%; display:block; margin-right: auto; margin-left:auto;" }
+![CC BY-SA](../assets/images/cc-by-sa.png){: style="width: 10%; display:block; margin-right: auto; margin-left:auto;" }
