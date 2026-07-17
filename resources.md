@@ -15,6 +15,30 @@ Afin de communiquer sur les objectifs et la actions du réseaux, nous avons réd
 * une [affiche](https://www.recherche-reproductible.fr/assets/pdfs/flyerA4_rechercherepro_FR.pdf) pour les lieux de convivialités ([version anglaise](https://www.recherche-reproductible.fr/assets/pdfs/flyerA4_rechercherepro_EN.pdf))
 * Une [courte présentation](https://www.recherche-reproductible.fr/assets/pdfs/3Slides_reseau_repro_FR.pdf) (3 slides) pour présenter le réseau en bref ([version anglaise](../assets/pdfs/3Slides_repro_network_EN.pdf))
 
+
+# Productions des groupes de travail
+
+## Groupe de travail *"logiciels et environnements"*
+
+Ce groupe s'intéresse spécifiquement au problème de la reproductibilité pour tout ce qui concerne les procédés de calculs, les logiciels et leur contexte d'utilisation (environnements etc), à l'exclusion des "données".
+
+
+* [site web du GT "logiciels et environnements"](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/guidelines-4-computing/)
+
+
+## Groupe de travail *"psychologie"*
+
+L’objectif principal de ce groupe de travail est la rédaction de fiches de bonnes pratiques concernant la recherche reproductible en Psychologie.
+
+* [site web du GT "psychologie"](https://frrn-shs-de4b9c.gitpages.huma-num.fr/).
+
+## Groupe de travail *"reproductibilité expérimentale"*
+
+Un autre groupe de travail autour de la reproductibilité expérimentale est en cours de construction : plus d'infos à venir !
+
+
+
+
 # Communication
 
 ## Liste de diffusion
