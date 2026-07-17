@@ -20,17 +20,12 @@ Afin de communiquer sur les objectifs et la actions du réseaux, nous avons réd
 
 ## Groupe de travail *"logiciels et environnements"*
 
-Ce groupe s'intéresse spécifiquement au problème de la reproductibilité pour tout ce qui concerne les procédés de calculs, les logiciels et leur contexte d'utilisation (environnements etc), à l'exclusion des "données".
-
-
-* [site web du GT "logiciels et environnements"](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/guidelines-4-computing/)
+Ce groupe s'intéresse spécifiquement au problème de la reproductibilité pour tout ce qui concerne les procédés de calculs, les logiciels et leur contexte d'utilisation (environnements etc), à l'exclusion des "données" : [site web du GT "logiciels et environnements"](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/guidelines-4-computing/)
 
 
 ## Groupe de travail *"psychologie"*
 
-L’objectif principal de ce groupe de travail est la rédaction de fiches de bonnes pratiques concernant la recherche reproductible en Psychologie.
-
-* [site web du GT "psychologie"](https://frrn-shs-de4b9c.gitpages.huma-num.fr/).
+L’objectif principal de ce groupe de travail est la rédaction de fiches de bonnes pratiques concernant la recherche reproductible en Psychologie : [site web du GT "psychologie"](https://frrn-shs-de4b9c.gitpages.huma-num.fr/).
 
 ## Groupe de travail *"reproductibilité expérimentale"*
 
