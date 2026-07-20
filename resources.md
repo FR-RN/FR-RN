@@ -18,9 +18,15 @@ Afin de communiquer sur les objectifs et la actions du réseaux, nous avons réd
 
 # Productions des groupes de travail
 
-## Groupe de travail *"logiciels et environnements"*
+## Groupe de travail *"logiciels et environnements computationnels"*
 
-Ce groupe s'intéresse spécifiquement au problème de la reproductibilité pour tout ce qui concerne les procédés de calculs, les logiciels et leur contexte d'utilisation (environnements etc), à l'exclusion des "données" : [site web du GT "logiciels et environnements"](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/guidelines-4-computing/)
+Ce groupe s'intéresse spécifiquement au problème de la reproductibilité pour tout ce qui concerne les procédés de calculs, les logiciels et leur contexte d'utilisation (environnements etc), à l'exclusion des "données".
+
+Pour vous **accompagner** : « [conseils et bonnes pratiques](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/guidelines-4-computing/) »
+
+Pour **contribuer** : [lien vers la page dédiée aux contributions](https://reproducibility.gricad-pages.univ-grenoble-alpes.fr/guidelines-4-computing/contribute/)
+
+
 
 
 ## Groupe de travail *"psychologie"*
