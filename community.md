@@ -2,7 +2,7 @@
 layout: page
 title: Communauté ↓
 permalink: /community/
-cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand", "Corte", "Dijon", "Évry",  "Gif-Sur-Yvette", "Grenoble", "Limoges", "Lyon", "Marseille", "Montpellier", "Nantes", "Nice", "Orléans", "Orsay", "Palaiseau", "Paris", "Rennes", "Rouen", "Rungis", "Saclay", "Strasbourg", "Tarbes", "Toulouse", "Villetaneuse", "Villeurbanne"]
+cities: ["Annecy", "Aubervilliers", "Aubière", "Avignon", "Bobigny", "Bordeaux", "Bron", "Bruxelles", "Champs-sur-Marne", "Chelles", "Clermont-Ferrand", "Corte", "Créteil", "Dijon", "Évry",  "Gif-Sur-Yvette", "Grenoble", "Limoges", "Lille", "Lyon", "Marseille", "Montpellier", "Nantes","Narbonne", "Nice","Nogent-sur-Marne", "Noisy-le-Grand", "Orléans", "Orsay", "Palaiseau", "Paris","Reading", "Rennes", "Rouen", "Rungis", "Saclay","Stockholm", "Strasbourg", "Tarbes", "Toulouse","Tours", "Villetaneuse", "Villeurbanne"]
 siteNav: true
 childPages: ["Structure, collèges et GTs", "Réseaux internationaux", "Initiatives nationales", "Initiatives internationales", "Nous rejoindre"]
 ---
