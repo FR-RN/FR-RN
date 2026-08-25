@@ -16,6 +16,23 @@
   city: Rouen
   steering: true
   image: https://umr-idees.fr/media/users/b9d23a51/7a9fab21af-1759961006/profile.jpg
+- name: Arnaud Legrand
+  url: https://polaris.imag.fr/arnaud.legrand/
+  city: Grenoble
+  lab: LIG
+  steering: true
+  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
+- name: Florian Naudet
+  url: https://www.reither.org/
+  city: Rennes
+  lab: IRSET
+  image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
+  steering: true
+- name: Fiona Trichard
+  lab: Gricad
+  city: Grenoble
+  charge: true
+  image: https://www.recherche-reproductible.fr/assets/images/F_Trichard.jpg  
 - name: Benoit Combemale
   url: https://people.irisa.fr/Benoit.Combemale/
   lab: Institut de Recherche en Informatique et Systèmes Aléatoires
@@ -88,22 +105,10 @@
   url: https://research.pasteur.fr/en/member/etienne-kornobis/
   city: Paris
   lab: Biomics
-- name: Florian Naudet
-  url: https://www.reither.org/
-  city: Rennes
-  lab: IRSET
-  image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
-  steering: true
 - name: Johann Dreo
   url: http://johann.dreo.fr
   lab: Computational Systems Biomedicine
   city: Paris
-- name: Arnaud Legrand
-  url: https://polaris.imag.fr/arnaud.legrand/
-  city: Grenoble
-  lab: LIG
-  steering: true
-  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
 - name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
