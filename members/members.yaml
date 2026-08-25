@@ -16,6 +16,12 @@
   city: Rouen
   steering: true
   image: https://umr-idees.fr/media/users/b9d23a51/2362194cf6-1719093791/profile.jpg
+- name: Arnaud Legrand
+  url: https://polaris.imag.fr/arnaud.legrand/
+  city: Grenoble
+  lab: LIG
+  steering: true
+  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg  
 - name: Benoit Combemale
   url: https://people.irisa.fr/Benoit.Combemale/
   lab: Institut de Recherche en Informatique et Systèmes Aléatoires
@@ -45,6 +51,7 @@
   url: https://pad.lescommuns.org/SachaHodencq
   lab: Grenoble Electrical Engineering Laboratory (G2Elab)
   city: Grenoble
+
 - name: Hans Rocha Ijzerman
   url: https://www.lippc2s.fr/archives/person/ijzerman-hans/
   lab: Laboratoire Inter-universitaire de Psychologie
@@ -53,12 +60,13 @@
   url: http://johann.dreo.fr
   lab: Computational Systems Biomedicine
   city: Paris
-- name: Arnaud Legrand
-  url: https://polaris.imag.fr/arnaud.legrand/
+
+- name: Fiona Trichard
+  lab: Gricad
   city: Grenoble
-  lab: LIG
-  steering: true
-  image: https://team.inria.fr/polaris/files/2016/01/arnaud9_small-150x150.jpg
+  charge: true
+  image: https://www.recherche-reproductible.fr/assets/images/F_Trichard.jpg
+  
 - name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
