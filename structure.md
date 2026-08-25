@@ -67,6 +67,7 @@ cities: ["Annecy", "Bobigny", "Bordeaux", "Bron", "Chelles", "Clermont-Ferrand",
        {% endif %}
   {% endfor %}
   </ul>
+
 ## Membres
 Le comité de pilotage actuel est composé des membres suivants:
 
