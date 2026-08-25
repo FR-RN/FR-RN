@@ -60,13 +60,11 @@
   url: http://johann.dreo.fr
   lab: Computational Systems Biomedicine
   city: Paris
-
 - name: Fiona Trichard
   lab: Gricad
   city: Grenoble
   charge: true
   image: https://www.recherche-reproductible.fr/assets/images/F_Trichard.jpg
-  
 - name: Frédéric Lemoine
   url: https://research.pasteur.fr/en/member/frederic-lemoine/
   lab: Institut Pasteur
