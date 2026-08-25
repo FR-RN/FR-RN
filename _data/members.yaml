@@ -31,6 +31,7 @@
 - name: Valérie Orozco
   url: https://www.tse-fr.eu/fr/people/valerie-orozco
   lab: Toulouse School of Economics (TSE-R)
+  image: https://www.recherche-reproductible.fr/assets/images/person.png
   steering: true  
   city: Toulouse  
 - name: Fiona Trichard
@@ -100,7 +101,9 @@
   image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
 - name: Solenne Roux
   lab: LabPsy Université de Bordeaux
-  steering: true  
+  steering: true
+  image: https://www.recherche-reproductible.fr/assets/images/person.png
+  url: https://labpsy.u-bordeaux.fr/membres/accompagnement-de-la-recherche/solenne-roux
   city: Bordeaux  
 - name: Camille Maumet
   url: http://camillemaumet.com/
