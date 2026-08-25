@@ -28,6 +28,11 @@
   lab: IRSET
   image: https://www.recherche-reproductible.fr/assets/images/COPIL_FN.jpeg
   steering: true
+- name: Valérie Orozco
+  url: https://www.tse-fr.eu/fr/people/valerie-orozco
+  lab: Toulouse School of Economics (TSE-R)
+  steering: true  
+  city: Toulouse  
 - name: Fiona Trichard
   lab: Gricad
   city: Grenoble
@@ -93,6 +98,10 @@
   city: Bordeaux
   steering: true
   image: https://www.recherche-reproductible.fr/assets/images/nicolas.rougier.png
+- name: Solenne Roux
+  lab: LabPsy Université de Bordeaux
+  steering: true  
+  city: Bordeaux  
 - name: Camille Maumet
   url: http://camillemaumet.com/
   city: Rennes
@@ -339,10 +348,6 @@
   url: null
   city: Toulouse
   lab: LAAS
-- name: Valérie Orozco
-  url: https://www.tse-fr.eu/fr/people/valerie-orozco
-  lab: Toulouse School of Economics (TSE-R)
-  city: Toulouse
 - name: Benoist Laurent
   url: null
   city: Paris
@@ -642,9 +647,6 @@
 - name: Estelle Rascol
   lab: Chimie et Biologie des Membranes et Nano-objets UMR5248 UFR Sciences Pharmaceutiques
     Université de Bordeaux
-  city: Bordeaux
-- name: Solenne Roux
-  lab: LabPsy Université de Bordeaux
   city: Bordeaux
 - name: Stéphanie Rialle
   lab: ART-Dev CNRS
