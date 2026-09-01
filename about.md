@@ -20,7 +20,7 @@ Il conserve son statut de groupe informel de scientifiques intéressés par la t
 Ce réseau s'inscrit également dans une [fédération internationale de réseau de reproductibilité](https://reproducibility.global/), dont il est membre. Cette fédération permet l'échange d'information et de faire émerger des collaborations sur des sujets communs comme les formations par exemple. 
 
 Le nombre d'abonnés à la [liste de diffusion](https://groupes.renater.fr/sympa/info/recherche-reproductible) est en constante augmentation, atteignant les 400 membres en 2026. 
-Grâce à un fort soutien du Ministère de l'Enseignement Supérieur et de la Recherche, le Réseau Français de la Recherche Reproductible a pu ainsi accroître l'étendue de ses [activités](https://www.recherche-reproductible.fr/activities/). Le [rapport d'activité 2025](https://www.recherche-reproductible.fr/assets/pdfs/rapport_2025.pdf) est disponible en ligne.
+Grâce à un fort soutien du Ministère de l'Enseignement Supérieur et de la Recherche, le Réseau Français de la Recherche Reproductible a pu ainsi accroître l'étendue de ses [activités](https://www.recherche-reproductible.fr/activities/). Le [rapport d'activité 2025](https://www.recherche-reproductible.fr/news-network/2026/09/01/rapport-2025.html) est disponible en ligne.
 
 
 La reproductibilité est un sujet qui vous intéresse ? N'hésitez pas à nous [rejoindre](https://www.recherche-reproductible.fr/contacts/) !
