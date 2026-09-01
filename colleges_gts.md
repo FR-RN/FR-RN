@@ -26,7 +26,7 @@ Les collèges transverses sont articulés autour de 3 thématiques :
 * Collège [Formation](https://www.recherche-reproductible.fr/colleges/c_formation) : Sujets liés à l’enseignement et à la formation en matière de reproductibilité.
 
 Les sujets suivents sont également abordés mais de façon plus informelle : 
-* "Veille bibliographique et évènementielle" : assurer la veille bibliographique mais également des conférences en lien avec la reproductibilité. Ce
+* "Veille bibliographique et évènementielle" : assurer la veille bibliographique mais également des conférences en lien avec la reproductibilité.
 * Relations institutionnelles et administratives : lien avec les différentes institutions de recherche françaises
 
 
@@ -35,7 +35,6 @@ Les sujets suivents sont également abordés mais de façon plus informelle :
 
 Les groupes de travail, sont organisés autour d'une thématique précise et ont pour but de définir et diffuser les bonnes pratiques pour une science reproductible dans leur périmètre :
 
-* [GT Formation](https://www.recherche-reproductible.fr/gtravail/gt_formation): ce groupe de travail recense les formations sur des sujets liés à l’enseignement et à la formation en matière de reproductibilité et est en charge d'en organiser.
 * [GT Logiciel et environnements computationnels](/gtravail/gt_logiciel) : ce groupe de travail a pour objectif de rédiger des fiches de bonnes pratiques autour du développement et de la gestion des logiciels et de leur environnement pour assurer au mieux la reproductibilité des résultats computationnels. N'hésitez pas à rejoindre en vous abonnant à la [**liste de diffusion**](https://groupes.renater.fr/sympa/info/gt-env-logiciel).
 * [GT Psychologie](/gtravail/gt_psycho) est un GT autour des enjeux de reproductiblité en psychologie : si vous souhaitez rejoindre ce groupe de travail, n’hésitez pas à vous inscrire à la [liste de diffusion du groupe psycho](https://groupes.renater.fr/sympa/info/recherche-reproductible-gtpsycho).
 * Le [GT notebook](https://gt-notebook.gitpages.huma-num.fr/site_quarto/) est un GT autour les enjeux et problématiques du Notebook, pris comme un objet complexe au sein du cycle des données de la recherche. Il n'est pas directement un GT du réseau mais nous entretenons des collaborations étroites avec ses membres.
