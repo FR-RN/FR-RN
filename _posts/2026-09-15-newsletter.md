@@ -31,7 +31,7 @@ categories: newsletter
 ## Publications
 
 * *The problem of pseudoreplication in neuroscientific studies: is it
-affecting your analysis?*  Lazic, S.E. *BMC Neurosci 11, 5 (2010)*, [https://doi.org/10.1186/1471-2202-11-5](https://doi.org/10.1186/1471-2202-11-5), 
+affecting your analysis?*  Lazic, S.E. *BMC Neurosci 11, 5 (2010)*, [doi.org/10.1186/1471-2202-11-5](https://doi.org/10.1186/1471-2202-11-5), 
 [URL](https://link.springer.com/article/10.1186/1471-2202-11-5).
 * *Open science, reproducibility, and transparency in ecology*, S. M. Powers, and S. E. Hampton. 2019, * Ecological Applications 29(1):e01822. 10.1002/eap.1822*, [PDF](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/eap.1822).
 * *Workflow Abstractions for Automatic Modularity: Improving Workflow Code Reusability*, Marchment, George, Sarah Cohen-Boulakia, Alain Denise, et Frédéric Lemoine, 2027. *Future Generation Computer Systems 187: 108776*, [doi:10.1016/j.future.2026.108776](https://www.sciencedirect.com/science/article/pii/S0167739X26004103).
