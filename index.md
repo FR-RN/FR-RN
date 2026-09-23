@@ -5,7 +5,7 @@ n_posts: 8
 n_news: 2
 n_actus: 2
 n_events: 3
-n_pubs: 2
+n_pubs: 1
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
