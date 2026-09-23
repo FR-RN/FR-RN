@@ -2,7 +2,7 @@
 layout: post
 title: "Publication du rapport de Stratégie de Science Ouverte (SSO) 2026-2033 (MESRE)"
 date: 2026-09-16 14:00 +0100
-categories: publication
+categories: news
 tags: slides
 ---
 
