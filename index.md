@@ -5,6 +5,7 @@ n_posts: 8
 n_news: 2
 n_actus: 2
 n_events: 3
+n_pubs: 2
 ---
 
 # Bienvenue sur le réseau de la recherche reproductible
@@ -90,7 +91,7 @@ n_events: 3
 
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.newsletter limit:page.n_news -%}
+   {%- for post in site.categories.newsletter limit:page.n_pubs -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
@@ -103,7 +104,7 @@ n_events: 3
 </ul>
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   {%- for post in site.categories.news limit:page.n_news -%}
+   {%- for post in site.categories.news limit:page.n_pubs -%}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
