@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  " "
+title:  "Newsletter de septembre 2026"
 date:   2026-09-15 09:00 +0100
 categories: newsletter
 ---
