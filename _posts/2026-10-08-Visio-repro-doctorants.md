@@ -12,8 +12,7 @@ Un *webinaire* est organisé le Jeudi 08 octobre de 14h à 16h autour
 
  **Jey Pujet-Gill**
 
-*Titre* : Rejouer une expérience, 6 mois plus tard
-Les compromis de la reproductibilité
+*Titre* : **Rejouer une expérience, 6 mois plus tard : les compromis de la reproductibilité**
 
 *Résumé* :
 La reproductibilité d'une expérience computationnelle se dégrade sans que personne n'intervienne.
@@ -32,7 +31,7 @@ La communication se conclut par une gradation d'actions selon le temps disponibl
 
 **Maxime Dieudonné**, post-doctorant au [Centre de Recherche en Psychologie et Neurosciences](https://crpn.univ-amu.fr/fr)
 
-*Titre* : Du notebook au code reproductible : retour d’expérience sur la structuration d’une pipeline de prétraitement d’IRM fonctionnelle
+*Titre* : **Du notebook au code reproductible : retour d’expérience sur la structuration d’une pipeline de prétraitement d’IRM fonctionnelle**
 
 *Résumé* :
 Dans le cadre d'une étude portant sur le prétraitement et le débruitage d'images IRM fonctionnelles de la moelle épinière, j'ai été amené à reprendre une base de code déjà existante. Ma mission a consisté à réorganiser et améliorer des scripts, majoritairement développés sous Jupyter Notebook, afin de les faire évoluer vers une structure plus robuste, reproductible et plus facile à maintenir. Je partage avec vous mon retour d'expérience sur cette démarche, ainsi que les choix et les difficultés rencontrés au cours de cette démarche.
@@ -40,7 +39,7 @@ Dans le cadre d'une étude portant sur le prétraitement et le débruitage d'ima
 
 **Romain Caneill**, post-doctorant à l'[Intitut des Géosciences et de l'Environnement](https://www.ige-grenoble.fr/) à Grenoble
 
-*Titre* : Reproductibilité, science ouverte et logiciels libres
+*Titre* : **Reproductibilité, science ouverte et logiciels libres**
 
 *Résumé* :
 Depuis plusieurs années, la mention de reproductibilité des articles scientifiques est de plus en plus discutée.
