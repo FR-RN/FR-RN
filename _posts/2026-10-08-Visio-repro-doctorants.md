@@ -8,7 +8,11 @@ tags: slides
 
 Un *webinaire* est organisé le Jeudi 08 octobre de 14h à 16h autour
  de les *enjeux de la reproductibilité* présentés par 3
- jeunes scientifiques :
+ jeunes scientifiques.
+
+Ce webinaire sera diffusé sur le lien : [https://visio.numerique.gouv.fr/qns-tvbg-iny](https://visio.numerique.gouv.fr/qns-tvbg-iny).
+
+### Programme 
 
  **Jey Pujet-Gill**
 
@@ -49,5 +53,3 @@ Nous verrons comment le logiciel libre et les publications en accès libre s’i
 Dans cette présentation, je raconterai mon point de vue de chercheur en début de carrière sur les difficultés associées à l’analyse de données d’observations (de l’océan et la banquise dans mon cas).
 Je présenterai aussi rapidement quelques solutions que j’utilise qui participent à la production de science plus reproductible.
 
-
-Ce webinaire sera diffusé sur le lien : [https://visio.numerique.gouv.fr/qns-tvbg-iny](https://visio.numerique.gouv.fr/qns-tvbg-iny)
