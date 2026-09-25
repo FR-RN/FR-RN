@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La reproductibilité pendant le doctorat"
+title:  "La reproductibilité vue par de jeunes chercheur.e.s"
 date:   2026-10-08 14:00 +0100
 categories: webinaires
 tags: slides
