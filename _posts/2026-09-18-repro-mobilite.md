@@ -2,7 +2,7 @@
 layout: post
 title: "Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles"
 date: 2026-09-18 14:00 +0100
-categories: webinaires
+categories: past-webinaires
 tags: slides
 ---
 *Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles*
@@ -22,6 +22,4 @@ Pour cela, elle mobilise deux papiers récents traitant du sujet :
 Le premier papier s'intéresse aux études publiées basées sur des simulations et montre que, bien ce soit en progrès, que très peu de papiers sont accompagnés d'éléments permettant la reproduction des traitements.
 Le deuxième papier analyse, selon une grille de lecture basée sur la reproductibilité, 9 jeux de données open source, leurs failles et propose des pistes d'amélioration pour la collecte et le partage de données de mobilités.
 
-
-Lien pour suivre le webinaire :
-[https://visio.numerique.gouv.fr/qns-tvbg-iny](https://visio.numerique.gouv.fr/qns-tvbg-iny)
+Vous pouvez retrouver la video de ce webinaire sur [ce lien](https://www.canal-u.tv/chaines/rfrr/enjeux-de-reproductibilite-a-travers-le-prisme-des-mobilites-et-la-revue-de-deux).
