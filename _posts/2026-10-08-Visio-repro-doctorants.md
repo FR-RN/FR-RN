@@ -14,7 +14,7 @@ Ce webinaire sera diffusé sur le lien : [https://visio.numerique.gouv.fr/qns-tv
 
 ### Programme 
 
- **Jey Pujet-Gill**
+ **Jey Pujet-Gil**
 
 *Titre* : **Rejouer une expérience, 6 mois plus tard : les compromis de la reproductibilité**
 
