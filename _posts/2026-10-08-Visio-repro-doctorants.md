@@ -6,15 +6,14 @@ categories: webinaires
 tags: slides
 ---
 
-Un *webinaire* est organisé le Jeudi 08 octobre de 14h à 16h autour
+Un *webinaire* a été organisé le Jeudi 08 octobre de 14h à 16h autour
  de les *enjeux de la reproductibilité* présentés par 3
  jeunes scientifiques.
-
-Ce webinaire sera diffusé sur le lien : [https://visio.numerique.gouv.fr/qns-tvbg-iny](https://visio.numerique.gouv.fr/qns-tvbg-iny).
+Les présentations sont disponibles ci-dessous !
 
 ### Programme 
 
- **Jey Puget-Gil**
+ **Jey Puget-Gil**   [présentation](../assets/pdfs/Reproductibilite_JPG.pdf)
 
 *Titre* : **Rejouer une expérience, 6 mois plus tard : les compromis de la reproductibilité**
 
@@ -33,7 +32,7 @@ La première partie de l'exposé ne suppose aucun prérequis technique.
 La communication se conclut par une gradation d'actions selon le temps disponible, d'une journée à un mois et plus, en soutenant que le rapport entre bénéfice et effort est le plus favorable au premier échelon.
 
 
-**Maxime Dieudonné**, post-doctorant au [Centre de Recherche en Psychologie et Neurosciences](https://crpn.univ-amu.fr/fr)
+**Maxime Dieudonné**, post-doctorant au [Centre de Recherche en Psychologie et Neurosciences](https://crpn.univ-amu.fr/fr)  [présentation](../assets/pdfs/Science_reproductible-M_Dieudonne.pdf)
 
 *Titre* : **Du notebook au code reproductible : retour d’expérience sur la structuration d’une pipeline de prétraitement d’IRM fonctionnelle**
 
@@ -41,7 +40,7 @@ La communication se conclut par une gradation d'actions selon le temps disponibl
 Dans le cadre d'une étude portant sur le prétraitement et le débruitage d'images IRM fonctionnelles de la moelle épinière, j'ai été amené à reprendre une base de code déjà existante. Ma mission a consisté à réorganiser et améliorer des scripts, majoritairement développés sous Jupyter Notebook, afin de les faire évoluer vers une structure plus robuste, reproductible et plus facile à maintenir. Je partage avec vous mon retour d'expérience sur cette démarche, ainsi que les choix et les difficultés rencontrés au cours de cette démarche.
 
 
-**Romain Caneill**, post-doctorant à l'[Intitut des Géosciences et de l'Environnement](https://www.ige-grenoble.fr/) à Grenoble
+**Romain Caneill**, post-doctorant à l'[Intitut des Géosciences et de l'Environnement](https://www.ige-grenoble.fr/) à Grenoble  [présentation](https://romaincaneill.fr/assets/statics/romain_caneill_2026-10-08_reproducibilite_science_ouverte_logiciels_libres.pdf)
 
 *Titre* : **Reproductibilité, science ouverte et logiciels libres**
 
