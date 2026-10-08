@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-10-08T08:06:42+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">La reproductibilité vue par de jeunes chercheur.e.s</title><link href="https://www.recherche-reproductible.fr//webinaires/2026/10/08/Visio-repro-doctorants.html" rel="alternate" type="text/html" title="La reproductibilité vue par de jeunes chercheur.e.s" /><published>2026-10-08T13:00:00+00:00</published><updated>2026-10-08T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//webinaires/2026/10/08/Visio-repro-doctorants</id><content type="html" xml:base="https://www.recherche-reproductible.fr//webinaires/2026/10/08/Visio-repro-doctorants.html"><![CDATA[<p>Un <em>webinaire</em> est organisé le Jeudi 08 octobre de 14h à 16h autour
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.recherche-reproductible.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.recherche-reproductible.fr//" rel="alternate" type="text/html" /><updated>2026-10-08T14:39:20+00:00</updated><id>https://www.recherche-reproductible.fr//feed.xml</id><title type="html">French Reproducible Research Network</title><subtitle>A national network of scientists for promoting reproducible research.</subtitle><author><name>Recherche Reproductible</name></author><entry><title type="html">La reproductibilité vue par de jeunes chercheur.e.s</title><link href="https://www.recherche-reproductible.fr//webinaires/2026/10/08/Visio-repro-doctorants.html" rel="alternate" type="text/html" title="La reproductibilité vue par de jeunes chercheur.e.s" /><published>2026-10-08T13:00:00+00:00</published><updated>2026-10-08T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//webinaires/2026/10/08/Visio-repro-doctorants</id><content type="html" xml:base="https://www.recherche-reproductible.fr//webinaires/2026/10/08/Visio-repro-doctorants.html"><![CDATA[<p>Un <em>webinaire</em> a été organisé le Jeudi 08 octobre de 14h à 16h autour
  de les <em>enjeux de la reproductibilité</em> présentés par 3
- jeunes scientifiques.</p>
-
-<p>Ce webinaire sera diffusé sur le lien : <a href="https://visio.numerique.gouv.fr/qns-tvbg-iny">https://visio.numerique.gouv.fr/qns-tvbg-iny</a>.</p>
+ jeunes scientifiques.
+Les présentations sont disponibles ci-dessous !</p>
 
 <h3 id="programme">Programme</h3>
 
-<p><strong>Jey Puget-Gil</strong></p>
+<p><strong>Jey Puget-Gil</strong>   <a href="../assets/pdfs/Reproductibilite_JPG.pdf">présentation</a></p>
 
 <p><em>Titre</em> : <strong>Rejouer une expérience, 6 mois plus tard : les compromis de la reproductibilité</strong></p>
 
@@ -24,14 +23,14 @@ Chaque niveau est discuté au regard de sa nécessité réelle selon l’échell
 La première partie de l’exposé ne suppose aucun prérequis technique.
 La communication se conclut par une gradation d’actions selon le temps disponible, d’une journée à un mois et plus, en soutenant que le rapport entre bénéfice et effort est le plus favorable au premier échelon.</p>
 
-<p><strong>Maxime Dieudonné</strong>, post-doctorant au <a href="https://crpn.univ-amu.fr/fr">Centre de Recherche en Psychologie et Neurosciences</a></p>
+<p><strong>Maxime Dieudonné</strong>, post-doctorant au <a href="https://crpn.univ-amu.fr/fr">Centre de Recherche en Psychologie et Neurosciences</a>  <a href="../assets/pdfs/Science_reproductible-M_Dieudonne.pdf">présentation</a></p>
 
 <p><em>Titre</em> : <strong>Du notebook au code reproductible : retour d’expérience sur la structuration d’une pipeline de prétraitement d’IRM fonctionnelle</strong></p>
 
 <p><em>Résumé</em> :
 Dans le cadre d’une étude portant sur le prétraitement et le débruitage d’images IRM fonctionnelles de la moelle épinière, j’ai été amené à reprendre une base de code déjà existante. Ma mission a consisté à réorganiser et améliorer des scripts, majoritairement développés sous Jupyter Notebook, afin de les faire évoluer vers une structure plus robuste, reproductible et plus facile à maintenir. Je partage avec vous mon retour d’expérience sur cette démarche, ainsi que les choix et les difficultés rencontrés au cours de cette démarche.</p>
 
-<p><strong>Romain Caneill</strong>, post-doctorant à l’<a href="https://www.ige-grenoble.fr/">Intitut des Géosciences et de l’Environnement</a> à Grenoble</p>
+<p><strong>Romain Caneill</strong>, post-doctorant à l’<a href="https://www.ige-grenoble.fr/">Intitut des Géosciences et de l’Environnement</a> à Grenoble  <a href="https://romaincaneill.fr/assets/statics/romain_caneill_2026-10-08_reproducibilite_science_ouverte_logiciels_libres.pdf">présentation</a></p>
 
 <p><em>Titre</em> : <strong>Reproductibilité, science ouverte et logiciels libres</strong></p>
 
@@ -41,7 +40,7 @@ Un nombre croissant de revues demandent à ce que le code et les données utilis
 Cette action avance dans la bonne direction, mais n’est pas suffisante pour garantir la reproductibilité d’une étude.
 Nous verrons comment le logiciel libre et les publications en accès libre s’incrivent comme éléments essentiels dans cette démarche.
 Dans cette présentation, je raconterai mon point de vue de chercheur en début de carrière sur les difficultés associées à l’analyse de données d’observations (de l’océan et la banquise dans mon cas).
-Je présenterai aussi rapidement quelques solutions que j’utilise qui participent à la production de science plus reproductible.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="webinaires" /><category term="slides" /><summary type="html"><![CDATA[Un webinaire est organisé le Jeudi 08 octobre de 14h à 16h autour de les enjeux de la reproductibilité présentés par 3 jeunes scientifiques.]]></summary></entry><entry><title type="html">Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2026/09/18/repro-mobilite.html" rel="alternate" type="text/html" title="Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles" /><published>2026-09-18T13:00:00+00:00</published><updated>2026-09-18T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2026/09/18/repro-mobilite</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2026/09/18/repro-mobilite.html"><![CDATA[<p><em>Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles</em></p>
+Je présenterai aussi rapidement quelques solutions que j’utilise qui participent à la production de science plus reproductible.</p>]]></content><author><name>Recherche Reproductible</name></author><category term="webinaires" /><category term="slides" /><summary type="html"><![CDATA[Un webinaire a été organisé le Jeudi 08 octobre de 14h à 16h autour de les enjeux de la reproductibilité présentés par 3 jeunes scientifiques. Les présentations sont disponibles ci-dessous !]]></summary></entry><entry><title type="html">Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles</title><link href="https://www.recherche-reproductible.fr//past-webinaires/2026/09/18/repro-mobilite.html" rel="alternate" type="text/html" title="Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles" /><published>2026-09-18T13:00:00+00:00</published><updated>2026-09-18T13:00:00+00:00</updated><id>https://www.recherche-reproductible.fr//past-webinaires/2026/09/18/repro-mobilite</id><content type="html" xml:base="https://www.recherche-reproductible.fr//past-webinaires/2026/09/18/repro-mobilite.html"><![CDATA[<p><em>Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles</em></p>
 
 <p><strong>Christine Buisson</strong> (Univ. Eiffel/Emob-lab)</p>
 
