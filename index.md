@@ -49,7 +49,7 @@ n_pubs: 1
    {%- endfor -%}
   </ul>
 
-
+<!--
 <h6>Conférences </h6>
 <ul class="post-list">
  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -64,6 +64,7 @@ n_pubs: 1
     </li>
  {%- endfor -%}
 </ul>
+-->
 
 <h6>Actualités du réseau</h6>
 
