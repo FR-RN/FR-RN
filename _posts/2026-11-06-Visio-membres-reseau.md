@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Présentation de l'assemblée générale des membres du réseau 2026"
+title:  "Assemblée générale des membres du réseau 2026"
 date:   2026-11-06 14:00 +0100
 categories: event-network
 tags: slides
