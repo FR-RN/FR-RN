@@ -12,7 +12,7 @@ La prochaine assemblée générale du réseau aura lieu :
 
 📍 [Webinaire](https://webinaire.numerique.gouv.fr/meeting/signin/invite/76946/hash/c17c9bd057d4fac07fd02f8b9646d6bd8a4400cb)
 
-📘[Lien vers le document partagé pour la visio](https://docs.numerique.gouv.fr/docs/fb8f2def-b4f4-4e25-9dfc-1ab9f4b1a26e/)https://docs.numerique.gouv.fr/docs/fb8f2def-b4f4-4e25-9dfc-1ab9f4b1a26e/
+📘[Lien vers le document partagé pour la visio](https://docs.numerique.gouv.fr/docs/fb8f2def-b4f4-4e25-9dfc-1ab9f4b1a26e/)
 
 Cette assemblée est un moment important pour la vie du réseau : elle nous permet de faire le point sur l’année écoulée, d’échanger sur nos projets en cours et de discuter des orientations à venir.
 
