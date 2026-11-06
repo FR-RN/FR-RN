@@ -6,20 +6,16 @@ categories: event-network
 tags: slides
 ---
 
-La prochaine assemblée générale du réseau aura lieu :
+La prochaine assemblée générale du réseau a eu lieu :
 
 📅 le vendredi 6 novembre à 14h en visio
 
-📍 [Lien de connexion : Webinaire](https://webinaire.numerique.gouv.fr/meeting/signin/invite/76946/hash/c17c9bd057d4fac07fd02f8b9646d6bd8a4400cb)
-
+N'hésitez pas à compléter le doucment aprtagé si vou sn'avez pas pu assister à la réunion !
 📘[Lien vers le document partagé pour la visio](https://docs.numerique.gouv.fr/docs/fb8f2def-b4f4-4e25-9dfc-1ab9f4b1a26e/)
 
 Cette assemblée est un moment important pour la vie du réseau : elle nous permet de faire le point sur l’année écoulée, d’échanger sur nos projets en cours et de discuter des orientations à venir.
 
+Slides des présentations 
+[Présentation](/assets/pdfs/Visio_RR_2026.pdf) \\
 
-Ordre du jour prévu :
-* Rapport d’activité [2025-2026]
-* Evolutions et projets [2026-2027]
-* Questions diverses
-
-Votre présence est importante pour la vitalité du réseau et de ses activités.
+[Slides du projet REWIRE](/assets/pdfs/REWIRE_11_2026.pdf)
