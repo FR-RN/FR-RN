@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "It runs on my machine — experiences from the SwissRN workshops on Computational Reproducibility"
+title: "It runs on my machine - experiences from the SwissRN workshops on Computational Reproducibility"
 date: 2026-11-20 14:00 +0100
 categories: past-webinaires
 tags: slides
 ---
-*"It runs on my machine" — experiences from the SwissRN workshops on Computational Reproducibility"*
+*"It runs on my machine" - experiences from the SwissRN workshops on Computational Reproducibility*
 
 **Fabio Molo** du réseau suisse de reproductibilité [SwissRN](https://www.swissrn.org/). 
 Fabio Molo est manager du [CRS](https://www.swissrn.org/) (Center for Reproducible Science and Research Synthesis) de l'Université de Zurich. 
