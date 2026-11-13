@@ -9,6 +9,9 @@ tags: slides
 Un *webinaire* a été organisé le Jeudi 08 octobre de 14h à 16h autour
  de les *enjeux de la reproductibilité* présentés par 3
  jeunes scientifiques.
+ La [vidéo est en ligne sur la chain canalU du réseau](https://www.canal-u.tv/chaines/rfrr/12-journees-jeunes-chercheurses). Attention ! Suite à un problème technique lors de l'enregistrement, la qualité du son est plus faible par moment, merci à Nicolas Roelandt pour l'enregistrement de secours !
+ 
+
 Les présentations sont disponibles ci-dessous !
 
 ### Programme 
