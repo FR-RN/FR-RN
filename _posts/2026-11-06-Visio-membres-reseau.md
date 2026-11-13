@@ -16,8 +16,6 @@ N'hésitez pas à compléter le doucment aprtagé si vou sn'avez pas pu assister
 Cette assemblée est un moment important pour la vie du réseau : elle nous permet de faire le point sur l’année écoulée, d’échanger sur nos projets en cours et de discuter des orientations à venir.
 
 
-Slides des présentations 
-[Présentation](/assets/pdfs/Visio_RR_2026.pdf) \\
-
+[Présentation](/assets/pdfs/Visio_RR_2026.pdf)
 
 [Slides du projet REWIRE](/assets/pdfs/REWIRE_11_2026.pdf)
