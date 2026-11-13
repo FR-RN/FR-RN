@@ -2,7 +2,7 @@
 layout: post
 title:  "La reproductibilité vue par de jeunes chercheur.e.s"
 date:   2026-10-08 14:00 +0100
-categories: webinaires
+categories: past-webinaires
 tags: slides
 ---
 
