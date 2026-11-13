@@ -10,7 +10,7 @@ tags: slides
 **Fabio Molo** du réseau suisse de reproductibilité [SwissRN](https://www.swissrn.org/). 
 Fabio Molo est manager du [CRS](https://www.swissrn.org/) (Center for Reproducible Science and Research Synthesis) de l'Université de Zurich. 
 
-Vendredi 20 novembre 2026 à 14h.
+📅 Vendredi 20 novembre 2026 à 14h.
 
 Ce webinaire sera en anglais. 
 
