@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""It runs on my machine" — experiences from the SwissRN workshops on Computational Reproducibility"
+title: "It runs on my machine — experiences from the SwissRN workshops on Computational Reproducibility"
 date: 2026-11-20 14:00 +0100
 categories: past-webinaires
 tags: slides
