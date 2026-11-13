@@ -26,6 +26,7 @@ Nous relayons également des wébinaires sur des sujets connexes qui peuvent in�
  {%- endfor -%}
 </ul>
 
+<!--
 #### Agenda 
 Notez dès à présent sur vos agendas les évènements à venir :
 
@@ -34,8 +35,8 @@ Notez dès à présent sur vos agendas les évènements à venir :
 * 20 Novembre : webinaire de présentation des activités du réseau suisse, Fabio Molo 
 * 12 Mars 2027 : Go with the (Work)Flow! Creating Reusable and Replicable Workflows for Digital Humanities Research, Anne Baillot
 
-Plus d'infomration très prochainement !
-
+Plus d'information très prochainement !
+-->
 #### Wébinaires passés
 Vous pourrez retrouver les vidéos et les présentations associées aux wébinaires en cliquant sur le titre.
 <ul class="post-list">
