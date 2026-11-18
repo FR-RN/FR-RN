@@ -12,7 +12,9 @@ categories: newsletter
 
 - Le prochain **webinaire** "It runs on my machine" — experiences from the SwissRN workshops on Computational Reproducibility" aura lieu le 20 novembre à 14h. Plus d'informations sur [cette page](https://www.recherche-reproductible.fr/webinaires/2026/11/20/repro-comput-Molo.html).
 - La présentation de l'assemblée des membres du réseau est [en ligne](https://www.recherche-reproductible.fr/event-network/2026/11/06/Visio-membres-reseau.html). Le [pad](https://docs.numerique.gouv.fr/docs/fb8f2def-b4f4-4e25-9dfc-1ab9f4b1a26e/) est toujours accessible, n'hésitez pas le consulter et le remplir. 
+
 ### A voir ou revoir :
+
 Les présentations et les vidéos des deux dernières présentations sont en ligne :
 - [1/2 journées des jeunes chercheurs](https://www.recherche-reproductible.fr/past-webinaires/2026/10/08/Visio-repro-doctorants.html) du 8 octobre 2026
 - [webinaire "Enjeux de reproductibilité à travers le prisme des mobilités et la revue de deux articles"](https://www.recherche-reproductible.fr/past-webinaires/2026/09/18/repro-mobilite.html) du 18 septembre à 14h. 
