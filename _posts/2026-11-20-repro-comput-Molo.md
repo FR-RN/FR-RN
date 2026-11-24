@@ -18,4 +18,6 @@ Fabio Molo est manager du [CRS](https://www.swissrn.org/) (Center for Reproducib
 
 
 Vous pouvez retrouver la vidéo ici [📺](https://www.canal-u.tv/chaines/rfrr/it-runs-on-my-machine-experiences-from-the-swissrn-workshops-on-computational).
+
+
 Vous pouvez retrouver la présentation du réseau suisse ici [📂](/assets/pdfs/SwissRN_Intro.pdf) et de la formation ici [📂](/assets/pdfs/SwissRN_OPeR-RA_workshops.pdf).
