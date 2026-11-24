@@ -2,7 +2,7 @@
 layout: post
 title: "It runs on my machine - experiences from the SwissRN workshops on Computational Reproducibility"
 date: 2026-11-20 14:00 +0100
-categories: webinaires
+categories: past-webinaires
 tags: slides
 ---
 *"It runs on my machine" - experiences from the SwissRN workshops on Computational Reproducibility*
@@ -16,6 +16,6 @@ Fabio Molo est manager du [CRS](https://www.swissrn.org/) (Center for Reproducib
 
 📅 Vendredi 20 novembre 2026 à 14h.
 
-Ce webinaire sera en anglais. 
 
-📍 Il aura lieu [en visio sur ce lien](https://webinaire.numerique.gouv.fr/meeting/signin/invite/76946/hash/c17c9bd057d4fac07fd02f8b9646d6bd8a4400cb)
+Vous pouvez retrouver la vidéo ici [📺](https://www.canal-u.tv/chaines/rfrr/it-runs-on-my-machine-experiences-from-the-swissrn-workshops-on-computational).
+Vous pouvez retrouver la présentation du réseau suisse ici [📂](/assets/pdfs/SwissRN_Intro.pdf) et de la formation ici [📂](/assets/pdfs/SwissRN_OPeR-RA_workshops.pdf).
